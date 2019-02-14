@@ -8,6 +8,12 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="b" />
+  </action>
+  <action id="Git.Tag">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="t" />
+  </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="meta escape" />
