@@ -1,20 +1,20 @@
 <templateSet group="Spock">
-  <template name="ex" value="expect:&#10;    $END$" description="expect:" toReformat="false" toShortenFQNames="true">
+  <template name="ex" value="expect:&#10;$END$" description="expect:" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="GROOVY" value="true" />
     </context>
   </template>
-  <template name="wh" value="when:&#10;    $END$" description="when:" toReformat="false" toShortenFQNames="true">
+  <template name="wh" value="when:&#10;$END$" description="when:" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="GROOVY" value="true" />
     </context>
   </template>
-  <template name="th" value="then:&#10;    $END$" description="then:" toReformat="false" toShortenFQNames="true">
+  <template name="th" value="then:&#10;$END$" description="then:" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="GROOVY" value="true" />
     </context>
   </template>
-  <template name="gi" value="gi:&#10;    $END$" description="given:" toReformat="false" toShortenFQNames="true">
+  <template name="gi" value="given:&#10;$END$" description="given:" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="GROOVY" value="true" />
     </context>
@@ -22,6 +22,18 @@
   <template name="d" value="def &quot;$1$&quot;() {&#10;    when:&#10;    $2$&#10;    then:&#10;    $END$&#10;}" description="spock test" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="im" value="def &quot;Immutable $EDIT$&quot;() {&#10;    when:&#10;    spec.$EDIT$ = null&#10;    then:&#10;    thrown(ReadOnlyPropertyException)&#10;}&#10;&#10;    $END$" description="spock im test" toReformat="true" toShortenFQNames="true">
+    <variable name="EDIT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="s" value="$1$ spec&#10;&#10;def setup() {&#10;    spec = new $1$($END$)&#10;}" description="spock test setup" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_DECLARATION" value="true" />
     </context>
