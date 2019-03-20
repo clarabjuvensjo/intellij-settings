@@ -20,9 +20,9 @@
       <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
     </exec>
   </tool>
-  <tool name="git-open-remote" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="open-remote" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/git/scripts/sh/git-open-remote.sh" />
+      <option name="COMMAND" value="$USER_HOME$/bin/open-remote" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
     </exec>
