@@ -15,6 +15,7 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="table" type="PLAIN_TEXT" />
       <mapping ext="restclient" type="PLAIN_TEXT" />
+      <mapping ext="bpmn" type="PLAIN_TEXT" />
       <mapping ext="story" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
