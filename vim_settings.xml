@@ -1,8 +1,10 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/Exercises-1.md" timestamp="1560512022446" />
+    </filemarks>
     <jumps />
     <registers />
     <search>
