@@ -1,17 +1,26 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/Exercises-1.md" timestamp="1560512022446" />
+      <file name="$USER_HOME$/git-csl/cd.jenkins.sync/Jenkinsfile" timestamp="1561449326529">
+        <mark key="'" line="35" column="27" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="35" column="27" filename="$USER_HOME$/git-csl/cd.jenkins.sync/Jenkinsfile" />
+    </jumps>
     <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
