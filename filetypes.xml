@@ -10,6 +10,7 @@
       <mapping pattern="student_is_educated_in_addition.story" type="PLAIN_TEXT" />
       <mapping pattern="dog" type="PLAIN_TEXT" />
       <mapping pattern="IEC" type="PLAIN_TEXT" />
+      <mapping pattern="build_commit" type="PLAIN_TEXT" />
       <mapping pattern="slask" type="PLAIN_TEXT" />
       <mapping pattern="eslog" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
