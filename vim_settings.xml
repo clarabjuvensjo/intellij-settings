@@ -13,6 +13,10 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/ssl/CertificateUtil.groovy" timestamp="1574338310357">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="41" column="9" />
+      </file>
       <file name="$USER_HOME$/git/rsimulator/rsimulator-core/src/test/java/com/github/bjuvensjo/rsimulator/core/handler/regexp/TestJsonHandler.java" timestamp="1561987521434">
         <mark key="[" line="33" column="5" />
       </file>
@@ -31,8 +35,8 @@
       <jump line="15" column="36" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/test/se/lf/tfs/git/TfsGitAdapterIT.groovy" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>https://tfs.lfnet.se/tfs/DefaultCollection/CSL/_apis/git/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTU0xDb250ZXh0IHNjID0gU1NMQ29udGV4dC5nZXRJbnN0YW5jZSgiVExTIikKICAgICAgICAgICAgWDUwOVRydXN0TWFuYWdlciB4NTA5VHJ1c3RNYW5hZ2VyID0gbmV3IFg1MDlUcnVzdE1hbmFnZXIoKSB7CiAgICAgICAgICAgICAgICBYNTA5Q2VydGlmaWNhdGVbXSBnZXRBY2NlcHRlZElzc3VlcnMoKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGwKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgdm9pZCBjaGVja0NsaWVudFRydXN0ZWQoWDUwOUNlcnRpZmljYXRlW10gYXJnMCwgU3RyaW5nIGFyZzEpIHRocm93cyBDZXJ0aWZpY2F0ZUV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICAgICAgLy8gTm90IGltcGxlbWVudGVkCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHZvaWQgY2hlY2tTZXJ2ZXJUcnVzdGVkKFg1MDlDZXJ0aWZpY2F0ZVtdIGFyZzAsIFN0cmluZyBhcmcxKSB0aHJvd3MgQ2VydGlmaWNhdGVFeGNlcHRpb24gewogICAgICAgICAgICAgICAgICAgIC8vIE5vdCBpbXBsZW1lbnRlZAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBUcnVzdE1hbmFnZXJbXSB0cnVzdEFsbENlcnRzID0gW3g1MDlUcnVzdE1hbmFnZXJdCiAgICAgICAgICAgIHNjLmluaXQobnVsbCwgdHJ1c3RBbGxDZXJ0cywgbmV3IFNlY3VyZVJhbmRvbSgpKQoKICAgICAgICAgICAgSHR0cHNVUkxDb25uZWN0aW9uLnNldERlZmF1bHRTU0xTb2NrZXRGYWN0b3J5KHNjLmdldFNvY2tldEZhY3RvcnkoKSkKICAgICAgICB9IGNhdGNoIChLZXlNYW5hZ2VtZW50RXhjZXB0aW9uIHwgTm9TdWNoQWxnb3JpdGhtRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oZS5nZXRNZXNzYWdlKCkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text />
