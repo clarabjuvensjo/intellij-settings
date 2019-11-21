@@ -1,8 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git-csp/refactor-cspes/ms.customer.document/src/main/java/slask.groovy" timestamp="1574356515552">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+      </file>
       <file name="$USER_HOME$/git-csl/cd.jenkins.sync/Jenkinsfile" timestamp="1561449326529">
         <mark key="'" line="35" column="27" />
       </file>
