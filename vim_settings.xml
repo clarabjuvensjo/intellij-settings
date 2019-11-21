@@ -14,8 +14,10 @@
         <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/ssl/CertificateUtil.groovy" timestamp="1574338310357">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="41" column="9" />
+        <mark key="]" line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" timestamp="1574340770203">
+        <mark key="'" line="73" column="101" />
       </file>
       <file name="$USER_HOME$/git/rsimulator/rsimulator-core/src/test/java/com/github/bjuvensjo/rsimulator/core/handler/regexp/TestJsonHandler.java" timestamp="1561987521434">
         <mark key="[" line="33" column="5" />
@@ -33,6 +35,9 @@
       <jump line="5" column="21" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/git/TfsGitAdapter.groovy" />
       <jump line="13" column="8" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/test/se/lf/tfs/git/TfsGitAdapterIT.groovy" />
       <jump line="15" column="36" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/test/se/lf/tfs/git/TfsGitAdapterIT.groovy" />
+      <jump line="45" column="12" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" />
+      <jump line="62" column="8" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" />
+      <jump line="73" column="101" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -42,13 +47,13 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZnNQcm90b2NvbEhvc3RQb3J0QW5kUGF0aFw+</text>
+        <text>branch</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZnNQcm90b2NvbEhvc3RQb3J0QW5kUGF0aFw+</last-search>
+      <last-search>branch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZnNQcm90b2NvbEhvc3RQb3J0QW5kUGF0aFw+</last-pattern>
+      <last-pattern>branch</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -58,6 +63,7 @@
         <entry encoding="base64">XDxDZXJ0aWZpY2F0ZVw+</entry>
         <entry encoding="base64">XDxIdHRwc1VSTENvbm5lY3Rpb25cPg==</entry>
         <entry encoding="base64">XDx0ZnNQcm90b2NvbEhvc3RQb3J0QW5kUGF0aFw+</entry>
+        <entry>branch</entry>
       </history-search>
       <history-cmd />
       <history-expr />
