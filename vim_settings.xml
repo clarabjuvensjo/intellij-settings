@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git-csp/refactor-cspes/ms.customer.document/src/main/java/slask.groovy" timestamp="1574356515552">
@@ -20,6 +20,11 @@
       </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/ssl/CertificateUtil.groovy" timestamp="1574338310357">
         <mark key="]" line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/git-csp/ws-csp/pom.xml" timestamp="1574674343008">
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
+        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" timestamp="1574340770203">
         <mark key="'" line="73" column="101" />
@@ -48,8 +53,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTU0xDb250ZXh0IHNjID0gU1NMQ29udGV4dC5nZXRJbnN0YW5jZSgiVExTIikKICAgICAgICAgICAgWDUwOVRydXN0TWFuYWdlciB4NTA5VHJ1c3RNYW5hZ2VyID0gbmV3IFg1MDlUcnVzdE1hbmFnZXIoKSB7CiAgICAgICAgICAgICAgICBYNTA5Q2VydGlmaWNhdGVbXSBnZXRBY2NlcHRlZElzc3VlcnMoKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGwKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgdm9pZCBjaGVja0NsaWVudFRydXN0ZWQoWDUwOUNlcnRpZmljYXRlW10gYXJnMCwgU3RyaW5nIGFyZzEpIHRocm93cyBDZXJ0aWZpY2F0ZUV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICAgICAgLy8gTm90IGltcGxlbWVudGVkCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHZvaWQgY2hlY2tTZXJ2ZXJUcnVzdGVkKFg1MDlDZXJ0aWZpY2F0ZVtdIGFyZzAsIFN0cmluZyBhcmcxKSB0aHJvd3MgQ2VydGlmaWNhdGVFeGNlcHRpb24gewogICAgICAgICAgICAgICAgICAgIC8vIE5vdCBpbXBsZW1lbnRlZAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBUcnVzdE1hbmFnZXJbXSB0cnVzdEFsbENlcnRzID0gW3g1MDlUcnVzdE1hbmFnZXJdCiAgICAgICAgICAgIHNjLmluaXQobnVsbCwgdHJ1c3RBbGxDZXJ0cywgbmV3IFNlY3VyZVJhbmRvbSgpKQoKICAgICAgICAgICAgSHR0cHNVUkxDb25uZWN0aW9uLnNldERlZmF1bHRTU0xTb2NrZXRGYWN0b3J5KHNjLmdldFNvY2tldEZhY3RvcnkoKSkKICAgICAgICB9IGNhdGNoIChLZXlNYW5hZ2VtZW50RXhjZXB0aW9uIHwgTm9TdWNoQWxnb3JpdGhtRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTE9HR0VSLmluZm8oZS5nZXRNZXNzYWdlKCkpCiAgICAgICAgfQo=</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAtPj4K</text>
+      </register>
+      <register name="2" type="8">
+        <text encoding="base64">PCEtLTwKPCEtLTwKPCEtLTw=</text>
+      </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>branch</text>
@@ -74,6 +85,13 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
