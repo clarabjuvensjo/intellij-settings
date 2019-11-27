@@ -27,10 +27,16 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
+      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" timestamp="1574855594400">
+        <mark key="'" line="500" column="42" />
+      </file>
       <file name="$USER_HOME$/git-csp/ws-csp/pom.xml" timestamp="1574674343008">
         <mark key="[" line="239" column="0" />
         <mark key="]" line="239" column="0" />
         <mark key="." line="239" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" timestamp="1574855609855">
+        <mark key="'" line="1686" column="42" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" timestamp="1574774239507">
         <mark key="'" line="45" column="54" />
@@ -58,6 +64,26 @@
       <jump line="62" column="8" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" />
       <jump line="73" column="101" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" />
       <jump line="45" column="54" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" />
+      <jump line="85" column="19" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
+      <jump line="912" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
+      <jump line="934" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
+      <jump line="1308" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
+      <jump line="1330" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
+      <jump line="1703" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
+      <jump line="1725" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
+      <jump line="181" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
+      <jump line="478" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
+      <jump line="500" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
+      <jump line="7" column="7" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
+      <jump line="181" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
+      <jump line="478" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
+      <jump line="500" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
+      <jump line="873" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
+      <jump line="895" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
+      <jump line="1269" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
+      <jump line="1291" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
+      <jump line="1664" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
+      <jump line="1686" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -91,13 +117,13 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>]</text>
+        <text>config</text>
       </register>
     </registers>
     <search>
-      <last-search>]</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>]</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -109,6 +135,7 @@
         <entry encoding="base64">XDx0ZnNQcm90b2NvbEhvc3RQb3J0QW5kUGF0aFw+</entry>
         <entry>branch</entry>
         <entry>]</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
