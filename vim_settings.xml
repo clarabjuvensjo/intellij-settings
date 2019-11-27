@@ -3,14 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-csp/refactor-cspes/ms.customer.document/src/main/java/slask.groovy" timestamp="1574356515552">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="4" column="25" />
-      </file>
-      <file name="$USER_HOME$/git-csl/cd.jenkins.sync/Jenkinsfile" timestamp="1561449326529">
-        <mark key="'" line="35" column="27" />
-      </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/git/TfsGitAdapter.groovy" timestamp="1574329622139">
         <mark key="'" line="5" column="21" />
         <mark key="[" line="85" column="0" />
@@ -21,29 +13,23 @@
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/ssl/CertificateUtil.groovy" timestamp="1574338310357">
         <mark key="]" line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" timestamp="1574774249452">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="13" />
-        <mark key="^" line="12" column="13" />
-        <mark key="." line="12" column="13" />
+      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" timestamp="1574882046736">
+        <mark key="'" line="34" column="14" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="34" column="60" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" timestamp="1574855594400">
         <mark key="'" line="500" column="42" />
       </file>
-      <file name="$USER_HOME$/git-csp/ws-csp/pom.xml" timestamp="1574674343008">
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
-      </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" timestamp="1574855609855">
         <mark key="'" line="1686" column="42" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" timestamp="1574774239507">
-        <mark key="'" line="45" column="54" />
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="45" column="23" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.xml" timestamp="1574881075611">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/rsimulator/rsimulator-core/src/test/java/com/github/bjuvensjo/rsimulator/core/handler/regexp/TestJsonHandler.java" timestamp="1561987521434">
         <mark key="[" line="33" column="5" />
@@ -52,6 +38,53 @@
         <mark key="'" line="15" column="36" />
         <mark key="[" line="13" column="38" />
         <mark key="]" line="13" column="94" />
+      </file>
+      <file name="$USER_HOME$/git-csp/refactor-cspes/ms.customer.document/src/main/java/slask.groovy" timestamp="1574356515552">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/git-csl/cd.jenkins.sync/Jenkinsfile" timestamp="1561449326529">
+        <mark key="'" line="35" column="27" />
+      </file>
+      <file name="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/TestDataUtil.groovy" timestamp="1574887361199">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="13" column="46" />
+        <mark key="k" line="14" column="24" />
+        <mark key="]" line="13" column="51" />
+        <mark key="^" line="13" column="51" />
+        <mark key="." line="13" column="51" />
+      </file>
+      <file name="$USER_HOME$/git-csp/ws-csp/pom.xml" timestamp="1574674343008">
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
+        <mark key="." line="239" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" timestamp="1574774239507">
+        <mark key="'" line="45" column="54" />
+        <mark key="[" line="45" column="24" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="45" column="23" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" timestamp="1574887829493">
+        <mark key="'" line="32" column="25" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="40" column="62" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/slask.groovy" timestamp="1574882757786">
+        <mark key="'" line="13" column="1" />
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/slask/groovy_xml/groovyXml/pom.xml" timestamp="1574882542413">
+        <mark key="[" line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Foo.groovy" timestamp="1574886167111">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="39" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -84,46 +117,86 @@
       <jump line="1291" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
       <jump line="1664" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
       <jump line="1686" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
+      <jump line="17" column="0" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" />
+      <jump line="20" column="29" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" />
+      <jump line="6" column="55" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" />
+      <jump line="24" column="0" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" />
+      <jump line="23" column="37" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" />
+      <jump line="21" column="0" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" />
+      <jump line="28" column="0" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" />
+      <jump line="27" column="25" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" />
+      <jump line="33" column="87" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" />
+      <jump line="34" column="14" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" />
+      <jump line="33" column="102" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/slask.groovy" />
+      <jump line="35" column="1" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/slask.groovy" />
+      <jump line="16" column="3" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="26" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="9" column="4" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="20" column="4" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="28" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="40" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="36" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="32" column="4" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="6" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/TestDataUtil.groovy" />
+      <jump line="2" column="7" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Foo.groovy" />
+      <jump line="19" column="50" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="3" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="11" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="14" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="21" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="6" column="27" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="17" column="26" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
+      <jump line="38" column="25" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0NTTF9tc1xcLi4qX1swLTldK1xcLlswLTldK1xcLngnLAogICAgICAgICAgICAnQ1NMX3plcy5tc1xcLi4qX1swLTldK1xcLlswLTldK1xcLngnCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ0NTTF9tc1xcLi4qY29uZmlndXJhdGlvbl9bMC05XStcXC5bMC05XStcXC54Jwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0NTTF9tc1xcLi4qY29uZmlndXJhdGlvbl9bMC05XStcXC5bMC05XStcXC54JywK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0NTTF9tc1xcLi4qY29uZmlndXJhdGlvbl9bMC05XStcXC5bMC05XStcXC54Jwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnXHRCdWlsZCBzdGFiaWxpdHk6IDEgb3V0IG9mIHRoZSBsYXN0IDMgYnVpbGRzIGZhaWxlZC5cdDY2XG4nICsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnV1x0RGVzY3JpcHRpb25cdCVcbicgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtPj4K</text>
-      </register>
-      <register name="7" type="8">
-        <text encoding="base64">PCEtLTwKPCEtLTwKPCEtLTw=</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>2</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRYbWwodGhpcy5jbGFzcywgJ05hbWVzcGFjZWRUZW1wbGF0ZS54bWwnKS53aXRoIHsgCiAgICAgICAgICAgIEJvZHkuR2V0VGlja2V0RGF0YVJlc3BvbnNlLkdldFRpY2tldERhdGFSZXN1bHQud2l0aCB7CiAgICAgICAgICAgICAgICBVc2VySWQgPSAnVXNlcklkMicKICAgICAgICAgICAgICAgIElQID0gJ0lQMicKICAgICAgICAgICAgfQogICAgICAgICAgICBzYXZlWG1sKHRoaXMuY2xhc3MsICduYW1lc3BhY2VkVGVzdDInLCAnZjIueG1sJywgaXQpCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzYXZlWG1sKHRoaXMuY2xhc3MsICduYW1lc3BhY2VkVGVzdDInLCAnZjEueG1sJywgeG1sKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSVAgPSAnSVAxJwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVXNlcklkID0gJ1VzZXJJZDEnCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB4bWwuQm9keS5HZXRUaWNrZXREYXRhUmVzcG9uc2UuR2V0VGlja2V0RGF0YVJlc3VsdC53aXRoIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZWYgeG1sID0gZ2V0WG1sKHRoaXMuY2xhc3MsICdOYW1lc3BhY2VkVGVtcGxhdGUueG1sJykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzYXZlWG1sKHRoaXMuY2xhc3MsICduYW1lc3BhY2VkVGVzdDInLCAnZjIueG1sJywgeG1sKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB4bWwgPSBnZXRYbWwodGhpcy5jbGFzcywgJ05hbWVzcGFjZWRUZW1wbGF0ZS54bWwnKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvL2dldFhtbCh0aGlzLmNsYXNzLCAnTmFtZXNwYWNlZFRlbXBsYXRlLnhtbCcpLndpdGggewogICAgICAgIC8vICAgIEJvZHkuR2V0VGlja2V0RGF0YVJlc3BvbnNlLkdldFRpY2tldERhdGFSZXN1bHQuVXNlcklkID0gJ1VzZXJJZDInCiAgICAgICAgLy8gICAgQm9keS5HZXRUaWNrZXREYXRhUmVzcG9uc2UuR2V0VGlja2V0RGF0YVJlc3VsdC5JUCA9ICdJUDInCiAgICAgICAgLy8gICAgc2F2ZVhtbCh0aGlzLmNsYXNzLCAnTmFtZXNwYWNlZFRlc3QyLnhtbCcsIGl0KQogICAgICAgIC8vfQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/td\.//g</text>
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>2</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>2</last-pattern>
+      <last-replace />
+      <last-substitute>td\.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -136,9 +209,22 @@
         <entry>branch</entry>
         <entry>]</entry>
         <entry>config</entry>
+        <entry>)</entry>
+        <entry>(</entry>
+        <entry>User</entry>
+        <entry>'</entry>
+        <entry>src</entry>
+        <entry>Use</entry>
+        <entry>xml.</entry>
+        <entry>xml</entry>
+        <entry>print</entry>
+        <entry>td\.</entry>
+        <entry>getXml</entry>
+        <entry>2</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>%s/td\.//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
