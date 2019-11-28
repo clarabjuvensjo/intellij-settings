@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/git/TfsGitAdapter.groovy" timestamp="1574329622139">
