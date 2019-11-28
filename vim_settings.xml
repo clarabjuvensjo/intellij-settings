@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/git/TfsGitAdapter.groovy" timestamp="1574329622139">
@@ -10,13 +10,13 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" timestamp="1574933064880">
-        <mark key="a" line="187" column="56" />
-        <mark key="'" line="193" column="57" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
-        <mark key="^" line="187" column="3" />
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" timestamp="1574935348388">
+        <mark key="a" line="188" column="56" />
+        <mark key="'" line="99" column="61" />
+        <mark key="[" line="188" column="14" />
+        <mark key="]" line="188" column="16" />
+        <mark key="." line="188" column="16" />
+        <mark key="^" line="188" column="16" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/ssl/CertificateUtil.groovy" timestamp="1574338310357">
         <mark key="]" line="2" column="9" />
@@ -47,6 +47,11 @@
         <mark key="[" line="13" column="38" />
         <mark key="]" line="13" column="94" />
       </file>
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/resources/se/lf/csl/common/test/ast/AbstractSpecificationTestTemplate.xml" timestamp="1574933868782">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git-csp/refactor-cspes/ms.customer.document/src/main/java/slask.groovy" timestamp="1574356515552">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="4" column="25" />
@@ -61,6 +66,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" timestamp="1574934712387">
+        <mark key="[" line="49" column="27" />
+        <mark key="]" line="49" column="27" />
+        <mark key="^" line="57" column="11" />
+        <mark key="." line="49" column="27" />
+      </file>
       <file name="$USER_HOME$/git-csp/ws-csp/pom.xml" timestamp="1574931374192">
         <mark key="'" line="190" column="55" />
         <mark key="[" line="25" column="47" />
@@ -74,10 +85,15 @@
         <mark key="^" line="45" column="23" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" timestamp="1574926762136">
+      <file name="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/resources/mygroup/groovyXml/NamespacedTemplate.xml" timestamp="1574933863385">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="16" />
+      </file>
+      <file name="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" timestamp="1574934595657">
         <mark key="'" line="27" column="30" />
-        <mark key="[" line="26" column="51" />
-        <mark key="]" line="26" column="7" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="51" />
         <mark key="." line="26" column="7" />
         <mark key="^" line="26" column="7" />
       </file>
@@ -168,72 +184,66 @@
       <jump line="11" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/TestDataUtil.groovy" />
       <jump line="199" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="193" column="57" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
+      <jump line="192" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
+      <jump line="203" column="4" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
+      <jump line="187" column="4" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
+      <jump line="98" column="61" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
+      <jump line="13" column="14" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/resources/mygroup/groovyXml/NamespacedTemplate.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/resources/mygroup/groovyXml/NamespacedTemplate.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text>NamespacedTemplate.xml</text>
       </register>
       <register name="/" type="4">
-        <text>filena</text>
+        <text>testna</text>
       </register>
-      <register name="0" type="4">
-        <text>def create(String testName, String template, String fileName, Closure c) {
-        URI packageUri = this.class.getResource('.').toURI()
-        def xml = new XmlSlurper().parse(new File(&quot;$packageUri.path$template&quot;))
-        
-        xml.with(c)
-
-        File file = new File(&quot;$packageUri.path$testName/$fileName&quot;)
-        file.parentFile.mkdirs()
-        new FileWriter(file).with {
-            XmlUtil.serialize(xml, it)
-        }
-    }
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGVtcGxhdGUgPSAnTmFtZXNwYWNlZFRlbXBsYXRlLnhtbCcgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBldFJlc3RUZW1wbGF0ZVByb3ZpZGVyKCkgIT0gbnVsbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBjcmVhdGUoU3RyaW5nIHRlc3ROYW1lLCBTdHJpbmcgdGVtcGxhdGUsIFN0cmluZyBmaWxlTmFtZSwgQ2xvc3VyZSBjKSB7CiAgICAgICAgVVJJIHBhY2thZ2VVcmkgPSB0aGlzLmNsYXNzLmdldFJlc291cmNlKCcuJykudG9VUkkoKQogICAgICAgIGRlZiB4bWwgPSBuZXcgWG1sU2x1cnBlcigpLnBhcnNlKG5ldyBGaWxlKCIkcGFja2FnZVVyaS5wYXRoJHRlbXBsYXRlIikpCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgc2F2ZVhtbChDbGFzcyB0ZXN0Q2xhc3MsIFN0cmluZyB0ZXN0LCBTdHJpbmcgZmlsZU5hbWUsIHhtbCkgewogICAgICAgIFVSSSBwYWNrYWdlVXJpID0gdGVzdENsYXNzLmdldFJlc291cmNlKCcuJykudG9VUkkoKQogICAgICAgIEZpbGUgZmlsZSA9IG5ldyBGaWxlKCIkcGFja2FnZVVyaS5wYXRoJHRlc3QvJGZpbGVOYW1lIikKICAgICAgICBmaWxlLnBhcmVudEZpbGUubWtkaXJzKCkKICAgICAgICBuZXcgRmlsZVdyaXRlcihmaWxlKS53aXRoIHsKICAgICAgICAgICAgWG1sVXRpbC5zZXJpYWxpemUoeG1sLCBpdCkKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgdGVzdENhc2VOdW1iZXIgPSBnZXRUZXN0Q2FzZU51bWJlcihuYW1lLm1ldGhvZE5hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0WG1sKENsYXNzIHRlc3RDbGFzcywgU3RyaW5nIHRlbXBsYXRlKSB7CiAgICAgICAgVVJJIHBhY2thZ2VVcmkgPSB0ZXN0Q2xhc3MuZ2V0UmVzb3VyY2UoJy4nKS50b1VSSSgpCiAgICAgICAgbmV3IFhtbFNsdXJwZXIoKS5wYXJzZShuZXcgRmlsZSgiJHBhY2thZ2VVcmkucGF0aCR0ZW1wbGF0ZSIpKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBVUkkgcGFja2FnZVVyaSA9IHRoaXMuY2xhc3MuZ2V0UmVzb3VyY2UoJy4nKS50b1VSSSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlWG1sKHRoaXMuY2xhc3MsIHRlc3ROYW1lLCBmaWxlTmFtZSwgeG1sKQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0TmFtZSA9IG5hbWUubWV0aG9kTmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgeG1sID0gZ2V0WG1sKHRoaXMuY2xhc3MsIHRlbXBsYXRlKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZVhtbCh0aGlzLmNsYXNzLCAnbm90TmFtZXNwYWNlZFRlc3QnLCAnTm90TmFtZXNwYWNlZFRlc3QueG1sJywgaXQpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBjcmVhdGUoU3RyaW5nIHRlc3ROYW1lLCBTdHJpbmcgdGVtcGxhdGUsIFN0cmluZyBmaWxlTmFtZSwgQ2xvc3VyZSBjKSB7CiAgICAgICAgVVJJIHBhY2thZ2VVcmkgPSB0aGlzLmNsYXNzLmdldFJlc291cmNlKCcuJykudG9VUkkoKQogICAgICAgIGRlZiB4bWwgPSBuZXcgWG1sU2x1cnBlcigpLnBhcnNlKG5ldyBGaWxlKCIkcGFja2FnZVVyaS5wYXRoJHRlbXBsYXRlIikpCiAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRYbWwodGhpcy5jbGFzcywgJ05vdE5hbWVzcGFjZWRUZW1wbGF0ZS54bWwnKS53aXRoIHsK</text>
+        <text encoding="base64">CiAgICBkZWYgc2F2ZVhtbChDbGFzcyB0ZXN0Q2xhc3MsIFN0cmluZyB0ZXN0LCBTdHJpbmcgZmlsZU5hbWUsIHhtbCkgewogICAgICAgIFVSSSBwYWNrYWdlVXJpID0gdGVzdENsYXNzLmdldFJlc291cmNlKCcuJykudG9VUkkoKQogICAgICAgIEZpbGUgZmlsZSA9IG5ldyBGaWxlKCIkcGFja2FnZVVyaS5wYXRoJHRlc3QvJGZpbGVOYW1lIikKICAgICAgICBmaWxlLnBhcmVudEZpbGUubWtkaXJzKCkKICAgICAgICBuZXcgRmlsZVdyaXRlcihmaWxlKS53aXRoIHsKICAgICAgICAgICAgWG1sVXRpbC5zZXJpYWxpemUoeG1sLCBpdCkKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZVhtbCh0aGlzLmNsYXNzLCAnbmFtZXNwYWNlZFRlc3QxJywgJ05hbWVzcGFjZWRUZXN0MS54bWwnLCBpdCkK</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0WG1sKENsYXNzIHRlc3RDbGFzcywgU3RyaW5nIHRlbXBsYXRlKSB7CiAgICAgICAgVVJJIHBhY2thZ2VVcmkgPSB0ZXN0Q2xhc3MuZ2V0UmVzb3VyY2UoJy4nKS50b1VSSSgpCiAgICAgICAgbmV3IFhtbFNsdXJwZXIoKS5wYXJzZShuZXcgRmlsZSgiJHBhY2thZ2VVcmkucGF0aCR0ZW1wbGF0ZSIpKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/td\.//g</text>
       </register>
     </registers>
     <search>
-      <last-search>filena</last-search>
+      <last-search>testna</last-search>
       <last-offset />
-      <last-pattern>filena</last-pattern>
+      <last-pattern>testna</last-pattern>
       <last-replace />
       <last-substitute>td\.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxIdHRwc1VSTENvbm5lY3Rpb25cPg==</entry>
         <entry encoding="base64">XDx0ZnNQcm90b2NvbEhvc3RQb3J0QW5kUGF0aFw+</entry>
         <entry>branch</entry>
         <entry>]</entry>
@@ -253,6 +263,7 @@
         <entry>2</entry>
         <entry>ast</entry>
         <entry>filena</entry>
+        <entry>testna</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -270,6 +281,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
