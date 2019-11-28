@@ -63,9 +63,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" timestamp="1574940669712">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="11" />
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" timestamp="1574941520965">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="30" />
         <mark key="^" line="57" column="11" />
         <mark key="." line="57" column="11" />
       </file>
@@ -203,8 +203,8 @@
       <register name="/" type="4">
         <text>xml</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVkWG1sLmNvbnRhaW5zKCdVc2VySWQxJykK</text>
+      <register name="0" type="4">
+        <text>AbstractSpecificationTest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZWFkWG1sKCc0L2YxLnhtbCcpICE9IG51bGwK</text>
