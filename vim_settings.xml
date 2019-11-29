@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" timestamp="1575020932481">
@@ -108,13 +108,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" timestamp="1575031890975">
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" timestamp="1575032214262">
         <mark key="'" line="76" column="13" />
-        <mark key="[" line="76" column="61" />
+        <mark key="[" line="88" column="17" />
         <mark key="l" line="13" column="2" />
-        <mark key="]" line="76" column="62" />
-        <mark key="^" line="73" column="45" />
-        <mark key="." line="73" column="108" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="87" column="23" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/XmlSupport.groovy" timestamp="1575031523353">
         <mark key="'" line="25" column="8" />
@@ -244,40 +244,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>for unchanged request</text>
+        <text>[request: { Body.Request.UserId = '2' }, response: { Body.Response.Message = 'Message 2' }]</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxTdXBwb3J0LmNyZWF0ZVhtbCgKICAgICAgICAgICAgICAgICdUZW1wbGF0ZUJhY2tlbmQxJywKICAgICAgICAgICAgICAgIHt9LAogICAgICAgICAgICAgICAge0JvZHkuUmVzcG9uc2UuTWVzc2FnZSA9ICdNZXNzYWdlIGZvciB1bmNoYW5nZWQgcmVxdWVzdCd9CiAgICAgICAgKQo=</text>
+      <register name="0" type="4">
+        <text>{ Body.Response.Message = 'Message 1' })</text>
       </register>
-      <register name="1" type="4">
-        <text>for unchanged request</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRlbXBsYXRlQjE6IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBUZW1wbGF0ZUIxOiBbcmVxdWVzdDogeyBCb2R5LlJlcXVlc3QuVXNlcklkID0gJzInIH0sIHJlc3BvbnNlOiB7IEJvZHkuUmVzcG9uc2UuTWVzc2FnZSA9ICdNZXNzYWdlIDInIH1dCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+      <register name="3" type="4">
+        <text>for unchanged request</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtCb2R5LlJlc3BvbnNlLk1lc3NhZ2UgPSAnTWVzc2FnZSBmb3IgdW5jaGFuZ2VkIHJlcXVlc3QnfQo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt9LAo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdUZW1wbGF0ZUJhY2tlbmQxJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHtCb2R5LlJlc3BvbnNlLk1lc3NhZ2UgPSAnTWVzc2FnZSBmb3IgdW5jaGFuZ2VkIHJlcXVlc3QnfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxTdXBwb3J0LmNyZWF0ZSgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZVhtbCh0ZXN0Q2FzZU51bWJlciwgIiR7Y291bnR9XyR7cmVzcG9uc2VOYW1lfSIsIHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdUZW1wbGF0ZUJhY2tlbmQxJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZVhtbCh0ZXN0Q2FzZU51bWJlciwgIiR7Y291bnR9XyR7cmVxdWVzdE5hbWV9IiwgcmVxdWVzdCkK</text>
+        <text encoding="base64">ICAgICAgICB4bWxTdXBwb3J0LmNyZWF0ZSgK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0JhY2tlbmQvQi9nYw==</text>
