@@ -3,16 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/git/TfsGitAdapter.groovy" timestamp="1574329622139">
-        <mark key="'" line="5" column="21" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="87" column="25" />
-        <mark key="." line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-      </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" timestamp="1574940550179">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" timestamp="1575020597760">
+        <mark key="'" line="199" column="0" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="208" column="0" />
         <mark key="." line="193" column="0" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/ssl/CertificateUtil.groovy" timestamp="1574338310357">
@@ -54,6 +48,12 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/Slask.groovy" timestamp="1575020559711">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+      </file>
       <file name="$USER_HOME$/git-csl/cd.jenkins.sync/Jenkinsfile" timestamp="1561449326529">
         <mark key="'" line="35" column="27" />
       </file>
@@ -63,11 +63,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" timestamp="1574942861188">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="57" column="11" />
-        <mark key="." line="57" column="11" />
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" timestamp="1575020496756">
+        <mark key="'" line="57" column="18" />
+        <mark key="[" line="57" column="18" />
+        <mark key="]" line="58" column="20" />
+        <mark key="^" line="58" column="20" />
+        <mark key="." line="58" column="20" />
       </file>
       <file name="$USER_HOME$/git-csp/ws-csp/pom.xml" timestamp="1574931374192">
         <mark key="'" line="190" column="55" />
@@ -86,6 +87,13 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="16" />
+      </file>
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/XmlUtil.groovy" timestamp="1575020775037">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" timestamp="1574934595657">
         <mark key="'" line="27" column="30" />
@@ -179,7 +187,6 @@
       <jump line="10" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/TestDataUtil.groovy" />
       <jump line="6" column="4" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/TestDataUtil.groovy" />
       <jump line="11" column="0" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/TestDataUtil.groovy" />
-      <jump line="199" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="193" column="57" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="203" column="4" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="187" column="4" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
@@ -191,56 +198,60 @@
       <jump line="197" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="188" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="192" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
-      <jump line="194" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="210" column="8" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="208" column="47" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="195" column="17" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
+      <jump line="57" column="18" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" />
+      <jump line="189" column="16" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
+      <jump line="194" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
+      <jump line="199" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
+      <jump line="8" column="4" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/XmlUtil.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>UserId1</text>
+        <text>provate</text>
       </register>
       <register name="/" type="4">
-        <text>xml</text>
+        <text>do</text>
       </register>
-      <register name="0" type="4">
-        <text>AbstractSpecificationTest</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBjcmVhdGVYbWwoU3RyaW5nIHRlbXBsYXRlLCBTdHJpbmcgZmlsZU5hbWUsIENsb3N1cmUgYykgewogICAgICAgIEdQYXRoUmVzdWx0IHhtbCA9IHJlYWRYbWwodGVtcGxhdGUpCiAgICAgICAgeG1sLndpdGgoYykKICAgICAgICB3cml0ZVhtbChnZXRUZXN0Q2FzZU51bWJlcihuYW1lLm1ldGhvZE5hbWUpLCBmaWxlTmFtZSwgeG1sKQogICAgfQoKICAgIGRlZiByZWFkWG1sKFN0cmluZyBmaWxlTmFtZSkgewogICAgICAgIFVSSSBwYWNrYWdlVXJpID0gdGhpcy5jbGFzcy5nZXRSZXNvdXJjZSgnLicpLnRvVVJJKCkKICAgICAgICBuZXcgWG1sU2x1cnBlcigpLnBhcnNlKG5ldyBGaWxlKCIkcGFja2FnZVVyaS5wYXRoJGZpbGVOYW1lIikpCiAgICB9CgogICAgZGVmIHdyaXRlWG1sKFN0cmluZyB0ZXN0LCBTdHJpbmcgZmlsZU5hbWUsIEdQYXRoUmVzdWx0IHhtbCkgewogICAgICAgIFVSSSBwYWNrYWdlVXJpID0gdGhpcy5jbGFzcy5nZXRSZXNvdXJjZSgnLicpLnRvVVJJKCkKICAgICAgICBGaWxlIHhtbEZpbGUgPSBuZXcgRmlsZSgiJHBhY2thZ2VVcmkucGF0aCR0ZXN0LyRmaWxlTmFtZSIpCiAgICAgICAgeG1sRmlsZS5wYXJlbnRGaWxlLm1rZGlycygpCiAgICAgICAgbmV3IEZpbGVXcml0ZXIoeG1sRmlsZSkud2l0aCB7CiAgICAgICAgICAgIFhtbFV0aWwuc2VyaWFsaXplKHhtbCwgaXQpCiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkWG1sKCc0L2YxLnhtbCcpICE9IG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL30K</text>
+        <text encoding="base64">ICAgIGRlZiBkb0l0KCkgewogICAgICAgIHByaW50bG4oJyMnICogODApCiAgICAgICAgcHJpbnRsbihuYW1lLm1ldGhvZE5hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICB3cml0ZVhtbChnZXRUZXN0Q2FzZU51bWJlcihuYW1lLm1ldGhvZE5hbWUpLCBmaWxlTmFtZSwgaXQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICBjLmNhbGwoaXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JlYWRYbWwodGVtcGxhdGUpLndpdGggewo=</text>
+        <text encoding="base64">ICAgICAgICByZWFkWG1sKCc0L2YxLnhtbCcpICE9IG51bGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjLmNhCg==</text>
+        <text encoding="base64">ICAgICAgICAvL30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICB3cml0ZVhtbChnZXRUZXN0Q2FzZU51bWJlcihuYW1lLm1ldGhvZE5hbWUpLCBmaWxlTmFtZSwgaXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/td\.//g</text>
       </register>
     </registers>
     <search>
-      <last-search>xml</last-search>
+      <last-search>do</last-search>
       <last-offset />
-      <last-pattern>xml</last-pattern>
+      <last-pattern>do</last-pattern>
       <last-replace />
       <last-substitute>td\.</last-substitute>
       <last-dir>1</last-dir>
@@ -248,7 +259,6 @@
     </search>
     <history>
       <history-search>
-        <entry>]</entry>
         <entry>config</entry>
         <entry>)</entry>
         <entry>User</entry>
@@ -268,6 +278,7 @@
         <entry>templ</entry>
         <entry>test</entry>
         <entry>xml</entry>
+        <entry>do</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
