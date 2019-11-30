@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" timestamp="1575118335648">
-        <mark key="'" line="39" column="44" />
-        <mark key="[" line="34" column="89" />
-        <mark key="]" line="34" column="89" />
-        <mark key="." line="34" column="89" />
-        <mark key="^" line="20" column="41" />
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" timestamp="1575119887091">
+        <mark key="'" line="10" column="24" />
+        <mark key="[" line="59" column="16" />
+        <mark key="]" line="59" column="16" />
+        <mark key="." line="59" column="16" />
+        <mark key="^" line="34" column="31" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" timestamp="1575020932481">
         <mark key="'" line="199" column="0" />
@@ -151,10 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="478" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
-      <jump line="500" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
-      <jump line="873" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
-      <jump line="895" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
       <jump line="1269" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
       <jump line="1291" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
       <jump line="1664" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" />
@@ -241,7 +237,6 @@
       <jump line="18" column="9" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="19" column="41" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="21" column="59" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="42" column="59" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="29" column="33" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="26" column="4" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="66" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
@@ -251,13 +246,18 @@
       <jump line="37" column="47" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="39" column="8" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="48" column="44" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
+      <jump line="42" column="16" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
+      <jump line="6" column="54" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
+      <jump line="8" column="41" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
+      <jump line="10" column="24" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>d</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYWlyc1w+</text>
+        <text>Templ</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjcmVhdGVQYWlyKFsodGVtcGxhdGUpOiBbWzpdXV0pCg==</text>
@@ -294,9 +294,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYWlyc1w+</last-search>
+      <last-search>Templ</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYWlyc1w+</last-pattern>
+      <last-pattern>Templ</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>Backend</last-substitute>
       <last-dir>1</last-dir>
@@ -304,7 +304,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UserId</entry>
         <entry>Re</entry>
         <entry>}</entry>
         <entry>Message</entry>
@@ -324,6 +323,7 @@
         <entry>xml</entry>
         <entry>4</entry>
         <entry encoding="base64">XDxwYWlyc1w+</entry>
+        <entry>Templ</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
