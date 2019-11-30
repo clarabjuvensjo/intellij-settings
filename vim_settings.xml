@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" timestamp="1575150918764">
-        <mark key="'" line="105" column="100" />
-        <mark key="[" line="105" column="100" />
-        <mark key="]" line="105" column="101" />
-        <mark key="." line="105" column="101" />
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" timestamp="1575152037072">
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/resources/se/lf/csl/common/test/ast/xml/B1Request.xml" timestamp="1575128257980">
         <mark key="[" line="0" column="14" />
@@ -171,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="26" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
       <jump line="38" column="25" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
       <jump line="43" column="81" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
       <jump line="44" column="32" filename="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/Testish.groovy" />
@@ -261,7 +259,6 @@
       <jump line="78" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="79" column="110" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="104" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="105" column="100" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="43" column="15" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="56" column="96" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="65" column="19" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
@@ -271,52 +268,54 @@
       <jump line="99" column="11" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="100" column="43" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="24" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/slask.groovy" />
+      <jump line="105" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
+      <jump line="199" column="3" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>met</text>
+        <text>5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpdmF0ZSBTdHJpbmcgZ2V0VGVzdENhc2VOdW1iZXIoU3RyaW5nIG1ldGhvZE5hbWUpIHsKICAgIG1ldGhvZE5hbWUuZmluZCgvXlxkKy8pID86ICcwJwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgWzpdLAogICAgICAgICAgICAgICAgICAgICAgICBbUmVxdWVzdDogeyBCb2R5LlJlcXVlc3QuVXNlcklkID0gJzMnIH1dLAogICAgICAgICAgICAgICAgICAgICAgICBbUmVzcG9uc2U6IHsgQm9keS5SZXNwb25zZS5NZXNzYWdlID0gJ01lc3NhZ2UgMScgfV0sCiAgICAgICAgICAgICAgICAgICAgICAgIFtSZXF1ZXN0OiB7IEJvZHkuUmVxdWVzdC5Vc2VySWQgPSAnMicgfSwgUmVzcG9uc2U6IHsgQm9keS5SZXNwb25zZS5NZXNzYWdlID0gJ01lc3NhZ2UgMicgfV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldFRlc3RDYXNlTnVtYmVyKFN0cmluZyBtZXRob2ROYW1lKSB7CiAgICAgICAgZGVmIG1hdGNoZXIgPSAobWV0aG9kTmFtZSA9fiAvXlxkKy8pCiAgICAgICAgbWF0Y2hlci5maW5kKCkgPyBtYXRjaGVyWzBdIDogJzAnCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">ICAgICAgICB0aGVuOgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZQogICAgZGVmIHdyaXRlWG1sKFN0cmluZyB0ZXN0LCBTdHJpbmcgZmlsZU5hbWUsIEdQYXRoUmVzdWx0IHhtbCkgewogICAgICAgIFVSSSBwYWNrYWdlVXJpID0gdGhpcy5jbGFzcy5nZXRSZXNvdXJjZSgnLicpLnRvVVJJKCkKICAgICAgICBGaWxlIHhtbEZpbGUgPSBuZXcgRmlsZSgiJHBhY2thZ2VVcmkucGF0aCR0ZXN0LyRmaWxlTmFtZSIpCiAgICAgICAgeG1sRmlsZS5wYXJlbnRGaWxlLm1rZGlycygpCiAgICAgICAgbmV3IEZpbGVXcml0ZXIoeG1sRmlsZSkud2l0aCB7CiAgICAgICAgICAgIFhtbFV0aWwuc2VyaWFsaXplKHhtbCwgaXQpCiAgICAgICAgfQogICAgfQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsnQjInLCBbW1JlcXVlc3Q6IHsgQm9keS5SZXF1ZXN0LklkID0gJzQnIH0sIFJlc3BvbnNlOiB7IEJvZHkuUmVzcG9uc2UuRm9vID0gJ0Zvb1ZhbHVlJyB9XV1dKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZgogICAgZGVmIHJlYWRYbWwoU3RyaW5nIGZpbGVOYW1lKSB7CiAgICAgICAgVVJJIHBhY2thZ2VVcmkgPSB0aGlzLmNsYXNzLmdldFJlc291cmNlKCcuJykudG9VUkkoKQogICAgICAgIG5ldyBYbWxTbHVycGVyKCkucGFyc2UobmV3IEZpbGUoIiRwYWNrYWdlVXJpLnBhdGgkZmlsZU5hbWUiKSkKICAgIH0K</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgW1JlcXVlc3Q6IHsgQm9keS5SZXF1ZXN0LlVzZXJJZCA9ICcyJyB9LCBSZXNwb25zZTogeyBCb2R5LlJlc3BvbnNlLk1lc3NhZ2UgPSAnTWVzc2FnZSAyJyB9XV1dXSwK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGNyZWF0ZVhtbChTdHJpbmcgdGVtcGxhdGUsIFN0cmluZyBmaWxlTmFtZSwgQ2xvc3VyZSBjKSB7CiAgICAgICAgR1BhdGhSZXN1bHQgeG1sID0gcmVhZFhtbCh0ZW1wbGF0ZSkKICAgICAgICB4bWwud2l0aChjKQogICAgICAgIHdyaXRlWG1sKGdldFRlc3RDYXNlTnVtYmVyKG5hbWUubWV0aG9kTmFtZSksIGZpbGVOYW1lLCB4bWwpCiAgICB9Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgW1Jlc3BvbnNlOiB7IEJvZHkuUmVzcG9uc2UuTWVzc2FnZSA9ICdNZXNzYWdlIDEnIH1dLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgW1JlcXVlc3Q6IHsgQm9keS5SZXF1ZXN0LlVzZXJJZCA9ICczJyB9XSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaGVyLmZpbmQoKSA/IG1hdGNoZXJbZmlyc3RNYXRjaF0gOiBkZWZhdWx0VGVzdENhc2VOdW1iZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsnQjEnLCBbWzpdLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZmlyc3RNYXRjaCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICB4bWxTdXBwb3J0LmNyZWF0ZVBhaXIoWwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbWF0Y2hlciA9IChtZXRob2ROYW1lID1+IGZpcnN0RGlnaXRzUGF0dGVybikK</text>
+        <text encoding="base64">ICAgICAgICB3aGVuOgo=</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
       </register>
     </registers>
     <search>
-      <last-search>met</last-search>
+      <last-search>5</last-search>
       <last-offset />
-      <last-pattern>met</last-pattern>
+      <last-pattern>5</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>Backend</last-substitute>
       <last-dir>1</last-dir>
@@ -338,12 +337,12 @@
         <entry>every</entry>
         <entry>00</entry>
         <entry>User</entry>
-        <entry>5</entry>
         <entry>10</entry>
         <entry>)</entry>
         <entry>&quot;</entry>
         <entry>get</entry>
         <entry>met</entry>
+        <entry>5</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
