@@ -1,19 +1,19 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" timestamp="1575116328562">
+        <mark key="[" line="41" column="109" />
+        <mark key="]" line="41" column="111" />
+        <mark key="." line="41" column="111" />
+        <mark key="^" line="41" column="111" />
+      </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" timestamp="1575020932481">
         <mark key="'" line="199" column="0" />
         <mark key="[" line="124" column="0" />
         <mark key="]" line="130" column="5" />
         <mark key="." line="193" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" timestamp="1574855594400">
-        <mark key="'" line="500" column="42" />
-      </file>
-      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseInternalDefinitionTemplate.json" timestamp="1574855609855">
-        <mark key="'" line="1686" column="42" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.xml" timestamp="1574881075611">
         <mark key="[" line="0" column="0" />
@@ -84,6 +84,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/slask.groovy" timestamp="1575111497634">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="3" column="10" />
+      </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.groovy" timestamp="1574882046736">
         <mark key="'" line="34" column="14" />
         <mark key="[" line="35" column="0" />
@@ -99,29 +105,23 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/git-csl/cd.jenkins.sync/Jenkinsfile" timestamp="1561449326529">
-        <mark key="'" line="35" column="27" />
-      </file>
       <file name="$USER_HOME$/slask/groovy_xml/groovyXml/src/main/java/mygroup/groovyXml/TestDataUtil.groovy" timestamp="1574932850317">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="6" column="4" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" timestamp="1575032214262">
-        <mark key="'" line="76" column="13" />
-        <mark key="[" line="88" column="17" />
-        <mark key="l" line="13" column="2" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="87" column="23" />
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" timestamp="1575116137665">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/XmlSupport.groovy" timestamp="1575031523353">
-        <mark key="'" line="25" column="8" />
-        <mark key="[" line="34" column="14" />
-        <mark key="]" line="34" column="13" />
-        <mark key="." line="34" column="13" />
-        <mark key="^" line="34" column="13" />
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/XmlSupport.groovy" timestamp="1575109408975">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="31" column="31" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="31" column="31" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/XmlUtil.groovy" timestamp="1575021377959">
         <mark key="'" line="17" column="33" />
@@ -136,19 +136,14 @@
         <mark key="." line="26" column="7" />
         <mark key="^" line="26" column="7" />
       </file>
+      <file name="/fragment.java" timestamp="1575116073694">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/slask/groovy_xml/groovyXml/pom.xml" timestamp="1574882542413">
         <mark key="[" line="15" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="26" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/git/TfsGitAdapter.groovy" />
-      <jump line="5" column="21" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/git/TfsGitAdapter.groovy" />
-      <jump line="13" column="8" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/test/se/lf/tfs/git/TfsGitAdapterIT.groovy" />
-      <jump line="15" column="36" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/test/se/lf/tfs/git/TfsGitAdapterIT.groovy" />
-      <jump line="62" column="8" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" />
-      <jump line="73" column="101" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" />
-      <jump line="45" column="54" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" />
-      <jump line="85" column="19" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
       <jump line="912" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
       <jump line="934" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
       <jump line="1308" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/resources/se/lf/tfs/definition/releaseDefinitionTemplate.json" />
@@ -241,52 +236,60 @@
       <jump line="86" column="33" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" />
       <jump line="25" column="8" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/XmlSupport.groovy" />
       <jump line="78" column="13" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" />
+      <jump line="55" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" />
+      <jump line="53" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" />
+      <jump line="20" column="18" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
+      <jump line="34" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
+      <jump line="21" column="4" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
+      <jump line="23" column="27" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
+      <jump line="26" column="72" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
+      <jump line="36" column="33" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>[request: { Body.Request.UserId = '2' }, response: { Body.Response.Message = 'Message 2' }]</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>1</text>
       </register>
       <register name="0" type="4">
-        <text>{ Body.Response.Message = 'Message 1' })</text>
+        <text>Response: { Body.Response.Message = 'Message 1' }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRlbXBsYXRlQjE6IAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUZW1wbGF0ZUIxOiBbcmVxdWVzdDogeyBCb2R5LlJlcXVlc3QuVXNlcklkID0gJzInIH0sIHJlc3BvbnNlOiB7IEJvZHkuUmVzcG9uc2UuTWVzc2FnZSA9ICdNZXNzYWdlIDInIH1dCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>for unchanged request</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvL10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAgICAgICBbUmVxdWVzdDogeyBCb2R5LlJlcXVlc3QuSWQgPSAnNScgfSwgUmVzcG9uc2U6IHsgQm9keS5SZXNwb25zZS5CYXIgPSAnQmFyVmFsdWUnIH1dCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtCb2R5LlJlc3BvbnNlLk1lc3NhZ2UgPSAnTWVzc2FnZSBmb3IgdW5jaGFuZ2VkIHJlcXVlc3QnfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAgICAgICBbUmVxdWVzdDogeyBCb2R5LlJlcXVlc3QuSWQgPSAnNCcgfSwgUmVzcG9uc2U6IHsgQm9keS5SZXNwb25zZS5Gb28gPSAnRm9vVmFsdWUnIH1dLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt9LAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgVGVtcGxhdGVCMjogWwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdUZW1wbGF0ZUJhY2tlbmQxJywK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxTdXBwb3J0LmNyZWF0ZSgK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAgICAgICBbUmVxdWVzdDogeyBCb2R5LlJlcXVlc3QuVXNlcklkID0gJzInIH0sIFJlc3BvbnNlOiB7IEJvZHkuUmVzcG9uc2UuTWVzc2FnZSA9ICdNZXNzYWdlIDInIH1dCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0JhY2tlbmQvQi9nYw==</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>1</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>Backend</last-substitute>
       <last-dir>1</last-dir>
@@ -294,7 +297,6 @@
     </search>
     <history>
       <history-search>
-        <entry>3</entry>
         <entry>2</entry>
         <entry>ast</entry>
         <entry>filena</entry>
@@ -314,6 +316,7 @@
         <entry>re</entry>
         <entry>Backend</entry>
         <entry>'</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -339,6 +342,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
