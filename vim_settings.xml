@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" timestamp="1575153258154">
@@ -20,10 +20,10 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" timestamp="1575223130194">
-        <mark key="'" line="55" column="71" />
-        <mark key="[" line="37" column="40" />
-        <mark key="]" line="37" column="42" />
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" timestamp="1575224711626">
+        <mark key="'" line="56" column="71" />
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="37" column="43" />
         <mark key="." line="37" column="42" />
         <mark key="^" line="37" column="42" />
       </file>
@@ -288,8 +288,8 @@
       <register name="/" type="4">
         <text>sig</text>
       </register>
-      <register name="0" type="4">
-        <text>s.getTemplatePath('/templates', 'bar/b1/') + 'B1Request.xml')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcCA9IGdldENsYXNzKCkuZ2V0UmVzb3VyY2UoZ2V0VGVtcGxhdGVQYXRoKHRlbXBsYXRlUm9vdCwgdGVtcGxhdGVQYXRoKSkudG9VUkkoKS5wYXRoCiAgICAgICAgbmV3IFhtbFNsdXJwZXIoKS5wYXJzZShuZXcgRmlsZShwKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
