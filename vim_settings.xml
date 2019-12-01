@@ -20,11 +20,12 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" timestamp="1575215636030">
-        <mark key="'" line="50" column="71" />
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" timestamp="1575223130194">
+        <mark key="'" line="55" column="71" />
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="37" column="42" />
+        <mark key="." line="37" column="42" />
+        <mark key="^" line="37" column="42" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.xml" timestamp="1574881075611">
         <mark key="[" line="0" column="0" />
@@ -282,40 +283,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>getTemplatePath(getTemplatePath())&quot;${getTemplatePath()}$templatePath&quot;))</text>
       </register>
       <register name="/" type="4">
         <text>sig</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPi4uL0NTTC9tcy5zZWN1cml0eS5zaWduaW5nPC9tb2R1bGU+Cg==</text>
+      <register name="0" type="4">
+        <text>s.getTemplatePath('/templates', 'bar/b1/') + 'B1Request.xml')</text>
       </register>
-      <register name="1" type="4">
-        <text>customer.nativeapp-configuration</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPi4uL0NTTC96ZXMubXMuY3VzdG9tZXIuZG9jdW1lbnQtY29uZmlndXJhdGlvbjwvbW9kdWxlPgogICAgICAgIDxtb2R1bGU+Li4vQ1NML3plcy5tcy5jdXN0b21lci5kb2N1bWVudDwvbW9kdWxlPgo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB4bWwud2l0aChjKQogICAgICAgIHdyaXRlKG91dEZpbGVOYW1lLCB4bWwpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBYbWxTdXBwb3J0IHMgPSBuZXcgWG1sU3VwcG9ydCgpCiAgICAgICAgZGVmIHAgPSBzLmdldFRlbXBsYXRlUGF0aCgnL3RlbXBsYXRlcycsICdiYXIvYjEvJykgKyAnQjFSZXF1ZXN0LnhtbCcKICAgICAgICBwcmludGxuKHApCiAgICAgICAgcHJpbnRsbihYbWxTdXBwb3J0LmNsYXNzLmdldFJlc291cmNlKCcvdGVtcGxhdGVzL2Jhci9iMS9CMVJlcXVlc3QueG1sJykpCiAgICAgICAgZGVmIHVyaVBhdGggPSBYbWxTdXBwb3J0LmNsYXNzLmdldFJlc291cmNlKHMuZ2V0VGVtcGxhdGVQYXRoKCcvdGVtcGxhdGVzJywgJ2Jhci9iMS8nKSArICdCMVJlcXVlc3QueG1sJykudG9VUkkoKS5wYXRoCiAgICAgICAgcHJpbnRsbih1cmlQYXRoKQogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZpbGVXcml0ZXIoZmlsZSkud2l0aCB7IHdyaXRlciAtPgogICAgICAgICAgICAgICAgWG1sVXRpbC5zZXJpYWxpemUoeG1sLCB3cml0ZXIpCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRlbXBsYXRlUGFja2FnZVBhdGggPSB0ZXN0Q2xhc3MuZ2V0UmVzb3VyY2UoJy4nKS50b1VSSSgpLnBhdGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWG1sVXRpbC5zZXJpYWxpemUoeG1sLCBpdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRmlsZVdyaXRlcih4bWxGaWxlKS53aXRoIHsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRlbXBsYXRlUGFja2FnZVBhdGggPSB0ZXN0Q2xhc3MuZ2V0UmVzb3VyY2UoJy4nKS50b1VSSSgpLnBhdGgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxGaWxlLnBhcmVudEZpbGUubWtkaXJzKCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRlbXBsYXRlUGFja2FnZVBhdGgK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGVzdE51bWJlciA9IAo=</text>
+      <register name="9" type="4">
+        <text>customer.nativeapp-configuration</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
