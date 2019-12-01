@@ -20,8 +20,11 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" timestamp="1575153182159">
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" timestamp="1575215636030">
         <mark key="'" line="50" column="71" />
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.xml" timestamp="1574881075611">
         <mark key="[" line="0" column="0" />
@@ -279,7 +282,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>signing</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>sig</text>
