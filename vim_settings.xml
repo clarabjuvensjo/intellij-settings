@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" timestamp="1575277442341">
-        <mark key="[" line="19" column="84" />
-        <mark key="]" line="19" column="84" />
-        <mark key="." line="19" column="84" />
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" timestamp="1575278383735">
+        <mark key="[" line="109" column="26" />
+        <mark key="]" line="109" column="26" />
+        <mark key="." line="109" column="26" />
         <mark key="^" line="36" column="85" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/resources/se/lf/csl/common/test/ast/xml/B1Request.xml" timestamp="1575128257980">
@@ -151,7 +151,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/slask.groovy" timestamp="1575277729405">
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/slask.groovy" timestamp="1575277808018">
         <mark key="[" line="0" column="37" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/XmlSupport.groovy" timestamp="1575109408975">
@@ -285,7 +285,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>xmlSupport.read</text>
