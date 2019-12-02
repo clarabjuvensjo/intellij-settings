@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" timestamp="1575236921350">
-        <mark key="[" line="81" column="29" />
-        <mark key="]" line="193" column="91" />
-        <mark key="." line="193" column="91" />
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" timestamp="1575277442341">
+        <mark key="[" line="19" column="84" />
+        <mark key="]" line="19" column="84" />
+        <mark key="." line="19" column="84" />
         <mark key="^" line="36" column="85" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/resources/se/lf/csl/common/test/ast/xml/B1Request.xml" timestamp="1575128257980">
@@ -20,7 +20,7 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" timestamp="1575239474164">
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" timestamp="1575276347311">
         <mark key="'" line="64" column="0" />
         <mark key="]" line="45" column="57" />
         <mark key="." line="45" column="28" />
@@ -150,6 +150,9 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/slask.groovy" timestamp="1575277729405">
+        <mark key="[" line="0" column="37" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/XmlSupport.groovy" timestamp="1575109408975">
         <mark key="'" line="32" column="8" />
@@ -282,7 +285,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>xmlSupport.read</text>
