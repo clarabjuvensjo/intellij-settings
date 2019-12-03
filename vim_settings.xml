@@ -21,11 +21,11 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" timestamp="1575361897840">
+      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" timestamp="1575368044665">
         <mark key="'" line="13" column="20" />
-        <mark key="[" line="45" column="70" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
+        <mark key="[" line="79" column="5" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
         <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/slask.xml" timestamp="1574881075611">
@@ -287,7 +287,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>closureMap</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>spec</text>
