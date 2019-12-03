@@ -33,6 +33,10 @@
         <mark key="]" line="9" column="7" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.job/Jenkinsfile" timestamp="1575388325240">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="25" column="36" />
+      </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/resources/se/lf/csl/common/test/ast/AbstractSpecificationTestTemplate.xml" timestamp="1574933868782">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="16" />
@@ -44,6 +48,12 @@
         <mark key="]" line="4" column="17" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/test/se/lf/tfs/definition/DefinitionSynchronizerTest.groovy" timestamp="1575388465103">
+        <mark key="[" line="104" column="121" />
+        <mark key="]" line="92" column="9" />
+        <mark key="." line="92" column="9" />
+        <mark key="^" line="92" column="9" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/Slask.groovy" timestamp="1575020559711">
         <mark key="[" line="5" column="6" />
@@ -63,8 +73,8 @@
         <mark key="." line="54" column="55" />
         <mark key="^" line="54" column="55" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" timestamp="1575384827041">
-        <mark key="'" line="48" column="12" />
+      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" timestamp="1575388094483">
+        <mark key="'" line="64" column="42" />
         <mark key="[" line="45" column="24" />
         <mark key="]" line="47" column="0" />
         <mark key="^" line="45" column="23" />
@@ -166,6 +176,13 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="31" column="31" />
       </file>
+      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/definition/DefinitionSynchronizer.groovy" timestamp="1575388705417">
+        <mark key="'" line="123" column="16" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="^" line="119" column="11" />
+        <mark key="." line="134" column="0" />
+      </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/XmlUtil.groovy" timestamp="1575021377959">
         <mark key="'" line="17" column="33" />
         <mark key="[" line="3" column="0" />
@@ -187,15 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="16" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="6" column="54" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="8" column="41" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="10" column="24" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="7" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/target/test-classes/se/lf/csl/common/test/ast/xml/1/00_B1Request.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/target/test-classes/se/lf/csl/common/test/ast/xml/1/00_B1Request.xml" />
-      <jump line="80" column="4" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="63" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="52" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="45" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="37" column="4" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
@@ -287,19 +295,28 @@
       <jump line="48" column="12" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" />
       <jump line="115" column="28" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/Utils.groovy" />
       <jump line="10" column="20" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/Utils.groovy" />
+      <jump line="9" column="28" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/definition/DefinitionSynchronizer.groovy" />
+      <jump line="64" column="42" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.sync/Jenkinsfile" />
+      <jump line="94" column="66" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/definition/DefinitionSynchronizer.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/definition/DefinitionSynchronizer.groovy" />
+      <jump line="119" column="43" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/definition/DefinitionSynchronizer.groovy" />
+      <jump line="122" column="75" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/definition/DefinitionSynchronizer.groovy" />
+      <jump line="149" column="89" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/definition/DefinitionSynchronizer.groovy" />
+      <jump line="10" column="16" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/definition/DefinitionSynchronizer.groovy" />
+      <jump line="123" column="16" filename="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/tfs/definition/DefinitionSynchronizer.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text>splits[-1]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCVUlMRF9BUElfVkVSU0lPTlw+</text>
+        <text>branch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBvdXRGaWxlID0gZ2V0T3V0RmlsZSh0ZW1wbGF0ZUZpbGUsIHRlbXBsYXRlUm9vdCwgb3V0Um9vdCwgdGVzdENsYXNzLCB0ZXN0TmFtZS5tZXRob2ROYW1lLCBwcmVmaXgpCiAgICAgICAgICAgIGNyZWF0ZSh0ZW1wbGF0ZUZpbGUsIG91dEZpbGUsIG1baXRdKQo=</text>
+      <register name="0" type="4">
+        <text>splits.size() == 3 ? splits[1] : splits[1..-2].join('_')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvaWQgY3JlYXRlQWxsUGFpcnMoTWFwPFN0cmluZywgTGlzdDxNYXA8U3RyaW5nLCBDbG9zdXJlPj4+IGNsb2p1cmVNYXApIHsKICAgICAgICBNYXA8U3RyaW5nLCBMaXN0PE1hcDxTdHJpbmcsIENsb3N1cmU+Pj4gc3BlY01hcCA9IFs6XQogICAgICAgIEZpbGUgdGVtcGxhdGVSb290RmlsZSA9IGdldFJlc291cmNlRmlsZSh0ZW1wbGF0ZVJvb3QpCiAgICAgICAgZGVmIG0gPSBjbG9qdXJlTWFwLndpdGhEZWZhdWx0IHsgW1s6XV0gfQogICAgICAgIHRlbXBsYXRlUm9vdEZpbGUudHJhdmVyc2UoW3R5cGU6IEZpbGVUeXBlLkZJTEVTLCBuYW1lRmlsdGVyOiB7IGl0LmVuZHNXaXRoKCdSZXF1ZXN0LnhtbCcpfV0pIHsKICAgICAgICAgICAgU3RyaW5nIHRlbXBsYXRlID0gaXQuYWJzb2x1dGVQYXRoLnJlcGxhY2VGaXJzdCgvUmVxdWVzdC54bWwkLywgJycpLnN1YnN0cmluZyh0ZW1wbGF0ZVJvb3RGaWxlLmFic29sdXRlUGF0aC5sZW5ndGgoKSArIDEpCiAgICAgICAgICAgIHNwZWNNYXBbdGVtcGxhdGVdID0gbVt0ZW1wbGF0ZV0KICAgICAgICB9CiAgICAgICAgY3JlYXRlUGFpcnMoc3BlY01hcCkKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -346,37 +363,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbSA9IGNsb2p1cmVNYXAud2l0aERlZmF1bHQgeyBbWzpdXSB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHNwZWNNYXApCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbignIycgKiA4MCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgWyhpdFswXSk6IGl0WzFdXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihtW3RlbXBsYXRlXSkK</text>
+        <text encoding="base64">ICAgICAgICBbWydwcm9qZWN0JywgJ3JlcG8nLCAnYnJhbmNoJ10sIGRlZmluaXRpb25OYW1lLnNwbGl0KCdfJyldLnRyYW5zcG9zZSgpLmNvbGxlY3RFbnRyaWVzKCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih0ZW1wbGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbignIycgKiA4MCkK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZVsnYnJhbmNoJ10gPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiAnNjAgLSB4eHgnKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZVsncmVwbyddID0gc3BsaXRzLnNpemUoKSA9PSAzID8gc3BsaXRzWzFdIDogc3BsaXRzWzEuLi0yXS5qb2luKCdfJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZVsncHJvamVjdEtleSddID0gc3BsaXRzWzBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCVUlMRF9BUElfVkVSU0lPTlw+</last-search>
+      <last-search>branch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCVUlMRF9BUElfVkVSU0lPTlw+</last-pattern>
+      <last-pattern>branch</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>Backend</last-substitute>
       <last-dir>1</last-dir>
@@ -384,10 +401,6 @@
     </search>
     <history>
       <history-search>
-        <entry>10</entry>
-        <entry>)</entry>
-        <entry>&quot;</entry>
-        <entry>get</entry>
         <entry>met</entry>
         <entry>5</entry>
         <entry encoding="base64">XDxUZXN0TmFtZVw+</entry>
@@ -404,6 +417,10 @@
         <entry>spec</entry>
         <entry>created</entry>
         <entry encoding="base64">XDxCVUlMRF9BUElfVkVSU0lPTlw+</entry>
+        <entry encoding="base64">XDxyZXBvXD4=</entry>
+        <entry encoding="base64">XDxicmFuY2hcPg==</entry>
+        <entry>_</entry>
+        <entry>branch</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
