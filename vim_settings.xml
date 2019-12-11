@@ -61,8 +61,11 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/src/se/lf/jenkins/Utils.groovy" timestamp="1575386566995">
-        <mark key="'" line="10" column="20" />
+      <file name="$USER_HOME$/git-T1912/cd.jenkins.lib/src/com/evry/t1912/cd/jenkins/lib/Bitbucket.groovy" timestamp="1576077917704">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="101" />
+        <mark key="." line="95" column="53" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/resources/se/lf/csl/common/test/ast/FirstRequestTemplate.xml" timestamp="1575021899855">
         <mark key="'" line="3" column="0" />
@@ -251,20 +254,11 @@
       <file name="$USER_HOME$/slask/groovy_xml/groovyXml/pom.xml" timestamp="1574882542413">
         <mark key="[" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/git-T1912/cd.jenkins.sync/Jenkinsfile" timestamp="1576073868286">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
+      <file name="$USER_HOME$/git-T1912/cd.jenkins.sync/Jenkinsfile" timestamp="1576077938109">
         <mark key="^" line="4" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="34" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="87" column="13" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="12" column="8" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/slask.groovy" />
-      <jump line="2" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/slask.groovy" />
-      <jump line="23" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="156" column="7" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="164" column="7" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="179" column="7" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="180" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
@@ -359,19 +353,25 @@
       <jump line="112" column="0" filename="$USER_HOME$/git-T1912/cd.jenkins.lib/pom.xml" />
       <jump line="12" column="0" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/pom.xml" />
       <jump line="0" column="17" filename="$USER_HOME$/git-T1912/cd.jenkins.job/README.md" />
+      <jump line="100" column="0" filename="$USER_HOME$/git-T1912/cd.jenkins.lib/src/com/evry/t1912/cd/jenkins/lib/Bitbucket.groovy" />
+      <jump line="14" column="22" filename="$USER_HOME$/git-T1912/cd.jenkins.lib/src/com/evry/t1912/cd/jenkins/lib/Bitbucket.groovy" />
+      <jump line="83" column="0" filename="$USER_HOME$/git-T1912/cd.jenkins.lib/src/com/evry/t1912/cd/jenkins/lib/Bitbucket.groovy" />
+      <jump line="12" column="24" filename="$USER_HOME$/git-T1912/cd.jenkins.lib/src/com/evry/t1912/cd/jenkins/lib/Bitbucket.groovy" />
+      <jump line="13" column="7" filename="$USER_HOME$/git-T1912/cd.jenkins.lib/src/com/evry/t1912/cd/jenkins/lib/Bitbucket.groovy" />
+      <jump line="10" column="11" filename="$USER_HOME$/git-T1912/cd.jenkins.lib/src/com/evry/t1912/cd/jenkins/lib/Bitbucket.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>d</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVUkxzXD4=</text>
+        <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>com.evry.t1912.cd.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkZWYgd2ViaG9vayA9IGJpdGJ1Y2tldC5hZGRXZWJIb29rKCdUMTkxMicsICdjZC5qZW5raW5zLnN5bmMnLCAnaHR0cDovL2N1c28uZWRiLnNlL2plbmtpbnMvJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ1swLTldezQsfScK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -418,46 +418,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWF2ZW4uc2V0dGluZ3MnLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyB1cmwgPSBnZXRVcmwocHJvamVjdCwgIi8ke3JlcG99L3NldHRpbmdzL2hvb2tzL2NvbS5hdGxhc3NpYW4uc3Rhc2gucGx1Z2luLnN0YXNoLXdlYi1wb3N0LXJlY2VpdmUtaG9va3MtcGx1Z2luOnBvc3RSZWNlaXZlSG9vay9lbmFibGVkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZG9jdW1lbnRhdGlvbicsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyByZXF1ZXN0Qm9keSA9ICJ7J2hvb2stdXJsLTAnOiAkd2ViaG9va1VybH0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY2QuamVua2lucy5saWInLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGNmZyA9IFsKICAgICAgICBwcm9qZWN0czogWwogICAgICAgICAgICAgICAgVDE5MTI6IFsKICAgICAgICAgICAgICAgICAgICAgICAgZXhjbHVkZXM6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY2QuamVua2lucy5qb2InLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjb250aW51b3VzLmRlcGxveW1lbnQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkb2NrZXJcXC4uKicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RvY3VtZW50YXRpb24nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdtYXZlbi5zZXR0aW5ncycsCiAgICAgICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAgICAgICAgIGluY2x1ZGVzOiBbCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICB1cGRhdGVkICAgICAgICAgIDogc2NtVmFycy5HSVRfQ09NTUlUICE9IHNjbVZhcnMuR0lUX1BSRVZJT1VTX0NPTU1JVF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICBnaXRQcmV2aW91c0NvbW1pdDogc2NtVmFycy5HSVRfUFJFVklPVVNfQ09NTUlULAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHN0YXRlICs9IFtnaXRDb21taXQgICAgICAgIDogc2NtVmFycy5HSVRfQ09NTUlULAo=</text>
+      <register name="8" type="4">
+        <text>settings/hooks/com.atlassian.stash.plugin.stash-web-post-receive-hooks-plugin:postReceiveHook/enabled</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXR0aW5ncy9ob29rcy9jb20ubmVyZHdpbjE1LnN0YXNoLXN0YXNoLXdlYmhvb2stamVua2luczpqZW5raW5zUG9zdFJlY2VpdmVIb29rL2VuYWJsZWQK</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVUkxzXD4=</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVUkxzXD4=</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>Backend</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>5</entry>
-        <entry encoding="base64">XDxUZXN0TmFtZVw+</entry>
         <entry encoding="base64">XDx0ZXN0TmFtZVw+</entry>
         <entry>it</entry>
         <entry>zes.ms</entry>
@@ -476,6 +474,8 @@
         <entry>branch</entry>
         <entry encoding="base64">PA==</entry>
         <entry encoding="base64">XDxVUkxzXD4=</entry>
+        <entry>set</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -503,8 +503,14 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
