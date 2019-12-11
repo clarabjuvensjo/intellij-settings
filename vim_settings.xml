@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" timestamp="1575452176471">
@@ -90,6 +90,7 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/slask/src/main/java/mygroup/slask/API.java" timestamp="1576049898062" />
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/resources/se/lf/csl/common/test/ast/Backend1ResponseTemplate.xml" timestamp="1575022049951">
         <mark key="'" line="2" column="13" />
         <mark key="[" line="3" column="13" />
