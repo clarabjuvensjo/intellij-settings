@@ -25,11 +25,13 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" timestamp="1576148450587">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="37" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="52" column="34" />
+      <file name="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" timestamp="1576159339706">
+        <mark key="a" line="41" column="12" />
+        <mark key="'" line="58" column="11" />
+        <mark key="[" line="77" column="67" />
+        <mark key="]" line="78" column="11" />
+        <mark key="^" line="78" column="11" />
+        <mark key="." line="78" column="11" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/Slask.groovy" timestamp="1575020559711">
         <mark key="[" line="5" column="6" />
@@ -134,6 +136,11 @@
         <mark key="[" line="183" column="0" />
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/deployToArtifactory.groovy" timestamp="1576156626074">
+        <mark key="'" line="6" column="13" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="23" column="41" />
       </file>
       <file name="$USER_HOME$/git-T1912/cd.jenkins.job/README.md" timestamp="1576070959123">
         <mark key="'" line="0" column="17" />
@@ -249,22 +256,14 @@
         <mark key="." line="26" column="7" />
         <mark key="^" line="26" column="7" />
       </file>
-      <file name="$USER_HOME$/git-T1912/cd.jenkins.sync/Jenkinsfile" timestamp="1576081674976">
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="43" />
+      <file name="$USER_HOME$/git-T1912/cd.jenkins.sync/Jenkinsfile" timestamp="1576155466312">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
         <mark key="^" line="82" column="31" />
         <mark key="." line="82" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="49" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
-      <jump line="92" column="21" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
-      <jump line="99" column="11" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
-      <jump line="100" column="43" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
-      <jump line="24" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/slask.groovy" />
-      <jump line="199" column="3" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="8" column="21" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" />
-      <jump line="10" column="41" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" />
       <jump line="46" column="23" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" />
       <jump line="49" column="23" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" />
       <jump line="50" column="71" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" />
@@ -349,27 +348,35 @@
       <jump line="44" column="16" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
       <jump line="45" column="17" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
       <jump line="49" column="17" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
-      <jump line="57" column="23" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
       <jump line="62" column="22" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
       <jump line="82" column="39" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
       <jump line="80" column="12" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
       <jump line="60" column="22" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
       <jump line="59" column="31" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
-      <jump line="58" column="34" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
       <jump line="77" column="12" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
+      <jump line="6" column="13" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/deployToArtifactory.groovy" />
+      <jump line="71" column="5" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
+      <jump line="72" column="51" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
+      <jump line="4" column="26" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
+      <jump line="52" column="20" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
+      <jump line="54" column="24" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
+      <jump line="56" column="33" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
+      <jump line="5" column="27" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
+      <jump line="57" column="59" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
+      <jump line="58" column="11" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Deploy to Artifactory</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICIke3N0YXRlLmlzTWF2ZW5Nb2R1bGV9Igo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY3JlYXRlQnVpbGRDb21taXRGaWxlKHN0YXRlLndvcmtzcGFjZSwgc3RhdGUuZ2l0Q29tbWl0KQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+      <register name="1" type="4">
+        <text>Deploy to Artifactory</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -416,37 +423,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHN0YWdlKCdJbmZvJykgewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgfSBlbHNlIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBlY2hvICdObyBwb20gZmlsZSEnCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmVyLnVwbG9hZCBzcGVjOiB1cGxvYWRTcGVjICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIHNlcnZlciA9IEFydGlmYWN0b3J5LnNlcnZlciAiSkZyb2ciCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fSIiIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IF0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgInRhcmdldCI6ICJiYXppbmdhLXJlcG8vZnJvZ2d5LWZpbGVzLyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc2ggIm12biAtRG1hdmVuLnJlcG8ubG9jYWw9XCIke3ZhcnMubG9jYWxSZXBvfVwiIC1ETkVYVVMzX1VTRVJOQU1FPSR1IC1ETkVYVVMzX1BBU1NXT1JEPSRwIC1zIFwiJHtzdGF0ZS5tYXZlblNldHRpbmdzRmlsZX1cIiBjbGVhbiBpbnN0YWxsIgo=</text>
+        <text encoding="base64">ICAgICAgInBhdHRlcm4iOiAidGFyZ2V0LyouamFyIiwK</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>Backend</last-substitute>
       <last-dir>1</last-dir>
@@ -454,10 +461,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parse(</entry>
-        <entry>xmlSupport.read</entry>
-        <entry>null</entry>
-        <entry>spec</entry>
         <entry>created</entry>
         <entry encoding="base64">XDxCVUlMRF9BUElfVkVSU0lPTlw+</entry>
         <entry encoding="base64">XDxyZXBvXD4=</entry>
@@ -474,6 +477,10 @@
         <entry>pom</entry>
         <entry>jdk</entry>
         <entry>)</entry>
+        <entry encoding="base64">XDxkZWxlZ2F0ZVw+</entry>
+        <entry>Maven</entry>
+        <entry>]</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
