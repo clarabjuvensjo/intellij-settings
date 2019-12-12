@@ -25,9 +25,9 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" timestamp="1576143546027">
+      <file name="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" timestamp="1576144688407">
         <mark key="'" line="77" column="12" />
-        <mark key="[" line="77" column="62" />
+        <mark key="[" line="77" column="50" />
         <mark key="]" line="77" column="62" />
         <mark key="." line="77" column="62" />
         <mark key="^" line="77" column="50" />
