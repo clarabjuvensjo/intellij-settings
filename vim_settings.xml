@@ -25,12 +25,11 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" timestamp="1576144688407">
-        <mark key="'" line="77" column="12" />
-        <mark key="[" line="77" column="50" />
-        <mark key="]" line="77" column="62" />
-        <mark key="." line="77" column="62" />
-        <mark key="^" line="77" column="50" />
+      <file name="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" timestamp="1576148450587">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="37" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/Slask.groovy" timestamp="1575020559711">
         <mark key="[" line="5" column="6" />
@@ -361,16 +360,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
-      <register name="0" type="4">
-        <text>jdk1.8.0_181'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICIke3N0YXRlLmlzTWF2ZW5Nb2R1bGV9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUgKz0gW212bjogbXZuXQo=</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -417,28 +416,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52Lk0yX0hPTUUgPSAiJHttdm59Igo=</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIG12biA9IHRvb2wgbmFtZTogJ01hdmVuIDMuMy45Jwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHN0YWdlKCdJbmZvJykgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICJtdm4gY2xlYW4gdmVyaWZ5Igo=</text>
+        <text encoding="base64">Ly8gICAgfSBlbHNlIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggIm12biAtRG1hdmVuLnJlcG8ubG9jYWw9XCIke3ZhcnMubG9jYWxSZXBvfVwiIC1zIFwiJHtzdGF0ZS5tYXZlblNldHRpbmdzRmlsZX1cIiBjbGVhbiBpbnN0YWxsIgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBlY2hvICdObyBwb20gZmlsZSEnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFJ1biB0aGUgbWF2ZW4gYnVpbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>, mavenSettingsConfig: 'my-maven-settings'</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBNYXZlbiBpbnN0YWxsYXRpb24gZGVjbGFyZWQgaW4gdGhlIEplbmtpbnMgIkdsb2JhbCBUb29sIENvbmZpZ3VyYXRpb24iCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc2ggIm12biAtRG1hdmVuLnJlcG8ubG9jYWw9XCIke3ZhcnMubG9jYWxSZXBvfVwiIC1ETkVYVVMzX1VTRVJOQU1FPSR1IC1ETkVYVVMzX1BBU1NXT1JEPSRwIC1zIFwiJHtzdGF0ZS5tYXZlblNldHRpbmdzRmlsZX1cIiBjbGVhbiBpbnN0YWxsIgo=</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
