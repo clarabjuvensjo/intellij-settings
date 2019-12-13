@@ -20,6 +20,13 @@
         <mark key="]" line="9" column="7" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-T1912/cd.jenkins.lib/vars/T1912MavenBuildPipeline.groovy" timestamp="1576245556071">
+        <mark key="'" line="38" column="5" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="8" />
+        <mark key="." line="37" column="8" />
+        <mark key="^" line="29" column="6" />
+      </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/resources/se/lf/csl/common/test/ast/AbstractSpecificationTestTemplate.xml" timestamp="1574933868782">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="16" />
@@ -55,12 +62,11 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/git-T1912/maven.settings/Jenkinsfile" timestamp="1576242726031">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="21" />
-        <mark key="." line="31" column="21" />
-        <mark key="^" line="31" column="21" />
+      <file name="$USER_HOME$/git-T1912/maven.settings/Jenkinsfile" timestamp="1576245602208">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/git-T1912/cd.jenkins.lib/src/com/evry/t1912/cd/jenkins/lib/Bitbucket.groovy" timestamp="1576081156789">
         <mark key="'" line="84" column="37" />
@@ -69,8 +75,8 @@
         <mark key="." line="11" column="169" />
         <mark key="^" line="11" column="169" />
       </file>
-      <file name="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/slask.groovy" timestamp="1576068986522">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/slask.groovy" timestamp="1576244950066">
+        <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -199,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="101" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="132" column="94" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="140" column="51" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="147" column="51" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="155" column="51" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
@@ -299,19 +303,21 @@
       <jump line="136" column="87" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" />
       <jump line="49" column="50" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" />
+      <jump line="38" column="5" filename="$USER_HOME$/git-T1912/cd.jenkins.lib/vars/T1912MavenBuildPipeline.groovy" />
+      <jump line="37" column="0" filename="$USER_HOME$/git-T1912/maven.settings/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>env</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly9teURlbGl2ZXJ5UGlwZWxpbmUgewovLyAgICBicmFuY2ggPSAnZGV2ZWxvcCcKLy8gICAgLy9naXRVcmwgPSAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9lc2J1L2J1c2luZXNzLmFwcGxpY2F0aW9uLnN5c3RlbS51cGRhdGVyZXNvdXJjZWxvY2sudjFfMC5naXQnCi8vICAgIGdpdFVybCA9ICdodHRwOi8vY3Vzby5lZGIuc2Uvc3Rhc2gvc2NtL2VzYnUvYnVzaW5lc3MuYXBwbGljYXRpb24uc3lzdGVtLnVwZGF0ZXJlc291cmNlbG9jay52MV8wLmdpdCcKLy8gICAgc2V0dGluZ0ZpbGUgPSAnL29wdC9jdXNvL2plbmtpbnMvY3Vzby10b29scy9uZXh1cy9zZXR0aW5ncy54bWwnCi8vICAgIC8vYWdlbnROYW1lID0gIlNMQVZFLTAzMiIKLy8gICAgYWdlbnROYW1lID0gImVzIgovLyAgICAvL2luSmVua2luc2ZpbGUgPSAndHJ1ZScKLy8gICAgcnVuRGVwZW5kID0gJ3RydWUnCi8vICAgIG1hdmVuQnVpbGQgPSAndHJ1ZScKLy8gICAgdmVyU25hcCA9ICd0cnVlJwovLyAgICBtdm5TaXRlID0gJ2ZhbHNlJwovLyAgICBhcnRpZkRlcGxveSA9ICdmYWxzZScKLy8gICAgcnVuU29uYXIgPSAnZmFsc2UnCi8vICAgIHJ1blNvbmFyQW5hbHlzaXMgPSAnZmFsc2UnCi8vICAgIGRvY1NpdGVEZXBsb3kgPSAnZmFsc2UnCi8vICAgIGdpdENyZWQgPSAnamVua2lucycKLy8gICAgc29uYXJxdWJlSG9zdCA9ICdodHRwOi8vY3Vzby5lZGIuc2Uvc29uYXInCi8vICAgIGVtYWlsID0gJ3Nlcm9rLmZlcmVqQGV2cnkuY29tJwovL30K</text>
+        <text encoding="base64">Ly9ATGlicmFyeSgiUGlwZWxpbmUtTGlicmFyeSIpIF8K</text>
       </register>
-      <register name="1" type="4">
-        <text>env.JOB_NAME</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZWNobyBzdGF0ZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -358,37 +364,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgYWdlbnROYW1lID0gJ21hc3RlcicKLy8gICAgLy9pbkplbmtpbnNmaWxlID0gJ3RydWUnCi8vICAgIHJ1bkRlcGVuZCA9ICd0cnVlJwovLyAgICBtYXZlbkJ1aWxkID0gJ3RydWUnCi8vICAgIHZlclNuYXAgPSAndHJ1ZScKLy8gICAgbXZuU2l0ZSA9ICdmYWxzZScKLy8gICAgYXJ0aWZEZXBsb3kgPSAndHJ1ZScKLy8gICAgcnVuU29uYXIgPSAnZmFsc2UnCi8vICAgIHJ1blNvbmFyQW5hbHlzaXMgPSAnZmFsc2UnCi8vICAgIGRvY1NpdGVEZXBsb3kgPSAnZmFsc2UnCi8vICAgIGdpdENyZWQgPSAnU1ZDc3Rhc2h1c2VyJwovLyAgICBzb25hcnF1YmVIb3N0ID0gJ2h0dHA6Ly9jdXNvLmVkYi5zZS9zb25hcicKLy8gICAgZW1haWwgPSAnc2Vyb2suZmVyZWpAZXZyeS5jb20nCi8vfQovLyAgICB9Ci8vfQovL25vZGUoJ21hc3RlcicpIHsKLy8gICAgc3RhZ2UoJ3gnKSB7Ci8vICAgICAgICBlY2hvIHNoKHNjcmlwdDogJ2Vudnxzb3J0JywgcmV0dXJuU3Rkb3V0OiB0cnVlKQovLyAgICAgICAgY2xvbmVVcmwgPSBnZXRDbG9uZVVybChlbnYuSk9CX05BTUUpCi8vICAgICAgICAKLy8gICAgICAgIGNyZWRlbnRpYWxzSWQgPSAnU1ZDc3Rhc2h1c2VyJwovLyAgICAgICAgZ2l0KHVybDogY2xvbmVVcmwsIGJyYW5jaDogZW52LkJSQU5DSF9OQU1FLCBjcmVkZW50aWFsc0lkOiBjcmVkZW50aWFsc0lkKQovLyAgICAgICAgc2ggJ2xzIC1hbCcKLy8gICAgfQovLwovL30KCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bXlEZWxpdmVyeVBpcGVsaW5lIHsKICAgIGJyYW5jaCA9IGVudi5CUkFOQ0hfTkFNRQogICAgLy9naXRVcmwgPSAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9lc2J1L2J1c2luZXNzLmFwcGxpY2F0aW9uLnN5c3RlbS51cGRhdGVyZXNvdXJjZWxvY2sudjFfMC5naXQnCiAgICBnaXRVcmwgPSBnZXRDbG9uZVVybChlbnYuSk9CX05BTUUpCiAgICBzZXR0aW5nRmlsZSA9ICcvb3B0L2N1c28vamVua2lucy9jdXNvLXRvb2xzL25leHVzL3NldHRpbmdzLnhtbCcKICAgIGFnZW50TmFtZSA9ICdtYXN0ZXInCiAgICAvL2luSmVua2luc2ZpbGUgPSAndHJ1ZScKICAgIHJ1bkRlcGVuZCA9ICd0cnVlJwogICAgbWF2ZW5CdWlsZCA9ICd0cnVlJwogICAgdmVyU25hcCA9ICd0cnVlJwogICAgbXZuU2l0ZSA9ICdmYWxzZScKICAgIGFydGlmRGVwbG95ID0gJ3RydWUnCiAgICBydW5Tb25hciA9ICdmYWxzZScKICAgIHJ1blNvbmFyQW5hbHlzaXMgPSAnZmFsc2UnCiAgICBkb2NTaXRlRGVwbG95ID0gJ2ZhbHNlJwogICAgZ2l0Q3JlZCA9ICdTVkNzdGFzaHVzZXInCiAgICBzb25hcnF1YmVIb3N0ID0gJ2h0dHA6Ly9jdXNvLmVkYi5zZS9zb25hcicKICAgIGVtYWlsID0gJ3Nlcm9rLmZlcmVqQGV2cnkuY29tJwp9Cg==</text>
+        <text encoding="base64">Ly8gICAgc2V0dGluZ0ZpbGUgPSAnL29wdC9jdXNvL2plbmtpbnMvY3Vzby10b29scy9uZXh1cy9zZXR0aW5ncy54bWwnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vYWdlbnROYW1lID0gIlNMQVZFLTAzMiIK</text>
+        <text encoding="base64">Ly8gICAgZ2l0VXJsID0gY2xvbmVVcmwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG15RGVsaXZlcnlQaXBlbGluZSB7CiAgICAgICAgYnJhbmNoID0gZW52LkJSQU5DSF9OQU1FCiAgICAgICAgLy9naXRVcmwgPSAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9lc2J1L2J1c2luZXNzLmFwcGxpY2F0aW9uLnN5c3RlbS51cGRhdGVyZXNvdXJjZWxvY2sudjFfMC5naXQnCiAgICAgICAgZ2l0VXJsID0gZ2V0Q2xvbmVVcmwoZW52LkpPQl9OQU1FKQogICAgICAgIHNldHRpbmdGaWxlID0gJy9vcHQvY3Vzby9qZW5raW5zL2N1c28tdG9vbHMvbmV4dXMvc2V0dGluZ3MueG1sJwogICAgICAgIC8vYWdlbnROYW1lID0gIlNMQVZFLTAzMiIKICAgICAgICBhZ2VudE5hbWUgPSAnbWFzdGVyJwogICAgICAgIC8vaW5KZW5raW5zZmlsZSA9ICd0cnVlJwogICAgICAgIHJ1bkRlcGVuZCA9ICd0cnVlJwogICAgICAgIG1hdmVuQnVpbGQgPSAndHJ1ZScKICAgICAgICB2ZXJTbmFwID0gJ3RydWUnCiAgICAgICAgbXZuU2l0ZSA9ICdmYWxzZScKICAgICAgICBhcnRpZkRlcGxveSA9ICd0cnVlJwogICAgICAgIHJ1blNvbmFyID0gJ2ZhbHNlJwogICAgICAgIHJ1blNvbmFyQW5hbHlzaXMgPSAnZmFsc2UnCiAgICAgICAgZG9jU2l0ZURlcGxveSA9ICdmYWxzZScKICAgICAgICBnaXRDcmVkID0gJ1NWQ3N0YXNodXNlcicKICAgICAgICBzb25hcnF1YmVIb3N0ID0gJ2h0dHA6Ly9jdXNvLmVkYi5zZS9zb25hcicKICAgICAgICBlbWFpbCA9ICdzZXJvay5mZXJlakBldnJ5LmNvbScKICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgLy9naXRVcmwgPSAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9lc2J1L2J1c2luZXNzLmFwcGxpY2F0aW9uLnN5c3RlbS51cGRhdGVyZXNvdXJjZWxvY2sudjFfMC5naXQnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgYnJhbmNoID0gYnJhbmNoTmFtZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICBzaCAiZ2l0IC0tZ2l0LWRpcj0ke2Vudi5XT1JLU1BBQ0V9IHJlbW90ZSAtdiIK</text>
+        <text encoding="base64">Ly9teURlbGl2ZXJ5UGlwZWxpbmUgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAncHdkJwo=</text>
+        <text encoding="base64">Ly9jbG9uZVVybCA9IGdldENsb25lVXJsKGVudi5KT0JfTkFNRSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIGVudi5CSVRCVUNLRVRfR0lUX0hUVFBfT1JJR0lOCg==</text>
+        <text encoding="base64">Ly9icmFuY2hOYW1lID0gZW52LkJSQU5DSF9OQU1FCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/mavenSettings/mavenJob/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>env</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>env</last-pattern>
       <last-replace>mavenJob</last-replace>
       <last-substitute>mavenSettings</last-substitute>
       <last-dir>1</last-dir>
@@ -396,7 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>]</entry>
         <entry>'</entry>
         <entry>3</entry>
         <entry>2</entry>
@@ -416,6 +421,7 @@
         <entry>gitCred</entry>
         <entry>inJenk</entry>
         <entry>)</entry>
+        <entry>env</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
