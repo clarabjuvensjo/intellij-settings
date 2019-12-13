@@ -25,11 +25,11 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" timestamp="1576238419340">
+      <file name="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" timestamp="1576241183602">
         <mark key="a" line="25" column="12" />
-        <mark key="'" line="54" column="11" />
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="34" column="43" />
+        <mark key="'" line="60" column="21" />
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="47" column="100" />
         <mark key="^" line="25" column="13" />
         <mark key="." line="25" column="13" />
       </file>
@@ -55,12 +55,12 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/git-T1912/maven.settings/Jenkinsfile" timestamp="1576240598748">
+      <file name="$USER_HOME$/git-T1912/maven.settings/Jenkinsfile" timestamp="1576242726031">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="44" column="51" />
-        <mark key="]" line="33" column="52" />
-        <mark key="^" line="33" column="52" />
-        <mark key="." line="33" column="52" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/git-T1912/cd.jenkins.lib/src/com/evry/t1912/cd/jenkins/lib/Bitbucket.groovy" timestamp="1576081156789">
         <mark key="'" line="84" column="37" />
@@ -121,8 +121,8 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" timestamp="1576237496823">
-        <mark key="'" line="5" column="9" />
+      <file name="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" timestamp="1576242158230">
+        <mark key="'" line="49" column="50" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/test/se/lf/tfs/definition/DefinitionSynchronizerTest.groovy" timestamp="1575388465103">
         <mark key="[" line="104" column="121" />
@@ -199,14 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" />
-      <jump line="61" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" />
-      <jump line="31" column="46" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" />
-      <jump line="68" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" />
-      <jump line="64" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" />
-      <jump line="37" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/xml/XmlSupport.groovy" />
-      <jump line="19" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="123" column="35" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="125" column="101" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="132" column="94" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="140" column="51" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
@@ -265,7 +257,6 @@
       <jump line="62" column="22" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
       <jump line="82" column="39" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
       <jump line="80" column="12" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
-      <jump line="60" column="22" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
       <jump line="59" column="31" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
       <jump line="77" column="12" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
       <jump line="6" column="13" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/deployToArtifactory.groovy" />
@@ -299,19 +290,28 @@
       <jump line="21" column="0" filename="$USER_HOME$/git-T1912/maven.settings/Jenkinsfile" />
       <jump line="5" column="9" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" />
       <jump line="20" column="0" filename="$USER_HOME$/git-T1912/maven.settings/Jenkinsfile" />
+      <jump line="47" column="30" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
+      <jump line="60" column="21" filename="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" />
+      <jump line="171" column="79" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" />
+      <jump line="170" column="140" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" />
+      <jump line="64" column="48" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" />
+      <jump line="55" column="83" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" />
+      <jump line="136" column="87" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" />
+      <jump line="49" column="50" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>branch</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZWNobyBlbnYuQklUQlVDS0VUX0JSQU5DSAo=</text>
+        <text encoding="base64">Ly9teURlbGl2ZXJ5UGlwZWxpbmUgewovLyAgICBicmFuY2ggPSAnZGV2ZWxvcCcKLy8gICAgLy9naXRVcmwgPSAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9lc2J1L2J1c2luZXNzLmFwcGxpY2F0aW9uLnN5c3RlbS51cGRhdGVyZXNvdXJjZWxvY2sudjFfMC5naXQnCi8vICAgIGdpdFVybCA9ICdodHRwOi8vY3Vzby5lZGIuc2Uvc3Rhc2gvc2NtL2VzYnUvYnVzaW5lc3MuYXBwbGljYXRpb24uc3lzdGVtLnVwZGF0ZXJlc291cmNlbG9jay52MV8wLmdpdCcKLy8gICAgc2V0dGluZ0ZpbGUgPSAnL29wdC9jdXNvL2plbmtpbnMvY3Vzby10b29scy9uZXh1cy9zZXR0aW5ncy54bWwnCi8vICAgIC8vYWdlbnROYW1lID0gIlNMQVZFLTAzMiIKLy8gICAgYWdlbnROYW1lID0gImVzIgovLyAgICAvL2luSmVua2luc2ZpbGUgPSAndHJ1ZScKLy8gICAgcnVuRGVwZW5kID0gJ3RydWUnCi8vICAgIG1hdmVuQnVpbGQgPSAndHJ1ZScKLy8gICAgdmVyU25hcCA9ICd0cnVlJwovLyAgICBtdm5TaXRlID0gJ2ZhbHNlJwovLyAgICBhcnRpZkRlcGxveSA9ICdmYWxzZScKLy8gICAgcnVuU29uYXIgPSAnZmFsc2UnCi8vICAgIHJ1blNvbmFyQW5hbHlzaXMgPSAnZmFsc2UnCi8vICAgIGRvY1NpdGVEZXBsb3kgPSAnZmFsc2UnCi8vICAgIGdpdENyZWQgPSAnamVua2lucycKLy8gICAgc29uYXJxdWJlSG9zdCA9ICdodHRwOi8vY3Vzby5lZGIuc2Uvc29uYXInCi8vICAgIGVtYWlsID0gJ3Nlcm9rLmZlcmVqQGV2cnkuY29tJwovL30K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZWNobyBCSVRCVUNLRVRfQlJBTkNICg==</text>
+      <register name="1" type="4">
+        <text>env.JOB_NAME</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -358,37 +358,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZWNobyBlbnYuQklUQlVDS0VUX0JSQU5DSAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2ggJ2dpdCByZW1vdGUgLXYnCg==</text>
+        <text encoding="base64">bXlEZWxpdmVyeVBpcGVsaW5lIHsKICAgIGJyYW5jaCA9IGVudi5CUkFOQ0hfTkFNRQogICAgLy9naXRVcmwgPSAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9lc2J1L2J1c2luZXNzLmFwcGxpY2F0aW9uLnN5c3RlbS51cGRhdGVyZXNvdXJjZWxvY2sudjFfMC5naXQnCiAgICBnaXRVcmwgPSBnZXRDbG9uZVVybChlbnYuSk9CX05BTUUpCiAgICBzZXR0aW5nRmlsZSA9ICcvb3B0L2N1c28vamVua2lucy9jdXNvLXRvb2xzL25leHVzL3NldHRpbmdzLnhtbCcKICAgIGFnZW50TmFtZSA9ICdtYXN0ZXInCiAgICAvL2luSmVua2luc2ZpbGUgPSAndHJ1ZScKICAgIHJ1bkRlcGVuZCA9ICd0cnVlJwogICAgbWF2ZW5CdWlsZCA9ICd0cnVlJwogICAgdmVyU25hcCA9ICd0cnVlJwogICAgbXZuU2l0ZSA9ICdmYWxzZScKICAgIGFydGlmRGVwbG95ID0gJ3RydWUnCiAgICBydW5Tb25hciA9ICdmYWxzZScKICAgIHJ1blNvbmFyQW5hbHlzaXMgPSAnZmFsc2UnCiAgICBkb2NTaXRlRGVwbG95ID0gJ2ZhbHNlJwogICAgZ2l0Q3JlZCA9ICdTVkNzdGFzaHVzZXInCiAgICBzb25hcnF1YmVIb3N0ID0gJ2h0dHA6Ly9jdXNvLmVkYi5zZS9zb25hcicKICAgIGVtYWlsID0gJ3Nlcm9rLmZlcmVqQGV2cnkuY29tJwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2ggJ2dpdCByZW1vdGUgLXYnCg==</text>
+        <text encoding="base64">ICAgIC8vYWdlbnROYW1lID0gIlNMQVZFLTAzMiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZWNobyBzaCAncHdkJwo=</text>
+        <text encoding="base64">ICAgIG15RGVsaXZlcnlQaXBlbGluZSB7CiAgICAgICAgYnJhbmNoID0gZW52LkJSQU5DSF9OQU1FCiAgICAgICAgLy9naXRVcmwgPSAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9lc2J1L2J1c2luZXNzLmFwcGxpY2F0aW9uLnN5c3RlbS51cGRhdGVyZXNvdXJjZWxvY2sudjFfMC5naXQnCiAgICAgICAgZ2l0VXJsID0gZ2V0Q2xvbmVVcmwoZW52LkpPQl9OQU1FKQogICAgICAgIHNldHRpbmdGaWxlID0gJy9vcHQvY3Vzby9qZW5raW5zL2N1c28tdG9vbHMvbmV4dXMvc2V0dGluZ3MueG1sJwogICAgICAgIC8vYWdlbnROYW1lID0gIlNMQVZFLTAzMiIKICAgICAgICBhZ2VudE5hbWUgPSAnbWFzdGVyJwogICAgICAgIC8vaW5KZW5raW5zZmlsZSA9ICd0cnVlJwogICAgICAgIHJ1bkRlcGVuZCA9ICd0cnVlJwogICAgICAgIG1hdmVuQnVpbGQgPSAndHJ1ZScKICAgICAgICB2ZXJTbmFwID0gJ3RydWUnCiAgICAgICAgbXZuU2l0ZSA9ICdmYWxzZScKICAgICAgICBhcnRpZkRlcGxveSA9ICd0cnVlJwogICAgICAgIHJ1blNvbmFyID0gJ2ZhbHNlJwogICAgICAgIHJ1blNvbmFyQW5hbHlzaXMgPSAnZmFsc2UnCiAgICAgICAgZG9jU2l0ZURlcGxveSA9ICdmYWxzZScKICAgICAgICBnaXRDcmVkID0gJ1NWQ3N0YXNodXNlcicKICAgICAgICBzb25hcnF1YmVIb3N0ID0gJ2h0dHA6Ly9jdXNvLmVkYi5zZS9zb25hcicKICAgICAgICBlbWFpbCA9ICdzZXJvay5mZXJlakBldnJ5LmNvbScKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZWNobyBlbnYuSk9CX05BTUUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2ggJ2dpdCByZW1vdGUgLXYnCiAgICAgIGVjaG8gZW52LkpPQl9OQU1FCg==</text>
+        <text encoding="base64">Ly8gICAgICBzaCAiZ2l0IC0tZ2l0LWRpcj0ke2Vudi5XT1JLU1BBQ0V9IHJlbW90ZSAtdiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZWNobyByZW1vdGUK</text>
+        <text encoding="base64">ICAgICAgICBzaCAncHdkJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIGVudi5CSVRCVUNLRVRfR0lUX0hUVFBfT1JJR0lOCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/mavenSettings/mavenJob/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>branch</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>branch</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>mavenJob</last-replace>
       <last-substitute>mavenSettings</last-substitute>
       <last-dir>1</last-dir>
@@ -396,12 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry>readMab</entry>
-        <entry>pom</entry>
-        <entry>jdk</entry>
-        <entry>)</entry>
-        <entry encoding="base64">XDxkZWxlZ2F0ZVw+</entry>
-        <entry>Maven</entry>
         <entry>]</entry>
         <entry>'</entry>
         <entry>3</entry>
@@ -413,9 +407,15 @@
         <entry>crede</entry>
         <entry>mavenSettings</entry>
         <entry>&quot;</entry>
-        <entry>vars</entry>
         <entry>state</entry>
         <entry>branch</entry>
+        <entry>checkou</entry>
+        <entry>vars</entry>
+        <entry>settings</entry>
+        <entry>rundepe</entry>
+        <entry>gitCred</entry>
+        <entry>inJenk</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
