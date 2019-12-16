@@ -8,7 +8,7 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/git-T1912/maven.settings/src/main/resources/settings.xml" timestamp="1576164868803">
+      <file name="$USER_HOME$/git-T1912/maven.settings/src/main/resources/settings.xml" timestamp="1576491882506">
         <mark key="'" line="16" column="30" />
         <mark key="[" line="57" column="42" />
         <mark key="]" line="57" column="48" />
@@ -66,11 +66,11 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/git-T1912/maven.settings/Jenkinsfile" timestamp="1576487002667">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="5" />
+      <file name="$USER_HOME$/git-T1912/maven.settings/Jenkinsfile" timestamp="1576491550475">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/git-T1912/cd.jenkins.lib/src/com/evry/t1912/cd/jenkins/lib/Bitbucket.groovy" timestamp="1576081156789">
         <mark key="'" line="84" column="37" />
@@ -105,6 +105,12 @@
         <mark key="]" line="31" column="21" />
         <mark key="." line="31" column="21" />
         <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/git-T1912/maven.settings/pom.xml" timestamp="1576492203599">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/git/rsimulator/rsimulator-http/pom.xml" timestamp="1576312440337">
         <mark key="[" line="11" column="17" />
@@ -145,11 +151,6 @@
         <mark key="]" line="13" column="36" />
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
-      </file>
-      <file name="$USER_HOME$/git-T1912/cd.jenkins.sync/README.md" timestamp="1576070974209">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/resources/se/lf/csl/common/test/ast/Backend2RequestTemplate.xml" timestamp="1575021960857">
         <mark key="[" line="3" column="19" />
@@ -300,7 +301,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGUgPSA=</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text>env</text>
@@ -309,7 +310,7 @@
         <text encoding="base64">ICAgIG12biBjbGVhbiBpbnN0YWxsIGRlcGxveQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyBzdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -356,28 +357,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgYWdlbnROYW1lID0gJ21hc3RlcicKLy8gICAgLy9pbkplbmtpbnNmaWxlID0gJ3RydWUnCi8vICAgIHJ1bkRlcGVuZCA9ICd0cnVlJwovLyAgICBtYXZlbkJ1aWxkID0gJ3RydWUnCi8vICAgIHZlclNuYXAgPSAndHJ1ZScKLy8gICAgbXZuU2l0ZSA9ICdmYWxzZScKLy8gICAgYXJ0aWZEZXBsb3kgPSAndHJ1ZScKLy8gICAgcnVuU29uYXIgPSAnZmFsc2UnCi8vICAgIHJ1blNvbmFyQW5hbHlzaXMgPSAnZmFsc2UnCi8vICAgIGRvY1NpdGVEZXBsb3kgPSAnZmFsc2UnCi8vICAgIGdpdENyZWQgPSAnU1ZDc3Rhc2h1c2VyJwovLyAgICBzb25hcnF1YmVIb3N0ID0gJ2h0dHA6Ly9jdXNvLmVkYi5zZS9zb25hcicKLy8gICAgZW1haWwgPSAnc2Vyb2suZmVyZWpAZXZyeS5jb20nCi8vfQovLyAgICB9Ci8vfQovL25vZGUoJ21hc3RlcicpIHsKLy8gICAgc3RhZ2UoJ3gnKSB7Ci8vICAgICAgICBlY2hvIHNoKHNjcmlwdDogJ2Vudnxzb3J0JywgcmV0dXJuU3Rkb3V0OiB0cnVlKQovLyAgICAgICAgY2xvbmVVcmwgPSBnZXRDbG9uZVVybChlbnYuSk9CX05BTUUpCi8vICAgICAgICAKLy8gICAgICAgIGNyZWRlbnRpYWxzSWQgPSAnU1ZDc3Rhc2h1c2VyJwovLyAgICAgICAgZ2l0KHVybDogY2xvbmVVcmwsIGJyYW5jaDogZW52LkJSQU5DSF9OQU1FLCBjcmVkZW50aWFsc0lkOiBjcmVkZW50aWFsc0lkKQovLyAgICAgICAgc2ggJ2xzIC1hbCcKLy8gICAgfQovLwovL30KCgo=</text>
+        <text encoding="base64">ZWNobyBzdGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgc2V0dGluZ0ZpbGUgPSAnL29wdC9jdXNvL2plbmtpbnMvY3Vzby10b29scy9uZXh1cy9zZXR0aW5ncy54bWwnCg==</text>
+        <text encoding="base64">Ly8gICAgYWdlbnROYW1lID0gJ21hc3RlcicKLy8gICAgLy9pbkplbmtpbnNmaWxlID0gJ3RydWUnCi8vICAgIHJ1bkRlcGVuZCA9ICd0cnVlJwovLyAgICBtYXZlbkJ1aWxkID0gJ3RydWUnCi8vICAgIHZlclNuYXAgPSAndHJ1ZScKLy8gICAgbXZuU2l0ZSA9ICdmYWxzZScKLy8gICAgYXJ0aWZEZXBsb3kgPSAndHJ1ZScKLy8gICAgcnVuU29uYXIgPSAnZmFsc2UnCi8vICAgIHJ1blNvbmFyQW5hbHlzaXMgPSAnZmFsc2UnCi8vICAgIGRvY1NpdGVEZXBsb3kgPSAnZmFsc2UnCi8vICAgIGdpdENyZWQgPSAnU1ZDc3Rhc2h1c2VyJwovLyAgICBzb25hcnF1YmVIb3N0ID0gJ2h0dHA6Ly9jdXNvLmVkYi5zZS9zb25hcicKLy8gICAgZW1haWwgPSAnc2Vyb2suZmVyZWpAZXZyeS5jb20nCi8vfQovLyAgICB9Ci8vfQovL25vZGUoJ21hc3RlcicpIHsKLy8gICAgc3RhZ2UoJ3gnKSB7Ci8vICAgICAgICBlY2hvIHNoKHNjcmlwdDogJ2Vudnxzb3J0JywgcmV0dXJuU3Rkb3V0OiB0cnVlKQovLyAgICAgICAgY2xvbmVVcmwgPSBnZXRDbG9uZVVybChlbnYuSk9CX05BTUUpCi8vICAgICAgICAKLy8gICAgICAgIGNyZWRlbnRpYWxzSWQgPSAnU1ZDc3Rhc2h1c2VyJwovLyAgICAgICAgZ2l0KHVybDogY2xvbmVVcmwsIGJyYW5jaDogZW52LkJSQU5DSF9OQU1FLCBjcmVkZW50aWFsc0lkOiBjcmVkZW50aWFsc0lkKQovLyAgICAgICAgc2ggJ2xzIC1hbCcKLy8gICAgfQovLwovL30KCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgZ2l0VXJsID0gY2xvbmVVcmwK</text>
+        <text encoding="base64">Ly8gICAgc2V0dGluZ0ZpbGUgPSAnL29wdC9jdXNvL2plbmtpbnMvY3Vzby10b29scy9uZXh1cy9zZXR0aW5ncy54bWwnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgLy9naXRVcmwgPSAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9lc2J1L2J1c2luZXNzLmFwcGxpY2F0aW9uLnN5c3RlbS51cGRhdGVyZXNvdXJjZWxvY2sudjFfMC5naXQnCg==</text>
+        <text encoding="base64">Ly8gICAgZ2l0VXJsID0gY2xvbmVVcmwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgYnJhbmNoID0gYnJhbmNoTmFtZQo=</text>
+        <text encoding="base64">Ly8gICAgLy9naXRVcmwgPSAnaHR0cDovL2N1c28uZWRiLnNlL3N0YXNoL3NjbS9lc2J1L2J1c2luZXNzLmFwcGxpY2F0aW9uLnN5c3RlbS51cGRhdGVyZXNvdXJjZWxvY2sudjFfMC5naXQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9teURlbGl2ZXJ5UGlwZWxpbmUgewo=</text>
+        <text encoding="base64">Ly8gICAgYnJhbmNoID0gYnJhbmNoTmFtZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9jbG9uZVVybCA9IGdldENsb25lVXJsKGVudi5KT0JfTkFNRSkK</text>
+        <text encoding="base64">Ly9teURlbGl2ZXJ5UGlwZWxpbmUgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9icmFuY2hOYW1lID0gZW52LkJSQU5DSF9OQU1FCg==</text>
+        <text encoding="base64">Ly9jbG9uZVVybCA9IGdldENsb25lVXJsKGVudi5KT0JfTkFNRSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/mavenSettings/mavenJob/gc</text>
