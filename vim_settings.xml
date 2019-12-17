@@ -160,12 +160,12 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/Jenkinsfile" timestamp="1576594851008">
-        <mark key="'" line="8" column="12" />
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="1" column="11" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/Jenkinsfile" timestamp="1576596901946">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="7" column="8" />
       </file>
       <file name="$USER_HOME$/git/rsimulator/rsimulator-core/src/test/java/com/github/bjuvensjo/rsimulator/core/handler/regexp/TestJsonHandler.java" timestamp="1561987521434">
         <mark key="[" line="33" column="5" />
@@ -214,6 +214,13 @@
       <file name="/fragment.java" timestamp="1575116073694">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/buildMaven.groovy" timestamp="1576596309176">
+        <mark key="'" line="28" column="52" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/slask/groovy_xml/groovyXml/pom.xml" timestamp="1574882542413">
         <mark key="[" line="15" column="16" />
       </file>
@@ -225,15 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="51" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="170" column="51" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="177" column="51" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="185" column="51" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="22" column="12" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="29" column="101" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="36" column="102" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="49" column="101" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
-      <jump line="56" column="102" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="69" column="101" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="76" column="102" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
       <jump line="94" column="117" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/XmlSupportTest.groovy" />
@@ -325,19 +323,28 @@
       <jump line="90" column="49" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/Jenkinsfile" />
       <jump line="8" column="5" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/Jenkinsfile" />
       <jump line="17" column="12" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/Jenkinsfile" />
+      <jump line="79" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/buildMaven.groovy" />
+      <jump line="18" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/Jenkinsfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/Jenkinsfile" />
+      <jump line="10" column="69" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/buildMaven.groovy" />
+      <jump line="51" column="43" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/buildMaven.groovy" />
+      <jump line="3" column="7" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/buildMaven.groovy" />
+      <jump line="6" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/buildMaven.groovy" />
+      <jump line="25" column="26" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/buildMaven.groovy" />
+      <jump line="29" column="52" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/buildMaven.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>Ms</text>
+        <text>pom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBqb2JVdGlsID0gbG9hZCAiLi4vJHtlbnYuSk9CX05BTUV9QHNjcmlwdC9zcmMvc2UvbGYvY2QvamVua2lucy9qb2IvSm9iVXRpbC5ncm9vdnkiCg==</text>
+        <text encoding="base64">U3RyaW5nIGxvYWRTY3JpcHQoU3RyaW5nIHNjcmlwdFBhdGgpIHsKICAgIFN0cmluZyB3b3Jrc3BhY2UgPSBlbnYuV09SS1NQQUNFCiAgICBTdHJpbmcgc2NyaXB0RGlyID0gd29ya3NwYWNlLmNvbnRhaW5zKCdAJykgPyAiJHt3b3Jrc3BhY2Uuc3BsaXQoJ0AnKVswXX1Ac2NyaXB0IiA6ICIke3dvcmtzcGFjZX1Ac2NyaXB0IgogICAgbG9hZCAiJHtzY3JpcHREaXJ9LyR7c2NyaXB0UGF0aH0iCn0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgZGVmIGpvYlV0aWwgPSBsb2FkICIuLi8ke2Vudi5KT0JfTkFNRX1Ac2NyaXB0L3NyYy9zZS9sZi9jZC9qZW5raW5zL2pvYi9Kb2JVdGlsLmdyb292eSIK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -384,37 +391,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgZGVmIGpvYlV0aWwgPSBsb2FkICIke2dldFNjcmlwdFBhdGgoZW52LldPUktTUEFDRSBhcyBTdHJpbmcpfS9zcmMvc2UvbGYvY2QvamVua2lucy9qb2IvSm9iVXRpbC5ncm9vdnkiCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnTm8gcG9tIGZpbGUhJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZSgnSW5mbycpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U3RyaW5nIGdldFNjcmlwdFBhdGgoU3RyaW5nIHdvcmtzcGFjZSkgewogICAgaWYgKHdvcmtzcGFjZS5jb250YWlucygnQCcpKSB7CiAgICAgICAgIiR7d29ya3NwYWNlLnNwbGl0KCdAJylbMF19QHNjcmlwdCIKICAgIH0gZWxzZSB7CiAgICAgICAgIiR7d29ya3NwYWNlfUBzY3JpcHQiCg==</text>
+        <text encoding="base64">ICAgIGlmIChuZXcgRmlsZShzdGF0ZS5wb21GaWxlIGFzIFN0cmluZykuZXhpc3RzKCkpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQ2hhbmdlIQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnQ2hhbmdlIG1lIHRvIGxvYWQgY29uZmlndXJhdGlvbiByZWxlYXNlIHBpcGVsaW5lJwo=</text>
+        <text encoding="base64">U3RyaW5nIGdldFNjcmlwdFBhdGgoU3RyaW5nIHdvcmtzcGFjZSkgewogICAgaWYgKHdvcmtzcGFjZS5jb250YWlucygnQCcpKSB7CiAgICAgICAgIiR7d29ya3NwYWNlLnNwbGl0KCdAJylbMF19QHNjcmlwdCIKICAgIH0gZWxzZSB7CiAgICAgICAgIiR7d29ya3NwYWNlfUBzY3JpcHQiCiAgICB9Cn0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZCAiLi4vJHtzdGF0ZS5qb2JOYW1lfUBzY3JpcHQvSmVua2luc2ZpbGVfY2QiCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICkKICAgIHNjcmlwdERpciA9ICIuLi8ke2Vudi5KT0JfTkFNRX1Ac2NyaXB0IgogICAgbG9hZCAiJHtzY3JpcHREaXJ9Lw==</text>
       </register>
       <register name=":" type="4">
         <text>%s/mavenSettings/mavenJob/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>Ms</last-search>
+      <last-search>pom</last-search>
       <last-offset />
-      <last-pattern>Ms</last-pattern>
+      <last-pattern>pom</last-pattern>
       <last-replace>mavenJob</last-replace>
       <last-substitute>mavenSettings</last-substitute>
       <last-dir>1</last-dir>
@@ -422,9 +429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>3</entry>
-        <entry>2</entry>
-        <entry>1</entry>
         <entry encoding="base64">PA==</entry>
         <entry>arti</entry>
         <entry encoding="base64">XDxtYXZlblNldHRpbmdTY21VcmxcPg==</entry>
@@ -442,6 +446,9 @@
         <entry>env</entry>
         <entry>state</entry>
         <entry>Ms</entry>
+        <entry>build</entry>
+        <entry>load</entry>
+        <entry>pom</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
