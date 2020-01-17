@@ -265,9 +265,9 @@
         <mark key="]" line="15" column="8" />
         <mark key="." line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/pom.super/pom.xml" timestamp="1579253711696">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/pom.super/pom.xml" timestamp="1579255239291">
         <mark key="a" line="641" column="12" />
-        <mark key="'" line="183" column="0" />
+        <mark key="'" line="23" column="67" />
         <mark key="[" line="22" column="42" />
         <mark key="m" line="183" column="0" />
         <mark key="]" line="22" column="42" />
@@ -294,7 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="60" filename="$USER_HOME$/git-T1912/maven.settings/src/main/resources/settings.xml" />
       <jump line="56" column="28" filename="$USER_HOME$/git-T1912/maven.settings/src/main/resources/settings.xml" />
       <jump line="9" column="27" filename="$USER_HOME$/git-T1912/maven.settings/src/main/resources/settings.xml" />
       <jump line="10" column="28" filename="$USER_HOME$/git-T1912/maven.settings/src/main/resources/settings.xml" />
@@ -394,13 +393,14 @@
       <jump line="180" column="33" filename="$USER_HOME$/git-PESCPOC/PESCPOC/pom.super/pom.xml" />
       <jump line="181" column="32" filename="$USER_HOME$/git-PESCPOC/PESCPOC/pom.super/pom.xml" />
       <jump line="182" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/pom.super/pom.xml" />
+      <jump line="23" column="67" filename="$USER_HOME$/git-PESCPOC/PESCPOC/pom.super/pom.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>jacoco</text>
+        <text>spring</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8amFjb2NvLW1hdmVuLXBsdWdpbi52ZXJzaW9uPjAuOC4yCg==</text>
@@ -481,9 +481,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jacoco</last-search>
+      <last-search>spring</last-search>
       <last-offset />
-      <last-pattern>jacoco</last-pattern>
+      <last-pattern>spring</last-pattern>
       <last-replace>mavenJob</last-replace>
       <last-substitute>mavenSettings</last-substitute>
       <last-dir>1</last-dir>
@@ -491,7 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>evry</entry>
         <entry encoding="base64">LS0+</entry>
         <entry>groovy</entry>
         <entry encoding="base64">XDxsb2diYWNrXD4=</entry>
@@ -511,6 +510,7 @@
         <entry>byte</entry>
         <entry>obj</entry>
         <entry>jacoco</entry>
+        <entry>spring</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
