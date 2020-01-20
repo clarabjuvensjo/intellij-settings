@@ -33,10 +33,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/executePipeline.groovy" timestamp="1579512522206">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/executePipeline.groovy" timestamp="1579513335243">
         <mark key="[" line="1" column="8" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/SlaskTest.groovy" timestamp="1579457650008">
         <mark key="'" line="3" column="14" />
@@ -459,7 +459,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
