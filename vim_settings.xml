@@ -15,11 +15,12 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/executePipeline.groovy" timestamp="1579523577525">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/executePipeline.groovy" timestamp="1579527093983">
         <mark key="'" line="4" column="27" />
         <mark key="[" line="4" column="78" />
-        <mark key="]" line="4" column="92" />
-        <mark key="." line="4" column="28" />
+        <mark key="]" line="4" column="78" />
+        <mark key="." line="4" column="78" />
+        <mark key="^" line="4" column="77" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/SlaskTest.groovy" timestamp="1579457650008">
         <mark key="'" line="3" column="14" />
@@ -368,7 +369,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>x</text>
+        <text>GIT_BRANCH_NAME</text>
       </register>
       <register name="/" type="4">
         <text>GIT</text>
