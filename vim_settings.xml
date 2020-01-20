@@ -15,12 +15,12 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/executePipeline.groovy" timestamp="1579527093983">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/executePipeline.groovy" timestamp="1579528892755">
         <mark key="'" line="4" column="27" />
-        <mark key="[" line="4" column="78" />
-        <mark key="]" line="4" column="78" />
-        <mark key="." line="4" column="78" />
-        <mark key="^" line="4" column="77" />
+        <mark key="[" line="6" column="65" />
+        <mark key="]" line="4" column="70" />
+        <mark key="." line="4" column="70" />
+        <mark key="^" line="4" column="70" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/SlaskTest.groovy" timestamp="1579457650008">
         <mark key="'" line="3" column="14" />
@@ -157,10 +157,10 @@
         <mark key="]" line="52" column="30" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" timestamp="1579459132177">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" timestamp="1579528455661">
         <mark key="a" line="63" column="95" />
         <mark key="'" line="5" column="20" />
-        <mark key="[" line="27" column="0" />
+        <mark key="[" line="74" column="5" />
         <mark key="m" line="53" column="48" />
         <mark key="]" line="29" column="74" />
         <mark key="." line="36" column="0" />
@@ -369,7 +369,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>GIT_BRANCH_NAME</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text>GIT</text>
