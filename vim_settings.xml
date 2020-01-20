@@ -166,11 +166,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ws-pescpoc/pom.xml" timestamp="1579191293004">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="28" />
-        <mark key="." line="23" column="28" />
-        <mark key="^" line="23" column="28" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ws-pescpoc/pom.xml" timestamp="1579460330124">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="18" column="28" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/AbstractSpecificationTest.groovy" timestamp="1575116137665">
         <mark key="[" line="12" column="0" />
@@ -209,11 +209,6 @@
         <mark key="m" line="53" column="48" />
         <mark key="]" line="29" column="74" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.job/Jenkinsfile" timestamp="1579430728010">
-        <mark key="'" line="30" column="58" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="61" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/maven.settings/src/main/resources/settings.xml" timestamp="1579188417254">
         <mark key="[" line="101" column="0" />
@@ -467,7 +462,7 @@
         <text encoding="base64">ICAgICAgICBzcGVjLmdldFNjbVN0YXRlKFtHSVRfQ09NTUlUOiAxLCBHSVRfUFJFVklPVVNfQ09NTUlUOiAyXSkgPT0gW2dpdENvbW1pdCAgICAgICAgOiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2l0UHJldmlvdXNDb21taXQ6IDIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cGRhdGVkICAgICAgICAgIDogdHJ1ZV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRmlsZSgiJHt3b3Jrc3BhY2V9L3NyYy9tYWluL3Jlc291cmNlcy9NRVRBLUlORi9idWlsZF9jb21taXQiKS50ZXh0ID09ICdzaGEnCg==</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPi4uL21zLmNhcmQ8L21vZHVsZT4KICAgICAgICA8bW9kdWxlPi4uL21zLmZ1bmQ8L21vZHVsZT4KICAgICAgICA8bW9kdWxlPi4uL21zLnBheW1lbnQ8L21vZHVsZT4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -514,28 +509,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbZ2l0Q29tbWl0ICAgICAgICA6IDEsCiAgICAgICAgIGdpdFByZXZpb3VzQ29tbWl0OiAyLAogICAgICAgICB1cGRhdGVkICAgICAgICAgIDogdHJ1ZV0K</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPi4uL2NkLmplbmtpbnMuc3luYzwvbW9kdWxlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbR0lUX0NPTU1JVDogMSwgR0lUX1BSRVZJT1VTX0NPTU1JVDogMl0K</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPi4uL2NkLmplbmtpbnMuam9iPC9tb2R1bGU+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>scmVars.GIT_COMMIT != scmVars.GIT_PREVIOUS_COMMIT</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgRmlsZSgiJHt3b3Jrc3BhY2V9L3NyYy9tYWluL3Jlc291cmNlcy9NRVRBLUlORi9idWlsZF9jb21taXQiKS50ZXh0ID09ICdzaGEnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjKHdvcmtzcGFjZS5hYnNvbHV0ZVBhdGgsICdzaGEnKQo=</text>
+        <text encoding="base64">ICAgICAgICBbZ2l0Q29tbWl0ICAgICAgICA6IDEsCiAgICAgICAgIGdpdFByZXZpb3VzQ29tbWl0OiAyLAogICAgICAgICB1cGRhdGVkICAgICAgICAgIDogdHJ1ZV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgd29ya3NwYWNlID0gRmlsZS5jcmVhdGVUZW1wRGlyKCkK</text>
+        <text encoding="base64">ICAgICAgICBbR0lUX0NPTU1JVDogMSwgR0lUX1BSRVZJT1VTX0NPTU1JVDogMl0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="7" type="4">
+        <text>scmVars.GIT_COMMIT != scmVars.GIT_PREVIOUS_COMMIT</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjLmdldFNjbVN0YXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICBzcGVjKHdvcmtzcGFjZS5hYnNvbHV0ZVBhdGgsICdzaGEnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiAnZ2V0U2NtU3RhdGUnKCkgewogICAgICAgIHdoZW46CiAgICAgICAgZGVmIHNwZWMgPSBidWlsZE1hdmVuKCkKICAgICAgICAKICAgICAgICB0aGVuOgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgd29ya3NwYWNlID0gRmlsZS5jcmVhdGVUZW1wRGlyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/mavenSettings/mavenJob/gc</text>
