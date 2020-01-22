@@ -116,9 +116,10 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.release/slask" timestamp="1579697398403">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="14" column="0" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.release/slask" timestamp="1579699258559">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="40" column="9" />
+        <mark key="." line="23" column="9" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfiguration.groovy" timestamp="1579544765073">
         <mark key="[" line="31" column="0" />
@@ -403,13 +404,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/cd.jenkins.release/${state.buildRepo.branch}</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZCBqb2I6ICJQRVNDUE9DL2NkLmplbmtpbnMucmVsZWFzZS8ke3N0YXRlLmJ1aWxkUmVwby5icmFuY2h9Iiwgd2FpdDogZmFsc2UsIHBhcmFtZXRlcnM6IFsKICAgICAgICAgICAgICAgIHN0cmluZyhuYW1lOiAnQVJUSUZBQ1RfTkFNRScsIHZhbHVlOiBlbnYuSk9CX05BTUUpLAogICAgICAgICAgICAgICAgc3RyaW5nKG5hbWU6ICdDT01NSVRfSUQnLCB2YWx1ZTogc3RhdGUuYnVpbGRSZXBvLmdpdENvbW1pdCkKICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBPdXRzaWRlIG5vZGUgdG8gbm90IGJsb2NrIGFnZW50CiAgICAgICAgaWYgKGVudmlyb25tZW50WzFdKSB7CiAgICAgICAgICAgIHN0YWdlKCIke2Vudmlyb25tZW50WzBdfSBhcHByb3ZlPyIpIHsKICAgICAgICAgICAgICAgIHRpbWVvdXQodGltZTogMTUsIHVuaXQ6ICJNSU5VVEVTIikgewogICAgICAgICAgICAgICAgICAgIGRlZiBjb21tZW50ID0gaW5wdXQoCiAgICAgICAgICAgICAgICAgICAgIGlkOiAndXNlcklucHV0JywgbWVzc2FnZTogJ0xldFwncyBwcm9tb3RlPycsIHBhcmFtZXRlcnM6IFsKICAgICAgICAgICAgICAgICAgICAgWyRjbGFzczogJ1RleHRQYXJhbWV0ZXJEZWZpbml0aW9uJywgZGVmYXVsdFZhbHVlOiAnJywgZGVzY3JpcHRpb246ICdDb21tZW50JywgbmFtZTogJ2NvbW1lbnQnXQogICAgICAgICAgICAgICAgICAgIF0pCiAgICAgICAgICAgICAgICAgICAgZWNobyAoIkNvbW1lbnQ6ICIrIGNvbW1lbnQpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgLy8gU3RhcnQgQWdlbnQgQWdhaW4KICAgICAgICBub2RlKCdtYXN0ZXInKSB7CiAgICAgICAgICAgIHN0YWdlKCIke2Vudmlyb25tZW50WzBdfSBkZXBsb3kiKSB7CiAgICAgICAgICAgICAgICAvL3Vuc3Rhc2goIiR7ZW52LkJVSUxEX05VTUJFUn1fJHtwYXJhbXMuQ09NTUlUX0lEfSIpCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
         <text>/cd.jenkins.release/${state.buildRepo.branch}</text>
