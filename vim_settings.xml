@@ -89,7 +89,7 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMs.groovy" timestamp="1579625425675">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMs.groovy" timestamp="1579690994530">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="16" column="29" />
@@ -130,11 +130,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ws-pescpoc/pom.xml" timestamp="1579686766339">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="11" column="37" />
-        <mark key="." line="11" column="37" />
-        <mark key="^" line="11" column="37" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ws-pescpoc/pom.xml" timestamp="1579690869842">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="42" />
+        <mark key="^" line="10" column="37" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/slask.groovy" timestamp="1575277808018">
         <mark key="[" line="0" column="37" />
@@ -391,7 +391,7 @@
         <text>GIT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29vcmRpbmF0ZXMucmVwby5lbmRzV2l0aCgnLWNvbmZpZ3VyYXRpb24nKSkgewogICAgICAgICAgICBidWlsZCBqb2I6ICJQRVNDUE9DXyR7ZW52aXJvbm1lbnRbMF19IidQRVNDUE9DX3JlbGVhc2UnLCB3YWl0OiBmYWxzZSwgcGFyYW1ldGVyczogWwogICAgICAgICAgICAgICAgICAgIHN0cmluZyhuYW1lOiAnQVJUSUZBQ1RfTkFNRScsIHZhbHVlOiBlbnYuSk9CX05BTUUpLAogICAgICAgICAgICAgICAgICAgIHN0cmluZyhuYW1lOiAnQ09NTUlUX0lEJywgdmFsdWU6IHN0YXRlLmJ1aWxkUmVwby5naXRDb21taXQpCiAgICAgICAgICAgIF0KICAgICAgICAgICAgcmVsZWFzZU1zQ29uZmlndXJhdGlvbihlbnYsIHN0YXRlKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJlbGVhc2VNcyhlbnYsIHN0YXRlKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIFsKICAgICAgICAgICAgWydEZXYnLCBmYWxzZV0sCiAgICAgICAgICAgIFsnU3lzJywgZmFsc2VdLAogICAgICAgICAgICBbJ0FjYycsIHRydWVdLAogICAgICAgICAgICBbJ1JlbCcsIHRydWVdLAogICAgICAgICAgICBbJ1Byb2QnLCB0cnVlXQogICAgXS5lYWNoKCkgeyBlbnZpcm9ubWVudCAtPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgfQo=</text>
