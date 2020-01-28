@@ -245,6 +245,12 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask1.java" timestamp="1580207239132">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="46" />
+        <mark key="." line="36" column="54" />
+        <mark key="^" line="36" column="54" />
+      </file>
       <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/test/se/lf/tfs/definition/DefinitionSynchronizerTest.groovy" timestamp="1575388465103">
         <mark key="[" line="104" column="121" />
         <mark key="]" line="92" column="9" />
@@ -316,11 +322,12 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/YamlExample.java" timestamp="1580206022762">
-        <mark key="'" line="82" column="31" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="84" column="54" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/YamlExample.java" timestamp="1580207270137">
+        <mark key="'" line="81" column="31" />
+        <mark key="[" line="89" column="50" />
+        <mark key="]" line="90" column="7" />
+        <mark key="^" line="90" column="7" />
+        <mark key="." line="90" column="7" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/createApiClient.groovy" timestamp="1579795127496">
         <mark key="[" line="4" column="0" />
@@ -486,16 +493,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>;</text>
+        <text>~/.kube/config</text>
       </register>
       <register name="/" type="4">
-        <text>yaml</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGRlcGxveW1lbnRGaWxlID0gbmV3IEZpbGUoIi9Vc2Vycy9tYWdudXMvZ2l0LVBFU0NQT0MvUEVTQ1BPQy9jZC5rdWJlcm5ldGVzLmNsaWVudC92YXJzL2RlcGxveW1lbnQueWFtbCIpOwogICAgICAgIEZpbGUgc2VydmljZUZpbGUgPSBuZXcgRmlsZSgiL1VzZXJzL21hZ251cy9naXQtUEVTQ1BPQy9QRVNDUE9DL2NkLmt1YmVybmV0ZXMuY2xpZW50L3ZhcnMvc2VydmljZS55YW1sIik7CiAgICAgICAgRmlsZSBpbmdyZXNzRmlsZSA9IG5ldyBGaWxlKCIvVXNlcnMvbWFnbnVzL2dpdC1QRVNDUE9DL1BFU0NQT0MvY2Qua3ViZXJuZXRlcy5jbGllbnQvdmFycy9pbmdyZXNzLnlhbWwiKTsKICAgICAgICAKLy8gICAgICAgIEZpbGUgZmlsZSA9IG5ldyBGaWxlKCJ0ZXN0LXN2Yy55YW1sIik7CiAgICAgICAgVjFEZXBsb3ltZW50IHlhbWxEZXBsb3ltZW50ID0gKFYxRGVwbG95bWVudCkgWWFtbC5sb2FkKGRlcGxveW1lbnRGaWxlKTsKICAgICAgICBWMVNlcnZpY2UgeWFtbFNlcnZpY2UgPSAoVjFTZXJ2aWNlKSBZYW1sLmxvYWQoc2VydmljZUZpbGUpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oWWFtbC5kdW1wKHlhbWxEZXBsb3ltZW50KSk7Cg==</text>
+        <text encoding="base64">ICAgIENvbmZpZ3VyYXRpb24uc2V0RGVmYXVsdEFwaUNsaWVudChjbGllbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBWMURlcGxveW1lbnQgZGVwbG95bWVudCA9IChWMURlcGxveW1lbnQpIFlhbWwubG9hZChkZXBsb3ltZW50RmlsZSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBsb2FkaW5nIHRoZSBvdXQtb2YtY2x1c3RlciBjb25maWcsIGEga3ViZWNvbmZpZyBmcm9tIGZpbGUtc3lzdGVtCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -542,37 +549,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGRlcGxveW1lbnRGaWxlID0gbmV3IEZpbGUoIi9Vc2Vycy9tYWdudXMvZ2l0LVBFU0NQT0MvUEVTQ1BPQy9jZC5rdWJlcm5ldGVzLmNsaWVudC92YXJzL2RlcGxveW1lbnQueWFtbCIpOwogICAgICAgIFYxRGVwbG95bWVudCBkZXBsb3ltZW50ID0gKFYxRGVwbG95bWVudCkgWWFtbC5sb2FkKGRlcGxveW1lbnRGaWxlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGRlcGxveW1lbnRGaWxlID0gbmV3IEZpbGUoIi9Vc2Vycy9tYWdudXMvZ2l0LVBFU0NQT0MvUEVTQ1BPQy9jZC5rdWJlcm5ldGVzLmNsaWVudC92YXJzL2RlcGxveW1lbnQueWFtbCIpOwogICAgICAgIFYxRGVwbG95bWVudCBkZXBsb3ltZW50ID0gKFYxRGVwbG95bWVudCkgWWFtbC5sb2FkKGRlcGxveW1lbnRGaWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaWxlIHBhdGggdG8geW91ciBLdWJlQ29uZmlnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEZpbGUgZmlsZSA9IG5ldyBGaWxlKCJ0ZXN0LXN2Yy55YW1sIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBDb25maWd1cmF0aW9uLnNldERlZmF1bHRBcGlDbGllbnQoY2xpZW50KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBBcGlDbGllbnQgY2xpZW50ID0gQ29uZmlnLmRlZmF1bHRDbGllbnQoKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>~/.kube/config</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LnlhbWwiKTsKICAgICAgICBWMURlcGxveW1lbnQg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBWMURlcGxveW1lbnQgZGVwbG95bWVudCA9IChWMURlcGxveW1lbnQpIFlhbWwubG9hZChkZXBsb3ltZW50RmlsZSk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/params.ENVIRONMENT/environment/g</text>
       </register>
     </registers>
     <search>
-      <last-search>yaml</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>yaml</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>environment</last-replace>
       <last-substitute>params.ENVIRONMENT</last-substitute>
       <last-dir>1</last-dir>
@@ -595,11 +602,11 @@
         <entry>)</entry>
         <entry>open</entry>
         <entry>(</entry>
-        <entry>&quot;</entry>
         <entry>depl</entry>
         <entry>Serv</entry>
         <entry>deploymentF</entry>
         <entry>yaml</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
