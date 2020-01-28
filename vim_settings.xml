@@ -96,9 +96,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" timestamp="1579874204676">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" timestamp="1580203198820">
         <mark key="'" line="31" column="33" />
-        <mark key="[" line="31" column="4" />
+        <mark key="[" line="31" column="34" />
         <mark key="]" line="31" column="32" />
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="32" />
@@ -180,6 +180,12 @@
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask.java" timestamp="1580203222916">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ws-pescpoc/pom.xml" timestamp="1579775239175">
         <mark key="[" line="11" column="39" />
@@ -337,9 +343,6 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/pom.super/pom.xml" timestamp="1579788294574">
-        <mark key="'" line="316" column="27" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/spring.web/pom.xml" timestamp="1579253764264">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="22" column="11" />
@@ -353,7 +356,7 @@
         <mark key="^" line="11" column="14" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1579872763740">
+      <file name="/fragment.java" timestamp="1580203251646">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/slask/groovy_xml/groovyXml/pom.xml" timestamp="1574882542413">
@@ -367,7 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="12" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="52" column="16" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="16" column="17" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="17" column="63" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
@@ -467,6 +469,7 @@
       <jump line="32" column="64" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="7" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/coreTest.groovy" />
       <jump line="31" column="33" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
+      <jump line="36" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -479,7 +482,7 @@
         <text encoding="base64">CSAgICAgICAgICAgICAgICA8dXJsPmh0dHA6Ly9jdXNvLmVkYi5zZS9hcnRpZmFjdG9yeS9FWDIwMDEvPC91cmw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEdyYWIoJ29yZy55YW1sOnNuYWtleWFtbDoxLjE4JykK</text>
+        <text encoding="base64">cGFja2FnZSBzZS5sZi5zZXJ2aWNlLmNkLmt1YmVybmV0ZXMuY2xpZW50Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -526,28 +529,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSBzbGFzazEgLS0+Cg==</text>
+        <text encoding="base64">QEdyYWIoJ29yZy55YW1sOnNuYWtleWFtbDoxLjE4JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLSBzbGFzazEgLS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9NYXAgY3JlYXRlTWFuaWZlc3QoU3RyaW5nIHRlbXBsYXRlVGV4dCwgU3RyaW5nIG5hbWUsIE1hcCBvdmVycmlkZXMpIHsKLy8gICAgU3RyaW5nIHJlcGxhY2VkVGVtcGxhdGVUZXh0ID0gdGVtcGxhdGVUZXh0LnJlcGxhY2VBbGwoJyMjbmFtZSMjJywgbmFtZSkKLy8gICAgTWFwIHRlbXBsYXRlID0gKE1hcCkgbmV3IFlhbWwoKS5sb2FkKHJlcGxhY2VkVGVtcGxhdGVUZXh0KQovLyAgICByZXBsYWNlSW5NYXAodGVtcGxhdGUsIG92ZXJyaWRlcykKLy99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TWFwIG0gPSBjcmVhdGVNYW5pZmVzdChuZXcgRmlsZSgnZGVwbG95bWVudC55YW1sJykudGV4dCwgJ2ZvbycsIFs6XSkKcHJpbnRsbihtKQo=</text>
+        <text encoding="base64">Ly9NYXAgY3JlYXRlTWFuaWZlc3QoU3RyaW5nIHRlbXBsYXRlVGV4dCwgU3RyaW5nIG5hbWUsIE1hcCBvdmVycmlkZXMpIHsKLy8gICAgU3RyaW5nIHJlcGxhY2VkVGVtcGxhdGVUZXh0ID0gdGVtcGxhdGVUZXh0LnJlcGxhY2VBbGwoJyMjbmFtZSMjJywgbmFtZSkKLy8gICAgTWFwIHRlbXBsYXRlID0gKE1hcCkgbmV3IFlhbWwoKS5sb2FkKHJlcGxhY2VkVGVtcGxhdGVUZXh0KQovLyAgICByZXBsYWNlSW5NYXAodGVtcGxhdGUsIG92ZXJyaWRlcykKLy99Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q29yZVYxQXBpIGFwaSA9IG5ldyBDb3JlVjFBcGkoKTsKVjFTZXJ2aWNlIGNyZWF0ZVJlc3VsdCA9IGFwaS5jcmVhdGVOYW1lc3BhY2VkU2VydmljZSgiZGVmYXVsdCIsIHlhbWxTdmMsIG51bGwsIG51bGwsIG51bGwpOwo=</text>
+        <text encoding="base64">TWFwIG0gPSBjcmVhdGVNYW5pZmVzdChuZXcgRmlsZSgnZGVwbG95bWVudC55YW1sJykudGV4dCwgJ2ZvbycsIFs6XSkKcHJpbnRsbihtKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW8ua3ViZXJuZXRlcy5jbGllbnQudXRpbC5ZYW1sLmxvYWQoKQo=</text>
+        <text encoding="base64">Q29yZVYxQXBpIGFwaSA9IG5ldyBDb3JlVjFBcGkoKTsKVjFTZXJ2aWNlIGNyZWF0ZVJlc3VsdCA9IGFwaS5jcmVhdGVOYW1lc3BhY2VkU2VydmljZSgiZGVmYXVsdCIsIHlhbWxTdmMsIG51bGwsIG51bGwsIG51bGwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Q6CiAgICAgICAgbmV3IGNvcmUoKS5jcmVhdGVNYW5pZmVzdCh0ZW1wbGF0ZVRleHQsIG5hbWUsIG92ZXJyaWRlcykgPT0gZXhwZWN0ZWQKCiAgICAgICAgd2hlcmU6CiAgICAgICAgdGVtcGxhdGVUZXh0ICAgICAgICAgICAgICAgICAgfCBuYW1lICB8IG92ZXJyaWRlcyB8IGV4cGVjdGVkCiAgICAgICAgJ21ldGFkYXRhOlxuICBuYW1lOiAjI25hbWUjIycgfCAnZm9vJyB8IG51bGwgICAgICB8IFs6XQogICAgfQogICAgCiAgICAKICAgIGRlZiAnc2xhc2snKCkgewo=</text>
+        <text encoding="base64">aW8ua3ViZXJuZXRlcy5jbGllbnQudXRpbC5ZYW1sLmxvYWQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JlLnJlYWRZYW1sKCd4JywgJ3knKSA9PSAnSGVsbG8nCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Q6CiAgICAgICAgbmV3IGNvcmUoKS5jcmVhdGVNYW5pZmVzdCh0ZW1wbGF0ZVRleHQsIG5hbWUsIG92ZXJyaWRlcykgPT0gZXhwZWN0ZWQKCiAgICAgICAgd2hlcmU6CiAgICAgICAgdGVtcGxhdGVUZXh0ICAgICAgICAgICAgICAgICAgfCBuYW1lICB8IG92ZXJyaWRlcyB8IGV4cGVjdGVkCiAgICAgICAgJ21ldGFkYXRhOlxuICBuYW1lOiAjI25hbWUjIycgfCAnZm9vJyB8IG51bGwgICAgICB8IFs6XQogICAgfQogICAgCiAgICAKICAgIGRlZiAnc2xhc2snKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/params.ENVIRONMENT/environment/g</text>
