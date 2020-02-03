@@ -128,6 +128,9 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="6" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/service.yaml" timestamp="1580722213250">
+        <mark key="[" line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" timestamp="1580570005208">
         <mark key="'" line="119" column="25" />
         <mark key="[" line="110" column="1" />
@@ -256,12 +259,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" timestamp="1580571156011">
-        <mark key="'" line="4" column="23" />
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="23" column="22" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" timestamp="1580722157232">
+        <mark key="'" line="7" column="23" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="26" column="22" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask1.java" timestamp="1580373967281">
         <mark key="[" line="47" column="0" />
@@ -312,12 +315,12 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" timestamp="1580720212856">
-        <mark key="'" line="123" column="56" />
-        <mark key="[" line="127" column="48" />
-        <mark key="]" line="127" column="61" />
-        <mark key="." line="127" column="61" />
-        <mark key="^" line="46" column="22" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" timestamp="1580721978542">
+        <mark key="'" line="124" column="56" />
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="128" column="64" />
+        <mark key="." line="128" column="64" />
+        <mark key="^" line="128" column="64" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/pom.xml" timestamp="1575214172223">
         <mark key="[" line="7" column="17" />
@@ -534,7 +537,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Deployment</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>Deployment</text>
