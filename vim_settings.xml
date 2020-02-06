@@ -3,42 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/src/se/lf/cd/jenkins/job/JobUtil.groovy" timestamp="1576598424526">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="15" column="40" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/loadScript.groovy" timestamp="1576597725035">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/executeReleasePipeline.groovy" timestamp="1579698190114">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="34" />
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="34" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/approve.groovy" timestamp="1579771358799">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/getReleasePipeline.groovy" timestamp="1576617374974">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/ReleasePipeline.groovy" timestamp="1579772047990">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" timestamp="1580557018581">
         <mark key="'" line="48" column="4" />
@@ -47,11 +17,11 @@
         <mark key="^" line="95" column="13" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.savingsgoals-cfg/pom.xml" timestamp="1579250829992">
-        <mark key="'" line="13" column="4" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" timestamp="1580992788331">
+        <mark key="[" line="81" column="43" />
+        <mark key="]" line="81" column="70" />
+        <mark key="." line="81" column="70" />
+        <mark key="^" line="81" column="70" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/coreTest.groovy" timestamp="1580396725458">
         <mark key="'" line="8" column="0" />
@@ -65,12 +35,6 @@
         <mark key="]" line="9" column="1" />
         <mark key="^" line="3" column="78" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/Slask.groovy" timestamp="1575020559711">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="5" />
-        <mark key="." line="5" column="5" />
-        <mark key="^" line="5" column="5" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.release/Jenkinsfile" timestamp="1579697897431">
         <mark key="'" line="2" column="0" />
@@ -86,12 +50,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays-cfg/pom.xml" timestamp="1579250811225">
-        <mark key="'" line="7" column="1" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="85" column="10" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.yaml" timestamp="1580478240876">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -103,30 +61,12 @@
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1579457582531">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/git-T1912/cd.jenkins.job/src/com/evry/t1912/cd/jenkins/job/JobUtil.groovy" timestamp="1576081788647">
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="6" column="43" />
-        <mark key="." line="6" column="43" />
-        <mark key="^" line="6" column="43" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMs.groovy" timestamp="1579771469092">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="12" column="42" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask2.groovy" timestamp="1579456327754">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="1" column="6" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/service.yaml" timestamp="1580722213250">
         <mark key="[" line="3" column="16" />
@@ -153,69 +93,21 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="45" column="79" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/getBuildPipeline.groovy" timestamp="1576617777205">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="1" column="21" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/Jenkinsfile" timestamp="1579770264907">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.savingsgoals/pom.xml" timestamp="1579253865841">
-        <mark key="'" line="63" column="20" />
-        <mark key="[" line="64" column="63" />
-        <mark key="]" line="64" column="63" />
-        <mark key="." line="64" column="63" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/main/java/se/lf/service/cd/kubernetes/client/createApiClient.groovy" timestamp="1579789061210">
-        <mark key="'" line="7" column="44" />
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="45" />
-        <mark key="." line="8" column="45" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/io/kubernetes/client-java-api/3.0.0/client-java-api-3.0.0.jar!/io/kubernetes/client/apis/CoreV1Api.class" timestamp="1580465912484">
         <mark key="[" line="12606" column="44" />
         <mark key="]" line="12606" column="100" />
-      </file>
-      <file name="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/slask.groovy" timestamp="1576244950066">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask.java" timestamp="1580383990508">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="36" column="2" />
-        <mark key="]" line="41" column="3" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/kubTest.groovy" timestamp="1580570300028">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ws-pescpoc/pom.xml" timestamp="1579775239175">
-        <mark key="[" line="11" column="39" />
-        <mark key="]" line="11" column="39" />
-        <mark key="." line="11" column="39" />
-        <mark key="^" line="10" column="37" />
-      </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/slask.groovy" timestamp="1575277808018">
         <mark key="[" line="0" column="37" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/getPipeline.groovy" timestamp="1576617707537">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="28" />
-      </file>
-      <file name="$USER_HOME$/git-T1912/cd.jenkins.sync/pom.xml" timestamp="1576070001454">
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="31" column="21" />
-        <mark key="." line="31" column="21" />
-        <mark key="^" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/main/resources/se/lf/service/cd/kubernetes/client/core.py" timestamp="1579798390772">
         <mark key="'" line="13" column="0" />
@@ -236,28 +128,10 @@
         <mark key="." line="33" column="45" />
         <mark key="^" line="33" column="45" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/approveEnvironment.groovy" timestamp="1579771447772">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="4" column="37" />
-        <mark key="." line="4" column="37" />
-        <mark key="^" line="4" column="22" />
-      </file>
-      <file name="$USER_HOME$/git-diba/EX2001/maven.settings/pom.xml" timestamp="1579872362862">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/io/kubernetes/client-java-api/3.0.0/client-java-api-3.0.0.jar!/io/kubernetes/client/apis/AppsV1Api.class" timestamp="1580408968530">
         <mark key="'" line="1237" column="20" />
         <mark key="[" line="2132" column="53" />
         <mark key="]" line="2132" column="276" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/ReleaseMsPipeline.groovy" timestamp="1579770479774">
-        <mark key="'" line="0" column="17" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="7" column="2" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" timestamp="1580724180499">
         <mark key="'" line="7" column="23" />
@@ -266,29 +140,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="26" column="22" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask1.java" timestamp="1580373967281">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="52" column="5" />
-        <mark key="." line="36" column="54" />
-        <mark key="^" line="36" column="54" />
-      </file>
-      <file name="$USER_HOME$/git-csp/CSL/cd.jenkins.lib/test/se/lf/tfs/definition/DefinitionSynchronizerTest.groovy" timestamp="1575388465103">
-        <mark key="[" line="104" column="121" />
-        <mark key="]" line="92" column="9" />
-        <mark key="." line="92" column="9" />
-        <mark key="^" line="92" column="9" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/getRepoCoordinates.groovy" timestamp="1579423871686">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="53" />
-        <mark key="." line="0" column="53" />
-        <mark key="^" line="0" column="53" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" timestamp="1579769084291">
-        <mark key="[" line="0" column="85" />
-        <mark key="]" line="0" column="85" />
-        <mark key="^" line="0" column="85" />
-        <mark key="." line="0" column="85" />
+      <file name="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" timestamp="1580992432121">
+        <mark key="'" line="147" column="81" />
+        <mark key="[" line="148" column="76" />
+        <mark key="]" line="148" column="80" />
+        <mark key="." line="148" column="80" />
+        <mark key="^" line="148" column="80" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/buildMavenTest.groovy" timestamp="1579796711344">
         <mark key="'" line="9" column="0" />
@@ -297,41 +154,11 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/git-T1912/ws-T1912/pom.xml" timestamp="1576069784528">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/pom.xml" timestamp="1579775275327">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="64" column="63" />
-        <mark key="]" line="64" column="63" />
-        <mark key="." line="64" column="63" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/executeBuildPipeline.groovy" timestamp="1579544909429">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" timestamp="1580729364024">
         <mark key="[" line="173" column="19" />
         <mark key="]" line="175" column="19" />
         <mark key="^" line="175" column="19" />
         <mark key="." line="175" column="19" />
-      </file>
-      <file name="$USER_HOME$/git-csp/CSL/common.test.ast/pom.xml" timestamp="1575214172223">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-        <mark key="^" line="7" column="17" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/pom.xml" timestamp="1580204866911">
-        <mark key="[" line="70" column="20" />
-        <mark key="]" line="70" column="20" />
-        <mark key="." line="70" column="20" />
-        <mark key="^" line="70" column="20" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/DeploymentTest.groovy" timestamp="1580725541707">
         <mark key="'" line="48" column="4" />
@@ -351,12 +178,6 @@
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.job/Jenkinsfile" timestamp="1576618138290">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="14" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/YamlExample.java" timestamp="1580207270137">
         <mark key="'" line="81" column="31" />
         <mark key="[" line="89" column="50" />
@@ -364,20 +185,15 @@
         <mark key="^" line="90" column="7" />
         <mark key="." line="90" column="7" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/createApiClient.groovy" timestamp="1579795127496">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="2" />
-        <mark key="." line="4" column="2" />
-        <mark key="^" line="4" column="2" />
-      </file>
       <file name="$USER_HOME$/git/rsimulator/rsimulator-core/src/test/java/com/github/bjuvensjo/rsimulator/core/handler/regexp/TestJsonHandler.java" timestamp="1561987521434">
         <mark key="[" line="33" column="5" />
       </file>
-      <file name="$USER_HOME$/git-T1912/cd.jenkins.lib/vars/repoPipeline.groovy" timestamp="1579441909766">
-        <mark key="'" line="42" column="18" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="53" column="59" />
-        <mark key="." line="33" column="32" />
+      <file name="$USER_HOME$/git-T1912/cd.jenkins.lib/vars/repoPipeline.groovy" timestamp="1580992718371">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="70" column="71" />
+        <mark key="]" line="70" column="75" />
+        <mark key="." line="70" column="75" />
+        <mark key="^" line="70" column="75" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/README_kubectl.md" timestamp="1580475675792">
         <mark key="'" line="6" column="2" />
@@ -386,30 +202,12 @@
         <mark key="." line="35" column="43" />
         <mark key="^" line="35" column="43" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMavenBuildCommitFile.groovy" timestamp="1579458226655">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="88" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/git-T1912/cd.jenkins.lib/src/com/evry/t1912/cd/jenkins/lib/JobSync.groovy" timestamp="1576163552104">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releasePipeline.groovy" timestamp="1579769676144">
         <mark key="'" line="5" column="3" />
         <mark key="[" line="6" column="31" />
         <mark key="]" line="6" column="31" />
         <mark key="." line="6" column="31" />
         <mark key="^" line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/spring.web/pom.xml" timestamp="1579253764264">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="22" column="11" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="22" column="11" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/main/java/se/lf/service/cd/kubernetes/client/Deployment.groovy" timestamp="1579788868638">
         <mark key="'" line="17" column="0" />
@@ -430,17 +228,8 @@
       <file name="$USER_HOME$/slask/groovy_xml/groovyXml/pom.xml" timestamp="1574882542413">
         <mark key="[" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/git-T1912/cd.jenkins.sync/Jenkinsfile" timestamp="1576155466312">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="82" column="31" />
-        <mark key="." line="82" column="32" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="62" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask2.groovy" />
-      <jump line="64" column="32" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask2.groovy" />
-      <jump line="43" column="28" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask2.groovy" />
       <jump line="59" column="39" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/DeploymentTest.groovy" />
       <jump line="57" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/DeploymentTest.groovy" />
       <jump line="28" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask2.groovy" />
@@ -538,19 +327,22 @@
       <jump line="176" column="9" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" />
       <jump line="160" column="3" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" />
       <jump line="153" column="9" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" />
+      <jump line="147" column="81" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" />
+      <jump line="70" column="75" filename="$USER_HOME$/git-T1912/cd.jenkins.lib/vars/repoPipeline.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-T1912/cd.jenkins.lib/vars/repoPipeline.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Creating</text>
+        <text>libs-release-local</text>
       </register>
       <register name="/" type="4">
-        <text>del</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbignQ3JlYXRpbmcnKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAK</text>
+      <register name="1" type="4">
+        <text>libs-release-local</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -577,38 +369,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZGVmIHJlc3VsdAooMS4uMikuZWFjaCB7CiAgICBpZiAoIWhhcyhzcGVjLmYuaGFzLCBzcGVjLm5hbWUsIG5hbWVzcGFjZSwgcHJldHR5KSkgewogICAgICAgIHByaW50bG4oJ0NyZWF0aW5nJykKICAgICAgICByZXN1bHQgPSBjcmVhdGUoc3BlYy5mLmNyZWF0ZSwgc3BlYy5uYW1lLCBuYW1lc3BhY2UsIHNwZWMudGVtcGxhdGVCb2R5LCBzcGVjLm92ZXJyaWRlcywgc3BlYy5jbGFzcywgcHJldHR5KQovLyAgICBwcmludGxuKHJlc3VsdCkKICAgIH0gZWxzZSB7CiAgICAgICAgcHJpbnRsbignUmVwbGFjaW5nJykKICAgICAgICByZXN1bHQgPSByZXBsYWNlKHNwZWMuZi5yZXBsYWNlLCBzcGVjLm5hbWUsIG5hbWVzcGFjZSwgc3BlYy50ZW1wbGF0ZUJvZHksIHNwZWMub3ZlcnJpZGVzLCBzcGVjLmNsYXNzLCBwcmV0dHkpCi8vICAgIHByaW50bG4ocmVzdWx0KQogICAgfQp9CgpyZXN1bHQgPSBsaXN0KHNwZWMuZi5saXN0LCBuYW1lc3BhY2UsIHByZXR0eSwgdHJ1ZSkKcHJpbnRsbihyZXN1bHQpCgppZiAoaGFzKHNwZWMuZi5oYXMsIHNwZWMubmFtZSwgbmFtZXNwYWNlLCBwcmV0dHkpKSB7CiAgICByZXN1bHQgPSBkZWxldGUoc3BlYy5mLmRlbGV0ZSwgc3BlYy5uYW1lLCBuYW1lc3BhY2UsIHByZXR0eSwgMSkKLy8gICAgcHJpbnRsbihyZXN1bHQpCn0KCnJlc3VsdCA9IGxpc3Qoc3BlYy5mLmxpc3QsIG5hbWVzcGFjZSwgcHJldHR5LCB0cnVlKQpwcmludGxuKHJlc3VsdCkKCg==</text>
+      <register name="2" type="4">
+        <text>libs-snapshot-local</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">TWFwIHNwZWMgPSBjb25maWdNYXAK</text>
+      <register name="3" type="4">
+        <text>libs-release-local</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHJpbnRsbignIycgKiA4MCkK</text>
+      <register name="4" type="4">
+        <text>libs-snapshot</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>libs-release</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cmVzdWx0ID0gY3JlYXRlKHNwZWMuZi5jcmVhdGUsIHNwZWMubmFtZSwgbmFtZXNwYWNlLCBzcGVjLnRlbXBsYXRlQm9keSwgc3BlYy5vdmVycmlkZXMsIHNwZWMuY2xhc3MsIHByZXR0eSkKLy9wcmludGxuKHJlc3VsdCkKCnJlc3VsdCA9IGhhcyhzcGVjLmYuaGFzLCBzcGVjLm5hbWUsIG5hbWVzcGFjZSwgcHJldHR5KQpwcmludGxuKHJlc3VsdCkKCnJlc3VsdCA9IGxpc3Qoc3BlYy5mLmxpc3QsIG5hbWVzcGFjZSwgcHJldHR5LCB0cnVlKQpwcmludGxuKHJlc3VsdCkKCnJlc3VsdCA9IHJlcGxhY2Uoc3BlYy5mLnJlcGxhY2UsIHNwZWMubmFtZSwgbmFtZXNwYWNlLCBzcGVjLnRlbXBsYXRlQm9keSwgc3BlYy5vdmVycmlkZXMsIHNwZWMuY2xhc3MsIHByZXR0eSkKLy9wcmludGxuKHJlc3VsdCkKCnJlc3VsdCA9IGRlbGV0ZShzcGVjLmYuZGVsZXRlLCBzcGVjLm5hbWUsIG5hbWVzcGFjZSwgcHJldHR5LCAxKQpwcmludGxuKHJlc3VsdCkKCnJlc3VsdCA9IGhhcyhzcGVjLmYuaGFzLCBzcGVjLm5hbWUsIG5hbWVzcGFjZSwgcHJldHR5KQpwcmludGxuKHJlc3VsdCkKCnJlc3VsdCA9IGxpc3Qoc3BlYy5mLmxpc3QsIG5hbWVzcGFjZSwgcHJldHR5LCB0cnVlKQpwcmludGxuKHJlc3VsdCkKCg==</text>
+      <register name="6" type="4">
+        <text>-snapshot-local</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oaXQpCg==</text>
+      <register name="7" type="4">
+        <text>libs-release-local</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgKCFoYXMoc3BlYy5mLmhhcywgc3BlYy5uYW1lLCBuYW1lc3BhY2UsIHByZXR0eSkpIHsKICAgIHJlc3VsdCA9IGNyZWF0ZShzcGVjLmYuY3JlYXRlLCBzcGVjLm5hbWUsIG5hbWVzcGFjZSwgc3BlYy50ZW1wbGF0ZUJvZHksIHNwZWMub3ZlcnJpZGVzLCBzcGVjLmNsYXNzLCBwcmV0dHkpCi8vICAgIHByaW50bG4ocmVzdWx0KQp9IGVsc2UgewogICAgcmVzdWx0ID0gcmVwbGFjZShzcGVjLmYucmVwbGFjZSwgc3BlYy5uYW1lLCBuYW1lc3BhY2UsIHNwZWMudGVtcGxhdGVCb2R5LCBzcGVjLm92ZXJyaWRlcywgc3BlYy5jbGFzcywgcHJldHR5KQovLyAgICBwcmludGxuKHJlc3VsdCkKfQo=</text>
+        <text encoding="base64">ZGVmIHJlc3VsdAooMS4uMikuZWFjaCB7CiAgICBpZiAoIWhhcyhzcGVjLmYuaGFzLCBzcGVjLm5hbWUsIG5hbWVzcGFjZSwgcHJldHR5KSkgewogICAgICAgIHByaW50bG4oJ0NyZWF0aW5nJykKICAgICAgICByZXN1bHQgPSBjcmVhdGUoc3BlYy5mLmNyZWF0ZSwgc3BlYy5uYW1lLCBuYW1lc3BhY2UsIHNwZWMudGVtcGxhdGVCb2R5LCBzcGVjLm92ZXJyaWRlcywgc3BlYy5jbGFzcywgcHJldHR5KQovLyAgICBwcmludGxuKHJlc3VsdCkKICAgIH0gZWxzZSB7CiAgICAgICAgcHJpbnRsbignUmVwbGFjaW5nJykKICAgICAgICByZXN1bHQgPSByZXBsYWNlKHNwZWMuZi5yZXBsYWNlLCBzcGVjLm5hbWUsIG5hbWVzcGFjZSwgc3BlYy50ZW1wbGF0ZUJvZHksIHNwZWMub3ZlcnJpZGVzLCBzcGVjLmNsYXNzLCBwcmV0dHkpCi8vICAgIHByaW50bG4ocmVzdWx0KQogICAgfQp9CgpyZXN1bHQgPSBsaXN0KHNwZWMuZi5saXN0LCBuYW1lc3BhY2UsIHByZXR0eSwgdHJ1ZSkKcHJpbnRsbihyZXN1bHQpCgppZiAoaGFzKHNwZWMuZi5oYXMsIHNwZWMubmFtZSwgbmFtZXNwYWNlLCBwcmV0dHkpKSB7CiAgICByZXN1bHQgPSBkZWxldGUoc3BlYy5mLmRlbGV0ZSwgc3BlYy5uYW1lLCBuYW1lc3BhY2UsIHByZXR0eSwgMSkKLy8gICAgcHJpbnRsbihyZXN1bHQpCn0KCnJlc3VsdCA9IGxpc3Qoc3BlYy5mLmxpc3QsIG5hbWVzcGFjZSwgcHJldHR5LCB0cnVlKQpwcmludGxuKHJlc3VsdCkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
       </register>
     </registers>
     <search>
-      <last-search>del</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>del</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>'true'</last-replace>
       <last-substitute>&quot;true&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -616,9 +408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'prett</entry>
-        <entry>'pretty</entry>
-        <entry>pretty</entry>
         <entry>nul</entry>
         <entry encoding="base64">XDxBcGlFeGNlcHRpb25cPg==</entry>
         <entry encoding="base64">XDxWMURlbGV0ZU9wdGlvbnNcPg==</entry>
@@ -636,6 +425,9 @@
         <entry>cre</entry>
         <entry>repl</entry>
         <entry>del</entry>
+        <entry>libs</entry>
+        <entry>libs-</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
