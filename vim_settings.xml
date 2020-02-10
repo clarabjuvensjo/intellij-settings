@@ -132,15 +132,6 @@
         <mark key="[" line="113" column="19" />
         <mark key="]" line="113" column="35" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/DeploymentTest.groovy" timestamp="1580725541707">
-        <mark key="'" line="48" column="4" />
-        <mark key="i" line="51" column="39" />
-        <mark key="[" line="28" column="0" />
-        <mark key="m" line="114" column="8" />
-        <mark key="]" line="28" column="0" />
-        <mark key="n" line="53" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" timestamp="1580570005208">
         <mark key="'" line="119" column="25" />
         <mark key="[" line="110" column="1" />
@@ -201,6 +192,13 @@
         <mark key="." line="35" column="43" />
         <mark key="^" line="35" column="43" />
       </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.git/src/test/java/com/evry/finance/groovy/git/GitRemoteStashIT.groovy" timestamp="1581344618218">
+        <mark key="'" line="49" column="125" />
+        <mark key="[" line="49" column="64" />
+        <mark key="]" line="49" column="67" />
+        <mark key="^" line="49" column="67" />
+        <mark key="." line="49" column="67" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releasePipeline.groovy" timestamp="1579769676144">
         <mark key="'" line="5" column="3" />
         <mark key="[" line="6" column="31" />
@@ -236,9 +234,14 @@
       <file name="$USER_HOME$/slask/groovy_xml/groovyXml/pom.xml" timestamp="1574882542413">
         <mark key="[" line="15" column="16" />
       </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1581344405195">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="171" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="61" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="38" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="59" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="8" column="11" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
@@ -338,19 +341,20 @@
       <jump line="112" column="19" filename="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
       <jump line="12" column="24" filename="$MAVEN_REPOSITORY$/com/evry/finance/groovy/git/1.2-SNAPSHOT/git-1.2-20181030.085804-4.jar!/com/evry/finance/groovy/git/GitRemoteStash.class" />
       <jump line="105" column="17" filename="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
+      <jump line="49" column="125" filename="$USER_HOME$/slask/zzz/groovy.git/src/test/java/com/evry/finance/groovy/git/GitRemoteStashIT.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>tatic {</text>
+        <text>ESBU</text>
       </register>
       <register name="/" type="4">
-        <text>ignore</text>
+        <text>ESBU</text>
       </register>
-      <register name="0" type="4">
-        <text>ignoreSSLIssues()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihlLnJlc3BvbnNlLnN0YXR1c0NvZGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCdzdGFzaFVzZXJuYW1lJywgJ2VpNDU3NycpCiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCdzdGFzaFBhc3N3b3JkJywgJ1FwYWwyMDIwJykKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -378,45 +382,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihyZXNwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQ2VydGlmaWNhdGVVdGlsKCkuZGlzYWJsZVNTTENlcnRpZmljYXRlQ2hlY2tpbmcoKQo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCdzdGFzaFVzZXJuYW1lJywgJ2VpNDU3NycpCiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCdzdGFzaFBhc3N3b3JkJywgJ1FwYWwyMDIwJykKICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNlLmxmLnNlcnZpY2UuZ3Jvb3Z5LmplbmtpbnMuc3luY2hyb25pemVyLnV0aWwuQ2VydGlmaWNhdGVVdGlsCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgQ2VydGlmaWNhdGVVdGlsKCkuZGlzYWJsZVNTTENlcnRpZmljYXRlQ2hlY2tpbmcoKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHNlLmxmLnNlcnZpY2UuZ3Jvb3Z5LmplbmtpbnMuc3luY2hyb25pemVyLnV0aWwuQ2VydGlmaWNhdGVVdGlsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoJ3N0YXNoUGFzc3dvcmQnLCAnUXBhbDIwMjAnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoJ3N0YXNoVXNlcm5hbWUnLCAnZWk0NTc3JykK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHMK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoJ3N0YXNoUGFzc3dvcmQnLCAnUXBhbDIwMjAnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
       </register>
     </registers>
     <search>
-      <last-search>ignore</last-search>
+      <last-search>ESBU</last-search>
       <last-offset />
-      <last-pattern>ignore</last-pattern>
+      <last-pattern>ESBU</last-pattern>
       <last-replace>'true'</last-replace>
       <last-substitute>&quot;true&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
         <entry>spec</entry>
         <entry>Clas</entry>
         <entry>zz</entry>
@@ -436,6 +439,7 @@
         <entry encoding="base64">XDxyZXN0Q2xpZW50XD4=</entry>
         <entry encoding="base64">XDxSRVNUQ2xpZW50XD4=</entry>
         <entry>ignore</entry>
+        <entry>ESBU</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
