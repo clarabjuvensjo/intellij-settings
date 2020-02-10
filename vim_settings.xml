@@ -185,10 +185,11 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/kubTest.groovy" timestamp="1580570300028">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/kubTest.groovy" timestamp="1581331244456">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="51" column="41" />
       </file>
       <file name="$USER_HOME$/git-csp/CSL/common.test.ast/src/test/java/se/lf/csl/common/test/ast/xml/slask.groovy" timestamp="1575277808018">
         <mark key="[" line="0" column="37" />
@@ -317,7 +318,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>libs-release-local</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
@@ -326,7 +327,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbignQ3JlYXRpbmcnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLm5pbWJ1c2RzL25pbWJ1cy1qb3NlLWp3dCAtLT4K</text>
+        <text encoding="base64">ICAgICAgICBzcGVjLm1ldGFDbGFzcy5yZWFkRmlsZSA9IHsgZmlsZSAtPgogICAgICAgICAgICB0ZW1wbGF0ZVRleHQKICAgICAgICB9CiAgICAgICAgc3BlYy5tZXRhQ2xhc3MucmVhZFlhbWwgPSB7IE1hcCBtIC0+CiAgICAgICAgICAgIG5ldyBZYW1sKCkubG9hZChtLnRleHQgYXMgU3RyaW5nKQogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -354,28 +355,28 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLm5pbWJ1c2RzL25pbWJ1cy1qb3NlLWp3dCAtLT4K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5pdnkvaXZ5IC0tPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>libs-release-local</text>
-      </register>
       <register name="4" type="4">
-        <text>libs-snapshot-local</text>
+        <text>libs-release-local</text>
       </register>
       <register name="5" type="4">
-        <text>libs-release-local</text>
+        <text>libs-snapshot-local</text>
       </register>
       <register name="6" type="4">
-        <text>libs-snapshot</text>
+        <text>libs-release-local</text>
       </register>
       <register name="7" type="4">
-        <text>libs-release</text>
+        <text>libs-snapshot</text>
       </register>
       <register name="8" type="4">
-        <text>-snapshot-local</text>
+        <text>libs-release</text>
       </register>
       <register name="9" type="4">
-        <text>libs-release-local</text>
+        <text>-snapshot-local</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
