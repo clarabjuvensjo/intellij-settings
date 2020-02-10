@@ -10,13 +10,6 @@
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask2.groovy" timestamp="1580467623117">
-        <mark key="'" line="68" column="18" />
-        <mark key="[" line="119" column="0" />
-        <mark key="m" line="106" column="32" />
-        <mark key="]" line="126" column="24" />
-        <mark key="^" line="127" column="19" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/main/java/se/lf/service/cd/kubernetes/client/Slask.java" timestamp="1579788728828">
         <mark key="'" line="31" column="17" />
         <mark key="[" line="36" column="0" />
@@ -32,11 +25,11 @@
         <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" timestamp="1580724180499">
-        <mark key="'" line="7" column="23" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="26" column="22" />
+        <mark key="'" line="4" column="23" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="23" column="22" />
       </file>
       <file name="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" timestamp="1580992788331">
         <mark key="[" line="81" column="43" />
@@ -102,7 +95,7 @@
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" timestamp="1580729364024">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" timestamp="1581328312222">
         <mark key="[" line="173" column="19" />
         <mark key="]" line="175" column="19" />
         <mark key="^" line="175" column="19" />
@@ -117,6 +110,11 @@
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/service.yaml" timestamp="1580722213250">
         <mark key="[" line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/pom.xml" timestamp="1581329653127">
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="43" column="41" />
+        <mark key="." line="43" column="41" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/DeploymentTest.groovy" timestamp="1580725541707">
         <mark key="'" line="48" column="4" />
@@ -321,8 +319,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbignQ3JlYXRpbmcnKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>libs-release-local</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLm5pbWJ1c2RzL25pbWJ1cy1qb3NlLWp3dCAtLT4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -349,29 +347,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>libs-snapshot-local</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5pdnkvaXZ5IC0tPgo=</text>
       </register>
       <register name="3" type="4">
         <text>libs-release-local</text>
       </register>
       <register name="4" type="4">
-        <text>libs-snapshot</text>
+        <text>libs-snapshot-local</text>
       </register>
       <register name="5" type="4">
-        <text>libs-release</text>
-      </register>
-      <register name="6" type="4">
-        <text>-snapshot-local</text>
-      </register>
-      <register name="7" type="4">
         <text>libs-release-local</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAK</text>
+      <register name="6" type="4">
+        <text>libs-snapshot</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZGVmIHJlc3VsdAooMS4uMikuZWFjaCB7CiAgICBpZiAoIWhhcyhzcGVjLmYuaGFzLCBzcGVjLm5hbWUsIG5hbWVzcGFjZSwgcHJldHR5KSkgewogICAgICAgIHByaW50bG4oJ0NyZWF0aW5nJykKICAgICAgICByZXN1bHQgPSBjcmVhdGUoc3BlYy5mLmNyZWF0ZSwgc3BlYy5uYW1lLCBuYW1lc3BhY2UsIHNwZWMudGVtcGxhdGVCb2R5LCBzcGVjLm92ZXJyaWRlcywgc3BlYy5jbGFzcywgcHJldHR5KQovLyAgICBwcmludGxuKHJlc3VsdCkKICAgIH0gZWxzZSB7CiAgICAgICAgcHJpbnRsbignUmVwbGFjaW5nJykKICAgICAgICByZXN1bHQgPSByZXBsYWNlKHNwZWMuZi5yZXBsYWNlLCBzcGVjLm5hbWUsIG5hbWVzcGFjZSwgc3BlYy50ZW1wbGF0ZUJvZHksIHNwZWMub3ZlcnJpZGVzLCBzcGVjLmNsYXNzLCBwcmV0dHkpCi8vICAgIHByaW50bG4ocmVzdWx0KQogICAgfQp9CgpyZXN1bHQgPSBsaXN0KHNwZWMuZi5saXN0LCBuYW1lc3BhY2UsIHByZXR0eSwgdHJ1ZSkKcHJpbnRsbihyZXN1bHQpCgppZiAoaGFzKHNwZWMuZi5oYXMsIHNwZWMubmFtZSwgbmFtZXNwYWNlLCBwcmV0dHkpKSB7CiAgICByZXN1bHQgPSBkZWxldGUoc3BlYy5mLmRlbGV0ZSwgc3BlYy5uYW1lLCBuYW1lc3BhY2UsIHByZXR0eSwgMSkKLy8gICAgcHJpbnRsbihyZXN1bHQpCn0KCnJlc3VsdCA9IGxpc3Qoc3BlYy5mLmxpc3QsIG5hbWVzcGFjZSwgcHJldHR5LCB0cnVlKQpwcmludGxuKHJlc3VsdCkKCg==</text>
+      <register name="7" type="4">
+        <text>libs-release</text>
+      </register>
+      <register name="8" type="4">
+        <text>-snapshot-local</text>
+      </register>
+      <register name="9" type="4">
+        <text>libs-release-local</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
