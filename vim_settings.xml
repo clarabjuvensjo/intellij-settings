@@ -95,17 +95,22 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" timestamp="1580557372886">
-        <mark key="'" line="89" column="112" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" timestamp="1581328312222">
         <mark key="[" line="173" column="19" />
         <mark key="]" line="175" column="19" />
         <mark key="^" line="175" column="19" />
         <mark key="." line="175" column="19" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/test/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/JenkinsSynchronizerIT.groovy" timestamp="1581340678494">
+        <mark key="[" line="35" column="72" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/evry/finance/groovy/git/1.2-SNAPSHOT/git-1.2-20181030.085804-4.jar!/com/evry/finance/groovy/git/GitRemoteStash.class" timestamp="1581339936580">
+        <mark key="'" line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/test/java/se/lf/service/groovy/jenkins/synchronizer/stash/StashIT.groovy" timestamp="1581340854542">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMs.groovy" timestamp="1579771469092">
         <mark key="'" line="0" column="0" />
@@ -121,6 +126,11 @@
         <mark key="[" line="43" column="40" />
         <mark key="]" line="43" column="41" />
         <mark key="." line="43" column="41" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" timestamp="1581340381440">
+        <mark key="'" line="105" column="17" />
+        <mark key="[" line="113" column="19" />
+        <mark key="]" line="113" column="35" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/DeploymentTest.groovy" timestamp="1580725541707">
         <mark key="'" line="48" column="4" />
@@ -146,6 +156,19 @@
         <mark key="]" line="10" column="1" />
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/Jenkins.groovy" timestamp="1581339566747">
+        <mark key="[" line="58" column="50" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/codehaus/groovy/modules/http-builder/http-builder/0.7.1/http-builder-0.7.1.jar!/groovyx/net/http/RESTClient.class" timestamp="1581339366525">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="58" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/Slask.groovy" timestamp="1581339440217">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/YamlExample.java" timestamp="1580207270137">
         <mark key="'" line="81" column="31" />
@@ -201,26 +224,20 @@
         <mark key="^" line="11" column="14" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deploymentTest.yaml" timestamp="1580476208584">
-        <mark key="'" line="3" column="8" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1580570256732">
+      <file name="/fragment.java" timestamp="1581338742482">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/test/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/JenkinsIT.groovy" timestamp="1581339892661">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="36" />
+        <mark key="^" line="23" column="90" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/slask/groovy_xml/groovyXml/pom.xml" timestamp="1574882542413">
         <mark key="[" line="15" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="39" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/DeploymentTest.groovy" />
-      <jump line="57" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/DeploymentTest.groovy" />
-      <jump line="28" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask2.groovy" />
-      <jump line="69" column="135" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask2.groovy" />
-      <jump line="72" column="18" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Slask2.groovy" />
-      <jump line="1" column="40" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
       <jump line="31" column="61" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="38" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="59" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
@@ -315,19 +332,25 @@
       <jump line="147" column="81" filename="$USER_HOME$/git-T1912/jenkins_shared_lib/vars/myDeliveryPipeline.groovy" />
       <jump line="70" column="75" filename="$USER_HOME$/git-T1912/cd.jenkins.lib/vars/repoPipeline.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/git-T1912/cd.jenkins.lib/vars/repoPipeline.groovy" />
+      <jump line="113" column="8" filename="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
+      <jump line="114" column="50" filename="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
+      <jump line="9" column="24" filename="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
+      <jump line="112" column="19" filename="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
+      <jump line="12" column="24" filename="$MAVEN_REPOSITORY$/com/evry/finance/groovy/git/1.2-SNAPSHOT/git-1.2-20181030.085804-4.jar!/com/evry/finance/groovy/git/GitRemoteStash.class" />
+      <jump line="105" column="17" filename="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'</text>
+        <text>tatic {</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>ignore</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbignQ3JlYXRpbmcnKQo=</text>
+      <register name="0" type="4">
+        <text>ignoreSSLIssues()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjLm1ldGFDbGFzcy5yZWFkRmlsZSA9IHsgZmlsZSAtPgogICAgICAgICAgICB0ZW1wbGF0ZVRleHQKICAgICAgICB9CiAgICAgICAgc3BlYy5tZXRhQ2xhc3MucmVhZFlhbWwgPSB7IE1hcCBtIC0+CiAgICAgICAgICAgIG5ldyBZYW1sKCkubG9hZChtLnRleHQgYXMgU3RyaW5nKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCdzdGFzaFVzZXJuYW1lJywgJ2VpNDU3NycpCiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCdzdGFzaFBhc3N3b3JkJywgJ1FwYWwyMDIwJykKICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -355,37 +378,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLm5pbWJ1c2RzL25pbWJ1cy1qb3NlLWp3dCAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5pdnkvaXZ5IC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQ2VydGlmaWNhdGVVdGlsKCkuZGlzYWJsZVNTTENlcnRpZmljYXRlQ2hlY2tpbmcoKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>libs-release-local</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHNlLmxmLnNlcnZpY2UuZ3Jvb3Z5LmplbmtpbnMuc3luY2hyb25pemVyLnV0aWwuQ2VydGlmaWNhdGVVdGlsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>libs-snapshot-local</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>libs-release-local</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>libs-snapshot</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoJ3N0YXNoUGFzc3dvcmQnLCAnUXBhbDIwMjAnKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>libs-release</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoJ3N0YXNoVXNlcm5hbWUnLCAnZWk0NTc3JykK</text>
       </register>
-      <register name="9" type="4">
-        <text>-snapshot-local</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHMK</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>ignore</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>ignore</last-pattern>
       <last-replace>'true'</last-replace>
       <last-substitute>&quot;true&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -393,9 +416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nul</entry>
-        <entry encoding="base64">XDxBcGlFeGNlcHRpb25cPg==</entry>
-        <entry encoding="base64">XDxWMURlbGV0ZU9wdGlvbnNcPg==</entry>
         <entry>,</entry>
         <entry>spec</entry>
         <entry>Clas</entry>
@@ -413,6 +433,9 @@
         <entry>libs</entry>
         <entry>libs-</entry>
         <entry>'</entry>
+        <entry encoding="base64">XDxyZXN0Q2xpZW50XD4=</entry>
+        <entry encoding="base64">XDxSRVNUQ2xpZW50XD4=</entry>
+        <entry>ignore</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
