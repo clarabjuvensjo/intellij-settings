@@ -143,10 +143,6 @@
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/git-diba/EX2001/maven.settings/src/main/resources/settings.xml" timestamp="1579866006794">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="69" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/YamlExample.java" timestamp="1580207270137">
         <mark key="'" line="81" column="31" />
         <mark key="[" line="89" column="50" />
@@ -160,14 +156,6 @@
         <mark key="]" line="18" column="52" />
         <mark key="^" line="18" column="52" />
         <mark key="." line="18" column="52" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/main/resources/se/lf/service/cd/kubernetes/client/test/test_core.py" timestamp="1579797649074">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="45" column="79" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/Jenkinsfile" timestamp="1579770264907">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/git/rsimulator/rsimulator-core/src/test/java/com/github/bjuvensjo/rsimulator/core/handler/regexp/TestJsonHandler.java" timestamp="1561987521434">
         <mark key="[" line="33" column="5" />
@@ -185,10 +173,6 @@
         <mark key="]" line="35" column="43" />
         <mark key="." line="35" column="43" />
         <mark key="^" line="35" column="43" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/kubernetes/client-java-api/3.0.0/client-java-api-3.0.0.jar!/io/kubernetes/client/apis/CoreV1Api.class" timestamp="1580465912484">
-        <mark key="[" line="12606" column="44" />
-        <mark key="]" line="12606" column="100" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releasePipeline.groovy" timestamp="1579769676144">
         <mark key="'" line="5" column="3" />
