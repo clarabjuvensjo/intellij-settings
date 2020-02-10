@@ -77,6 +77,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/slask/groovy-test/src/Slask.groovy" timestamp="1581329970071">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/main/java/se/lf/service/cd/kubernetes/client/createAPIClient.groovy" timestamp="1579788626608">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="6" column="0" />
