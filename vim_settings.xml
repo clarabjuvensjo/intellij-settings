@@ -21,13 +21,40 @@
         <mark key="^" line="3" column="78" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/slask/groovy-test/src/Slask.groovy" timestamp="1581329970071">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/test.json" timestamp="1581349254453">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.yaml" timestamp="1580478240876">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" timestamp="1581426899192">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="^" line="175" column="19" />
+        <mark key="." line="175" column="19" />
+      </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/test/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/JenkinsSynchronizerIT.groovy" timestamp="1581340678494">
         <mark key="[" line="35" column="72" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/evry/finance/groovy/git/1.2-SNAPSHOT/git-1.2-20181030.085804-4.jar!/com/evry/finance/groovy/git/GitRemoteStash.class" timestamp="1581339936580">
+        <mark key="'" line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/test/java/se/lf/service/groovy/jenkins/synchronizer/stash/StashIT.groovy" timestamp="1581340854542">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/service.yaml" timestamp="1580722213250">
         <mark key="[" line="3" column="16" />
@@ -39,14 +66,38 @@
         <mark key="^" line="111" column="107" />
         <mark key="." line="111" column="107" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/pom.xml" timestamp="1581427074363">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="75" column="21" />
+        <mark key="." line="43" column="41" />
+      </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/.gitignore" timestamp="1581345274405">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="8" column="8" />
         <mark key="^" line="8" column="8" />
         <mark key="." line="8" column="8" />
       </file>
+      <file name="/Dummy.txt" timestamp="1579872763660">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/configMap.yaml" timestamp="1580727631936">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/Slask.groovy" timestamp="1581348366862">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="5" column="69" />
+      </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/Jenkins.groovy" timestamp="1581339566747">
         <mark key="[" line="58" column="50" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/codehaus/groovy/modules/http-builder/http-builder/0.7.1/http-builder-0.7.1.jar!/groovyx/net/http/RESTClient.class" timestamp="1581339366525">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="58" />
       </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/Slask.groovy" timestamp="1581339440217">
         <mark key="[" line="2" column="58" />
@@ -64,6 +115,20 @@
         <mark key="[" line="44" column="1" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/rsimulator/rsimulator-core/src/test/java/com/github/bjuvensjo/rsimulator/core/handler/regexp/TestJsonHandler.java" timestamp="1561987521434">
+        <mark key="[" line="33" column="5" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/README_kubectl.md" timestamp="1581426696890">
+        <mark key="[" line="31" column="2" />
+        <mark key="]" line="31" column="41" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.git/src/test/java/com/evry/finance/groovy/git/GitRemoteStashIT.groovy" timestamp="1581349033468">
+        <mark key="'" line="43" column="125" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="43" column="67" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/evry/finance/groovy/git/1.2-SNAPSHOT/git-1.2-SNAPSHOT-sources.jar!/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1581346131256">
         <mark key="[" line="147" column="0" />
@@ -83,66 +148,6 @@
         <mark key="^" line="23" column="90" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/slask/groovy-test/src/Slask.groovy" timestamp="1581329970071">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/test.json" timestamp="1581349254453">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" timestamp="1581328312222">
-        <mark key="[" line="173" column="19" />
-        <mark key="]" line="175" column="19" />
-        <mark key="^" line="175" column="19" />
-        <mark key="." line="175" column="19" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/evry/finance/groovy/git/1.2-SNAPSHOT/git-1.2-20181030.085804-4.jar!/com/evry/finance/groovy/git/GitRemoteStash.class" timestamp="1581339936580">
-        <mark key="'" line="12" column="24" />
-      </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/test/java/se/lf/service/groovy/jenkins/synchronizer/stash/StashIT.groovy" timestamp="1581340854542">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/pom.xml" timestamp="1581329653127">
-        <mark key="[" line="43" column="40" />
-        <mark key="]" line="43" column="41" />
-        <mark key="." line="43" column="41" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1579872763660">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/configMap.yaml" timestamp="1580727631936">
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
-        <mark key="^" line="10" column="1" />
-      </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/Slask.groovy" timestamp="1581348366862">
-        <mark key="[" line="5" column="69" />
-        <mark key="]" line="5" column="69" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="5" column="69" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/codehaus/groovy/modules/http-builder/http-builder/0.7.1/http-builder-0.7.1.jar!/groovyx/net/http/RESTClient.class" timestamp="1581339366525">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="58" />
-      </file>
-      <file name="$USER_HOME$/git/rsimulator/rsimulator-core/src/test/java/com/github/bjuvensjo/rsimulator/core/handler/regexp/TestJsonHandler.java" timestamp="1561987521434">
-        <mark key="[" line="33" column="5" />
-      </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.git/src/test/java/com/evry/finance/groovy/git/GitRemoteStashIT.groovy" timestamp="1581349033468">
-        <mark key="'" line="43" column="125" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="43" column="67" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1581338742482">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="59" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="8" column="11" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="42" column="58" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
@@ -240,7 +244,6 @@
       <jump line="218" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" />
       <jump line="154" column="3" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" />
       <jump line="168" column="16" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" />
-      <jump line="151" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" />
       <jump line="155" column="19" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" />
       <jump line="159" column="3" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" />
       <jump line="176" column="9" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" />
@@ -256,6 +259,8 @@
       <jump line="12" column="24" filename="$MAVEN_REPOSITORY$/com/evry/finance/groovy/git/1.2-SNAPSHOT/git-1.2-20181030.085804-4.jar!/com/evry/finance/groovy/git/GitRemoteStash.class" />
       <jump line="105" column="17" filename="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
       <jump line="49" column="125" filename="$USER_HOME$/slask/zzz/groovy.git/src/test/java/com/evry/finance/groovy/git/GitRemoteStashIT.groovy" />
+      <jump line="151" column="16" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -265,7 +270,7 @@
         <text>ESBU</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYXJ0aWZhY3RvcnlVc2VybmFtZSA9ICdqZW5raW5zX3VzZXInCiAgICAgICAgU3RyaW5nIGFydGlmYWN0b3J5UGFzc3dvcmQgPSAnamVua2luc191c2VyJwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm5pbWJ1c2RzPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5uaW1idXMtam9zZS1qd3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjguNTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIGdpdFJlbW90ZVN0YXNoID0gbmV3IEdpdFJlbW90ZVN0YXNoKHVzZXJuYW1lOiB1c2VybmFtZSwgcGFzc3dvcmQ6IHBhc3N3b3JkLCB1cmw6ICJodHRwOi8vY3Vzby5lZGIuc2Uvc3Rhc2gvcmVzdC8iKQo=</text>
