@@ -129,8 +129,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" timestamp="1581674711531">
-        <mark key="[" line="66" column="61" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" timestamp="1581677867671">
+        <mark key="[" line="77" column="30" />
+        <mark key="]" line="77" column="37" />
+        <mark key="." line="77" column="37" />
+        <mark key="^" line="77" column="37" />
       </file>
       <file name="$USER_HOME$/git/rsimulator/rsimulator-core/src/test/java/com/github/bjuvensjo/rsimulator/core/handler/regexp/TestJsonHandler.java" timestamp="1561987521434">
         <mark key="[" line="33" column="5" />
@@ -298,7 +301,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">T3V0cHV0U3RyZWFtIA==</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
