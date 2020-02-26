@@ -151,6 +151,12 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/deployment.yaml" timestamp="1582705850693">
+        <mark key="[" line="38" column="50" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/README_kubectl.md" timestamp="1581426696890">
         <mark key="[" line="31" column="2" />
         <mark key="]" line="31" column="41" />
@@ -197,6 +203,12 @@
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/README.md" timestamp="1582704755337">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -303,16 +315,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ms.poc.repository</text>
+        <text>/csp-poc</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TkFNRT0ibXMucG9jLnJlcG9zaXRvcnkiCg==</text>
+        <text encoding="base64">ICBhcHAua3ViZXJuZXRlcy5pby9uYW1lOiBEU0wgQmFuawogIGFwcC5rdWJlcm5ldGVzLmlvL2luc3RhbmNlOiBtcy1wb2MtcmVwb3NpdG9yeQogIGFwcC5rdWJlcm5ldGVzLmlvL3ZlcnNpb246IDEuMC54CiAgYXBwLmt1YmVybmV0ZXMuaW8vY29tcG9uZW50OiBtaW5pc2VydmljZQogIGFwcC5rdWJlcm5ldGVzLmlvL3BhcnQtb2Y6IEludGVybmFsCiAgYXBwLmt1YmVybmV0ZXMuaW8vbWFuYWdlZC1ieTogR2l0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TkFNRT0ibXMucG9jLnJlcG9zaXRvcnkiCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6IG1zLXBvYy1yZXBvc2l0b3J5Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -340,28 +352,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAkTkFNRQo=</text>
+        <text encoding="base64">ICAgICAgYXBwLmt1YmVybmV0ZXMuaW8vbWFuYWdlZC1ieTogR2l0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dm9sdW1lCg==</text>
+        <text encoding="base64">ICAgICAgYXBwLmt1YmVybmV0ZXMuaW8vcGFydC1vZjogSW50ZXJuYWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I3Jvb3REaXI9L1VzZXJzL21hZ251cy9naXQtUEVTQ1BPQy9QRVNDUE9DL21zLnBvYy5yZXBvc2l0b3J5L3NsYXNrCg==</text>
+        <text encoding="base64">ICAgICAgcC5rdWJlcm5ldGVzLmlvL25hbWU6IERTTCBCYW5rCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXBwLmt1YmVybmV0ZXMuaW8vbWFuYWdlZC1ieToJR2l0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0RmlsZShyb290RGlyLCByZWYsIHJlc291cmNlKQo=</text>
+        <text encoding="base64">ICAgICAgYXBwLmt1YmVybmV0ZXMuaW8vcGFydC1vZjoJSW50ZXJuYWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPdXRwdXRTdHJlYW0gb3MgPSBuZXcgQnVmZmVyZWRPdXRwdXRTdHJlYW0obmV3IEZpbGVPdXRwdXRTdHJlYW0oZmlsZSkpCg==</text>
+        <text encoding="base64">ICAgICAgYXBwLmt1YmVybmV0ZXMuaW8vY29tcG9uZW50OgltaW5pLXNlcnZpY2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbnB1dFN0cmVhbSBpcyA9IHJlcXVlc3QuZ2V0SW5wdXRTdHJlYW0oKQo=</text>
+        <text encoding="base64">ICAgICAgYXBwLmt1YmVybmV0ZXMuaW8vdmVyc2lvbjoJMS4wLngK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgYXBwLmt1YmVybmV0ZXMuaW8vaW5zdGFuY2U6CW1zLXBvYy1yZXBvc2l0b3J5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
