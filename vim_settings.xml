@@ -131,11 +131,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" timestamp="1582814183870">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" timestamp="1582817101597">
         <mark key="'" line="55" column="23" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="55" column="27" />
+        <mark key="." line="55" column="27" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/deployment.yaml" timestamp="1582805748027">
         <mark key="'" line="57" column="31" />
@@ -186,10 +186,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-save.sh" timestamp="1582816440197">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-save.sh" timestamp="1582817317949">
         <mark key="'" line="8" column="46" />
-        <mark key="[" line="9" column="2" />
-        <mark key="]" line="9" column="142" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="143" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="1" />
       </file>
@@ -206,11 +206,11 @@
         <mark key="^" line="23" column="90" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/README.md" timestamp="1582814456212">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="102" />
-        <mark key="^" line="7" column="37" />
-        <mark key="." line="7" column="37" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/README.md" timestamp="1582817385419">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="141" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="9" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -322,11 +322,11 @@
       <register name="/" type="4">
         <text>docker-registry.ocplab-ins.lfnet.se</text>
       </register>
-      <register name="0" type="4">
-        <text>sudo docker push docker-registry.ocplab-ins.lfnet.se/bank-dsl-app-01/ms.poc.repository # pushes the image(s) to the OpenShift docker registry</text>
+      <register name="0" type="2">
+        <text encoding="base64">c3VkbyBkb2NrZXIgcHVzaCBkb2NrZXItcmVnaXN0cnkub2NwbGFiLWlucy5sZm5ldC5zZS9iYW5rLWRzbC1hcHAtMDEvbXMucG9jLnJlcG9zaXRvcnkgIyBwdXNoZXMgdGhlIGltYWdlKHMpIHRvIHRoZSBPcGVuU2hpZnQgZG9ja2VyIHJlZ2lzdHJ5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBzdWRvIGRvY2tlciBsb2dpbiAtdSA8Yi1hY2NvdW50PiAtcCA8dG9rZW4+IGRvY2tlci1yZWdpc3RyeS5vY3BsYWItaW5zLmxmbmV0LnNlICMgPHRva2VuPiBpcyB0aGUgb25lIHJldHJpZXZlZCBhYm92ZSBmcm9tIE9wZW5TaGlmdC4K</text>
+        <text encoding="base64">Z3VuemlwIG1zLnBvYy5yZXBvc2l0b3J5LnppcApzdWRvIGRvY2tlciBidWlsZCAtdCBtcy5wb2MucmVwb3NpdG9yeSAuCnN1ZG8gZG9ja2VyIHRhZyBtcy5wb2MucmVwb3NpdG9yeSBkb2NrZXItcmVnaXN0cnkub2NwbGFiLWlucy5sZm5ldC5zZS9iYW5rLWRzbC1hcHAtMDEvbXMucG9jLnJlcG9zaXRvcnkKc3VkbyBkb2NrZXIgbG9naW4gLXUgPEJJRD4gLXAgPHRva2VuPiBkb2NrZXItcmVnaXN0cnkub2NwbGFiLWlucy5sZm5ldC5zZQpzdWRvIGRvY2tlciBwdXNoIGRvY2tlci1yZWdpc3RyeS5vY3BsYWItaW5zLmxmbmV0LnNlL2JhbmstZHNsLWFwcC0wMS9tcy5wb2MucmVwb3NpdG9yeQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -354,28 +354,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZG9ja2VyIHNhdmUgZG9ja2VyLXJlZ2lzdHJ5Lm9jcGxhYi1pbnMubGZuZXQuc2UvYmFuay1kc2wtYXBwLTAxL21zLnBvYy5yZXBvc2l0b3J5ID4gYnVzeWJveC50YXIK</text>
+        <text encoding="base64">c3NoIGE5MjZiakAxMC4yMDAuMTMzLjI0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TkFNRT0kKGJhc2VuYW1lICRQV0QgfCB0ciAtZCAiXG4iKQo=</text>
+        <text encoding="base64">c2NwIG1zLnBvYy5yZXBvc2l0b3J5LnppcCBhOTI2YmpAMTAuMjAwLjEzMy4yNDp+L21zLnBvYy5yZXBvc2l0b3J5LnppcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TkFNRT0kKGJhc2VuYW1lICRQV0QgfCB0ciAtZCAiXG4iKQo=</text>
+        <text encoding="base64">emlwIC1yIG1zLnBvYy5yZXBvc2l0b3J5LnppcCBtcy5wb2MucmVwb3NpdG9yeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzdWRvIGRvY2tlciBsb2dpbiAtdSA8Yi1hY2NvdW50PiAtcCA8dG9rZW4+IGRvY2tlci1yZWdpc3RyeS5vY3BsYWItaW5zLmxmbmV0LnNlICMgPHRva2VuPiBpcyB0aGUgb25lIHJldHJpZXZlZCBhYm92ZSBmcm9tIE9wZW5TaGlmdC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG9ja2VyIHNhdmUgZG9ja2VyLXJlZ2lzdHJ5Lm9jcGxhYi1pbnMubGZuZXQuc2UvYmFuay1kc2wtYXBwLTAxL21zLnBvYy5yZXBvc2l0b3J5ID4gYnVzeWJveC50YXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZG9ja2VyIGJ1aWxkIC10ICROQU1FIC4K</text>
+        <text encoding="base64">TkFNRT0kKGJhc2VuYW1lICRQV0QgfCB0ciAtZCAiXG4iKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">TkFNRT0kKGJhc2VuYW1lICRQV0QgfCB0ciAtZCAiXG4iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
