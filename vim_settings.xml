@@ -128,6 +128,9 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="5" column="69" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/slask.yaml" timestamp="1582808060523">
+        <mark key="'" line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/Slask.groovy" timestamp="1581339440217">
         <mark key="[" line="2" column="58" />
         <mark key="]" line="6" column="41" />
@@ -158,12 +161,12 @@
         <mark key="." line="57" column="30" />
         <mark key="^" line="57" column="30" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/service.yaml" timestamp="1582802265000">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/service.yaml" timestamp="1582807845979">
         <mark key="'" line="4" column="32" />
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="35" />
-        <mark key="^" line="20" column="35" />
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/README_kubectl.md" timestamp="1582806361008">
         <mark key="[" line="31" column="2" />
@@ -226,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="111" column="58" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="135" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="104" column="1" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
@@ -326,6 +328,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/deployment.yaml" />
       <jump line="49" column="22" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/deployment.yaml" />
       <jump line="57" column="31" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/deployment.yaml" />
+      <jump line="82" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/slask.yaml" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -335,10 +338,10 @@
         <text>80</text>
       </register>
       <register name="0" type="4">
-        <text>/opt/spring-boot/</text>
+        <text>bank-dsl-app-01</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">amF2YSAtWG1zMTI4bSAtWG14MjU2bSAtRHVzZXIudGltZXpvbmU9Q0VUIC1qYXIgcHAvJE1TX05BTUUuamFyIC0tc2VydmVyLnBvcnQ9ODAK</text>
+        <text encoding="base64">c3RhdHVzOgogIGxvYWRCYWxhbmNlcjoge30K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -366,28 +369,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjbHVzdGVySVA6IDE3Mi4zMC4yMS4yNgo=</text>
+        <text encoding="base64">amF2YSAtWG1zMTI4bSAtWG14MjU2bSAtRHVzZXIudGltZXpvbmU9Q0VUIC1qYXIgcHAvJE1TX05BTUUuamFyIC0tc2VydmVyLnBvcnQ9ODAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1aWQ6IDc3YWIzMmY5LWY3NjMtMTFlOS04MDZhLTAwNTA1NmJkMGJkYwo=</text>
+        <text encoding="base64">ICBjbHVzdGVySVA6IDE3Mi4zMC4yMS4yNgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZWxmTGluazogL2FwaS92MS9uYW1lc3BhY2VzL2NzcC1wb2Mvc2VydmljZXMvbXMtc2VjdXJpdHktc2lnbmluZwo=</text>
+        <text encoding="base64">ICB1aWQ6IDc3YWIzMmY5LWY3NjMtMTFlOS04MDZhLTAwNTA1NmJkMGJkYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXNvdXJjZVZlcnNpb246ICc0NTQxODE3Jwo=</text>
+        <text encoding="base64">ICBzZWxmTGluazogL2FwaS92MS9uYW1lc3BhY2VzL2NzcC1wb2Mvc2VydmljZXMvbXMtc2VjdXJpdHktc2lnbmluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IGNzcC1wb2MK</text>
+        <text encoding="base64">ICByZXNvdXJjZVZlcnNpb246ICc0NTQxODE3Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBuYW1lc3BhY2U6IGNzcC1wb2MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwcC5rdWJlcm5ldGVzLmlvL2NvbXBvbmVudDogbWluaXNlcnZpY2UK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwcC5rdWJlcm5ldGVzLmlvL3ZlcnNpb246IDAuMC4xCg==</text>
+        <text encoding="base64">ICAgIGFwcC5rdWJlcm5ldGVzLmlvL2NvbXBvbmVudDogbWluaXNlcnZpY2UK</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
