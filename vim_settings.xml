@@ -13,22 +13,12 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="36" column="22" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/slask/feature/foo.txt" timestamp="1581672338657">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-build.sh" timestamp="1582800660845">
-        <mark key="'" line="2" column="22" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/slask/develop/foo.txt" timestamp="1581672330171">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-build.sh" timestamp="1582815252459">
+        <mark key="s" line="2" column="32" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="2" column="83" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/slask/slask.txt" timestamp="1581672008121">
         <mark key="[" line="0" column="0" />
@@ -70,11 +60,6 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.yaml" timestamp="1580478240876">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/Dockerfile" timestamp="1582805727515">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="10" />
@@ -89,17 +74,12 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-bash.sh" timestamp="1582296388251">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-bash.sh" timestamp="1582815118392">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/pom.xml" timestamp="1582725369276" />
-      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/test/java/se/lf/service/groovy/jenkins/synchronizer/stash/StashIT.groovy" timestamp="1581340854542">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" timestamp="1581349819983">
         <mark key="'" line="105" column="17" />
         <mark key="[" line="109" column="0" />
@@ -107,16 +87,12 @@
         <mark key="^" line="111" column="107" />
         <mark key="." line="111" column="107" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/pom.xml" timestamp="1581427074363">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="75" column="21" />
-        <mark key="." line="43" column="41" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-run.sh" timestamp="1582805766851">
-        <mark key="[" line="4" column="89" />
-        <mark key="]" line="4" column="91" />
-        <mark key="." line="4" column="91" />
-        <mark key="^" line="4" column="91" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-run.sh" timestamp="1582815069795">
+        <mark key="s" line="3" column="21" />
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+        <mark key="^" line="3" column="37" />
       </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/.gitignore" timestamp="1581345274405">
         <mark key="[" line="7" column="5" />
@@ -155,16 +131,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/stash/Stash.groovy" timestamp="1581348967525">
-        <mark key="[" line="44" column="1" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" timestamp="1581677867671">
-        <mark key="[" line="77" column="30" />
-        <mark key="]" line="77" column="37" />
-        <mark key="." line="77" column="37" />
-        <mark key="^" line="77" column="37" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" timestamp="1582814183870">
+        <mark key="'" line="55" column="23" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/deployment.yaml" timestamp="1582805748027">
         <mark key="'" line="57" column="31" />
@@ -215,6 +186,13 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-save.sh" timestamp="1582816440197">
+        <mark key="'" line="8" column="46" />
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="142" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/route.yaml" timestamp="1582811734235">
         <mark key="'" line="24" column="4" />
         <mark key="[" line="13" column="19" />
@@ -228,28 +206,14 @@
         <mark key="^" line="23" column="90" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1581348345138">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/README.md" timestamp="1582801406705">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="37" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/README.md" timestamp="1582814456212">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="102" />
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
-      <jump line="104" column="1" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
-      <jump line="1" column="28" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
-      <jump line="61" column="13" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
-      <jump line="45" column="27" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
-      <jump line="2" column="35" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
-      <jump line="2" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
-      <jump line="80" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
-      <jump line="55" column="1" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
       <jump line="58" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
       <jump line="6" column="3" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
       <jump line="28" column="58" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
@@ -341,19 +305,28 @@
       <jump line="57" column="31" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/deployment.yaml" />
       <jump line="82" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/slask.yaml" />
       <jump line="24" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/route.yaml" />
+      <jump line="47" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" />
+      <jump line="31" column="16" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" />
+      <jump line="26" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" />
+      <jump line="55" column="23" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" />
+      <jump line="3" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-save.sh" />
+      <jump line="7" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-save.sh" />
+      <jump line="1" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-save.sh" />
+      <jump line="2" column="12" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-save.sh" />
+      <jump line="8" column="46" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-save.sh" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>80</text>
+        <text>docker-registry.ocplab-ins.lfnet.se</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gY29uZGl0aW9uczoKICAgICAgLSBsYXN0VHJhbnNpdGlvblRpbWU6ICIyMDE5LTEwLTI1VDIwOjE0OjMyWiIKICAgICAgICBzdGF0dXM6ICJUcnVlIgogICAgICAgIHR5cGU6IEFkbWl0dGVkCg==</text>
+      <register name="0" type="4">
+        <text>sudo docker push docker-registry.ocplab-ins.lfnet.se/bank-dsl-app-01/ms.poc.repository # pushes the image(s) to the OpenShift docker registry</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gbGFzdFRyYW5zaXRpb25UaW1lOiAiMjAxOS0xMC0yNVQyMDoxNDozMloiCg==</text>
+        <text encoding="base64">IyBzdWRvIGRvY2tlciBsb2dpbiAtdSA8Yi1hY2NvdW50PiAtcCA8dG9rZW4+IGRvY2tlci1yZWdpc3RyeS5vY3BsYWItaW5zLmxmbmV0LnNlICMgPHRva2VuPiBpcyB0aGUgb25lIHJldHJpZXZlZCBhYm92ZSBmcm9tIE9wZW5TaGlmdC4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -381,37 +354,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RhdHVzOgogIGxvYWRCYWxhbmNlcjoge30K</text>
+        <text encoding="base64">ZG9ja2VyIHNhdmUgZG9ja2VyLXJlZ2lzdHJ5Lm9jcGxhYi1pbnMubGZuZXQuc2UvYmFuay1kc2wtYXBwLTAxL21zLnBvYy5yZXBvc2l0b3J5ID4gYnVzeWJveC50YXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">amF2YSAtWG1zMTI4bSAtWG14MjU2bSAtRHVzZXIudGltZXpvbmU9Q0VUIC1qYXIgcHAvJE1TX05BTUUuamFyIC0tc2VydmVyLnBvcnQ9ODAK</text>
+        <text encoding="base64">TkFNRT0kKGJhc2VuYW1lICRQV0QgfCB0ciAtZCAiXG4iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbHVzdGVySVA6IDE3Mi4zMC4yMS4yNgo=</text>
+        <text encoding="base64">TkFNRT0kKGJhc2VuYW1lICRQV0QgfCB0ciAtZCAiXG4iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB1aWQ6IDc3YWIzMmY5LWY3NjMtMTFlOS04MDZhLTAwNTA1NmJkMGJkYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZWxmTGluazogL2FwaS92MS9uYW1lc3BhY2VzL2NzcC1wb2Mvc2VydmljZXMvbXMtc2VjdXJpdHktc2lnbmluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXNvdXJjZVZlcnNpb246ICc0NTQxODE3Jwo=</text>
+        <text encoding="base64">ZG9ja2VyIGJ1aWxkIC10ICROQU1FIC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IGNzcC1wb2MK</text>
+        <text encoding="base64">TkFNRT0kKGJhc2VuYW1lICRQV0QgfCB0ciAtZCAiXG4iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
       </register>
     </registers>
     <search>
-      <last-search>80</last-search>
+      <last-search>docker-registry.ocplab-ins.lfnet.se</last-search>
       <last-offset />
-      <last-pattern>80</last-pattern>
+      <last-pattern>docker-registry.ocplab-ins.lfnet.se</last-pattern>
       <last-replace>'true'</last-replace>
       <last-substitute>&quot;true&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -419,10 +392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>apps</entry>
-        <entry>depl</entry>
-        <entry>Deployment</entry>
-        <entry>Service</entry>
         <entry>cre</entry>
         <entry>repl</entry>
         <entry>del</entry>
@@ -439,6 +408,10 @@
         <entry>namesp</entry>
         <entry>70</entry>
         <entry>80</entry>
+        <entry encoding="base64">XDxsb2dcPg==</entry>
+        <entry>ms</entry>
+        <entry encoding="base64">XDxndW56aXBcPg==</entry>
+        <entry>docker-registry.ocplab-ins.lfnet.se</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
