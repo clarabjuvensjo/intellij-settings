@@ -20,6 +20,9 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="28" />
       </file>
+      <file name="$USER_HOME$/git/rsimulator/rsimulator-cxf-rt-transport/src/main/java/com/github/bjuvensjo/rsimulator/cxf/transport/RSimulatorConduit.java" timestamp="1582898036062">
+        <mark key="'" line="29" column="22" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-build.sh" timestamp="1582881992971">
         <mark key="s" line="2" column="32" />
         <mark key="[" line="2" column="0" />
@@ -236,12 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="23" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
-      <jump line="9" column="18" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
-      <jump line="77" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
-      <jump line="52" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
-      <jump line="80" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
-      <jump line="64" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="47" column="29" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="39" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="95" column="13" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
@@ -336,13 +333,19 @@
       <jump line="102" column="25" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" />
       <jump line="6" column="29" filename="$USER_HOME$/git/rsimulator/rsimulator-pom-parent/pom.xml" />
       <jump line="1" column="16" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-bash.sh" />
+      <jump line="33" column="59" filename="$USER_HOME$/git/rsimulator/rsimulator-cxf-rt-transport/src/main/java/com/github/bjuvensjo/rsimulator/cxf/transport/RSimulatorConduit.java" />
+      <jump line="35" column="25" filename="$USER_HOME$/git/rsimulator/rsimulator-cxf-rt-transport/src/main/java/com/github/bjuvensjo/rsimulator/cxf/transport/RSimulatorConduit.java" />
+      <jump line="83" column="15" filename="$USER_HOME$/git/rsimulator/rsimulator-cxf-rt-transport/src/main/java/com/github/bjuvensjo/rsimulator/cxf/transport/RSimulatorConduit.java" />
+      <jump line="2" column="44" filename="$USER_HOME$/git/rsimulator/rsimulator-cxf-rt-transport/src/main/java/com/github/bjuvensjo/rsimulator/cxf/transport/RSimulatorConduit.java" />
+      <jump line="25" column="18" filename="$USER_HOME$/git/rsimulator/rsimulator-cxf-rt-transport/src/main/java/com/github/bjuvensjo/rsimulator/cxf/transport/RSimulatorConduit.java" />
+      <jump line="29" column="22" filename="$USER_HOME$/git/rsimulator/rsimulator-cxf-rt-transport/src/main/java/com/github/bjuvensjo/rsimulator/cxf/transport/RSimulatorConduit.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>mygroup</text>
       </register>
       <register name="/" type="4">
-        <text>jdom</text>
+        <text encoding="base64">XDxzaW11bGF0b3JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMgRGVwbG95IHRvIE9wZW5TaGlmdAoxLiBtdm4gY2xlYW4gcGFja2FnZQoyLiAuL2RvY2tlci1idWlsZC5zaAozLiAuL2RvY2tlci1zYXZlLnNoCjQuIHNjcCBtcy5wb2MucmVwb3NpdG9yeS5pbWFnZS50YXIuZ3ogPGEtYWNjb3VudD5AMTAuMjAwLjEzMy4yNDp+L21zLnBvYy5yZXBvc2l0b3J5LmltYWdlLnRhci5nego1LiBzc2ggPGEtYWNjb3VudD5AMTAuMjAwLjEzMy4yNAo2LiBndW56aXAgbXMucG9jLnJlcG9zaXRvcnkuaW1hZ2UudGFyLmd6CjcuIHN1ZG8gZG9ja2VyIGxvYWQgLWkgbXMucG9jLnJlcG9zaXRvcnkuaW1hZ2UudGFyICMgbG9hZCB0aGUgaW1hZ2UgaW4gdGhlIHJlZ2lzdHJ5IG9mIHRoZSBqdW1wIHNlcnZlcgo4LiBzdWRvIGRvY2tlciBsb2dpbiAtdSA8Yi1hY2NvdW50PiAtcCA8dG9rZW4+IGRvY2tlci1yZWdpc3RyeS5vY3BsYWItaW5zLmxmbmV0LnNlICMgPHRva2VuPiBpcyB0aGUgb25lIHJldHJpZXZlZCBhYm92ZSBmcm9tIE9wZW5TaGlmdC4KOS4gc3VkbyBkb2NrZXIgcHVzaCBkb2NrZXItcmVnaXN0cnkub2NwbGFiLWlucy5sZm5ldC5zZS9iYW5rLWRzbC1hcHAtMDEvbXMucG9jLnJlcG9zaXRvcnkgIyBwdXNoZXMgdGhlIGltYWdlKHMpIHRvIHRoZSBPcGVuU2hpZnQgZG9ja2VyIHJlZ2lzdHJ5Cgo=</text>
@@ -404,9 +407,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jdom</last-search>
+      <last-search encoding="base64">XDxzaW11bGF0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern>jdom</last-pattern>
+      <last-pattern encoding="base64">XDxzaW11bGF0b3JcPg==</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -414,8 +417,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'</entry>
-        <entry encoding="base64">XDxyZXN0Q2xpZW50XD4=</entry>
         <entry encoding="base64">XDxSRVNUQ2xpZW50XD4=</entry>
         <entry>ignore</entry>
         <entry>ESBU</entry>
@@ -434,6 +435,8 @@
         <entry>it</entry>
         <entry>print</entry>
         <entry>jdom</entry>
+        <entry encoding="base64">XDxTaW11bGF0b3JcPg==</entry>
+        <entry encoding="base64">XDxzaW11bGF0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
