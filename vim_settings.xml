@@ -20,10 +20,10 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-build.sh" timestamp="1582815252459">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-build.sh" timestamp="1582881992971">
         <mark key="s" line="2" column="32" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="102" />
         <mark key="^" line="2" column="83" />
         <mark key="." line="1" column="0" />
       </file>
@@ -70,9 +70,9 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/Dockerfile" timestamp="1582805727515">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="10" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/Dockerfile" timestamp="1582881968917">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="11" />
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
@@ -338,7 +338,7 @@
         <text>jdom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">MS4gY3VybCAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9vY3RldC1zdHJlYW0iIC12IC1YIFBPU1QgLS1kYXRhLWJpbmFyeSAiSGVsbG8gV29ybGQiIGh0dHBzOi8vcG9jLm9jcGxhYi1iYW5rLmxmbmV0LnNlL21zLnBvYy5yZXBvc2l0b3J5LzEuMC9cP3JlZlw9ZGV2ZWxvcFwmcmVzb3VyY2U9L2Jhei50eHQKMi4gY3VybCAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9vY3RldC1zdHJlYW0iIC12IC1YIFBPU1QgLS1kYXRhLWJpbmFyeSBAdGVzdC56aXAgaHR0cDovL2xvY2FsaG9zdDo3MDAwL1w/cmVmXD1kZXZlbG9wXCZyZXNvdXJjZVw9L3Rlc3QuemlwCg==</text>
+        <text encoding="base64">ZG9ja2VyIGJ1aWxkIC0tbm8tY2FjaGUgLS1ybSAtdCBkb2NrZXItcmVnaXN0cnkub2NwbGFiLWlucy5sZm5ldC5zZS9iYW5rLWRzbC1hcHAtMDEvbXMucG9jLnJlcG9zaXRvcnkgLgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2NwIG1zLnBvYy5yZXBvc2l0b3J5LmltYWdlLnRhci5neiBhOTI2YmpAMTAuMjAwLjEzMy4yNDp+L21zLnBvYy5yZXBvc2l0b3J5LmltYWdlLnRhci5nego=</text>
