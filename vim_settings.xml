@@ -55,6 +55,9 @@
         <mark key="^" line="3" column="78" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rsimulator/rsimulator-pom-parent/pom.xml" timestamp="1582876502439">
+        <mark key="'" line="6" column="29" />
+      </file>
       <file name="$USER_HOME$/slask/groovy-test/src/Slask.groovy" timestamp="1581329970071">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="2" column="21" />
@@ -73,7 +76,6 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays-cfg/pom.xml" timestamp="1582725288968" />
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" timestamp="1581445462288">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="0" />
@@ -86,7 +88,6 @@
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/pom.xml" timestamp="1582725369276" />
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" timestamp="1581349819983">
         <mark key="'" line="105" column="17" />
         <mark key="[" line="109" column="0" />
@@ -162,6 +163,12 @@
         <mark key="[" line="31" column="2" />
         <mark key="]" line="31" column="41" />
       </file>
+      <file name="$USER_HOME$/git/rsimulator/rsimulator-core/src/main/java/com/github/bjuvensjo/rsimulator/core/handler/regexp/XmlHandler.java" timestamp="1582876216561">
+        <mark key="[" line="41" column="53" />
+        <mark key="]" line="41" column="53" />
+        <mark key="." line="41" column="53" />
+        <mark key="^" line="41" column="54" />
+      </file>
       <file name="$USER_HOME$/slask/zzz/groovy.git/src/test/java/com/evry/finance/groovy/git/GitRemoteStashIT.groovy" timestamp="1581349033468">
         <mark key="'" line="43" column="125" />
         <mark key="[" line="15" column="0" />
@@ -222,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="11" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="64" column="23" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
       <jump line="9" column="18" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
@@ -322,19 +328,20 @@
       <jump line="7" column="16" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/Slask.groovy" />
       <jump line="15" column="27" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/Slask.groovy" />
       <jump line="102" column="25" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" />
+      <jump line="6" column="29" filename="$USER_HOME$/git/rsimulator/rsimulator-pom-parent/pom.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>jdom</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y3VybCAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9vY3RldC1zdHJlYW0iIC12IC1YIFBPU1QgLS1kYXRhLWJpbmFyeSAiSGVsbG8gV29ybGQiIGh0dHBzOi8vcG9jLm9jcGxhYi1iYW5rLmxmbmV0LnNlL21zLnBvYy5yZXBvc2l0b3J5LzEuMC9cP3JlZlw9ZGV2ZWxvcFwmcmVzb3VyY2U9L2Jhei50eHQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4ob3V0cHV0RmlsZSkKICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9ybWF0Lgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -362,37 +369,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4gemYuZ2V0SW5wdXRTdHJlYW0oemlwRW50cnkpLnRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4ob3V0cHV0RmlsZSkKICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4gemYuZ2V0SW5wdXRTdHJlYW0oemlwRW50cnkpLnRleHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4ob3V0cHV0RmlsZS5wYXJlbnRGaWxlKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih6aXBFbnRyeS5jbGFzcykKICAgICAgICAgICAgcHJpbnRsbih6aXBFbnRyeS5uYW1lKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4ob3V0cHV0RmlsZS5wYXJlbnRGaWxlKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih6aXBFbnRyeS5jbGFzcykKICAgICAgICAgICAgcHJpbnRsbih6aXBFbnRyeS5uYW1lKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICByZXNwb25zZS5zZXRTdGF0dXMoMjAxKQo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICByZXNwb25zZS5zZXRTdGF0dXMoMjAxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>jdom</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>jdom</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -400,7 +407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>libs-</entry>
         <entry>'</entry>
         <entry encoding="base64">XDxyZXN0Q2xpZW50XD4=</entry>
         <entry encoding="base64">XDxSRVNUQ2xpZW50XD4=</entry>
@@ -420,6 +426,7 @@
         <entry>;</entry>
         <entry>it</entry>
         <entry>print</entry>
+        <entry>jdom</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
