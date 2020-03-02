@@ -48,9 +48,9 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/emacs.restclient" timestamp="1582810182781">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="55" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/emacs.restclient" timestamp="1583149212981">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/apiClient.groovy" timestamp="1580557175163">
         <mark key="[" line="5" column="0" />
@@ -348,7 +348,7 @@
         <text encoding="base64">XDxzaW11bGF0b3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMgRGVwbG95IHRvIE9wZW5TaGlmdAoxLiBtdm4gY2xlYW4gcGFja2FnZQoyLiAuL2RvY2tlci1idWlsZC5zaAozLiAuL2RvY2tlci1zYXZlLnNoCjQuIHNjcCBtcy5wb2MucmVwb3NpdG9yeS5pbWFnZS50YXIuZ3ogPGEtYWNjb3VudD5AMTAuMjAwLjEzMy4yNDp+L21zLnBvYy5yZXBvc2l0b3J5LmltYWdlLnRhci5nego1LiBzc2ggPGEtYWNjb3VudD5AMTAuMjAwLjEzMy4yNAo2LiBndW56aXAgbXMucG9jLnJlcG9zaXRvcnkuaW1hZ2UudGFyLmd6CjcuIHN1ZG8gZG9ja2VyIGxvYWQgLWkgbXMucG9jLnJlcG9zaXRvcnkuaW1hZ2UudGFyICMgbG9hZCB0aGUgaW1hZ2UgaW4gdGhlIHJlZ2lzdHJ5IG9mIHRoZSBqdW1wIHNlcnZlcgo4LiBzdWRvIGRvY2tlciBsb2dpbiAtdSA8Yi1hY2NvdW50PiAtcCA8dG9rZW4+IGRvY2tlci1yZWdpc3RyeS5vY3BsYWItaW5zLmxmbmV0LnNlICMgPHRva2VuPiBpcyB0aGUgb25lIHJldHJpZXZlZCBhYm92ZSBmcm9tIE9wZW5TaGlmdC4KOS4gc3VkbyBkb2NrZXIgcHVzaCBkb2NrZXItcmVnaXN0cnkub2NwbGFiLWlucy5sZm5ldC5zZS9iYW5rLWRzbC1hcHAtMDEvbXMucG9jLnJlcG9zaXRvcnkgIyBwdXNoZXMgdGhlIGltYWdlKHMpIHRvIHRoZSBPcGVuU2hpZnQgZG9ja2VyIHJlZ2lzdHJ5Cgo=</text>
+        <text encoding="base64">OnNlcnZpY2UgPSBodHRwOi8vbG9jYWxob3N0OjcwMDAKIzpzZXJ2aWNlID0gaHR0cDovL2xvY2FsaG9zdDoxODA2L21zLnJlcG9zaXRvcnkvMS4wCiM6c2VydmljZSA9IGh0dHA6Ly8xMC40Ni42NC4zMToxODA2L21zLnJlcG9zaXRvcnkvMS4wCjpjb250ZW50LXR5cGUgPSBDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgKOmFjY2VwdCA9IEFjY2VwdDogYXBwbGljYXRpb24vanNvbgo6dXNlci1hZ2VudCA9IFVzZXItQWdlbnQ6IEVtYWNzIFJlc3RjbGllbnQKCgojIEdldCBoZWFsdGgKR0VUIGh0dHA6Ly9sb2NhbGhvc3Q6NzAwMC9oZWFsdGgKOmFjY2VwdAo6Y29udGVudC10eXBlCjp1c2VyLWFnZW50Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2NwIG1zLnBvYy5yZXBvc2l0b3J5LmltYWdlLnRhci5neiBhOTI2YmpAMTAuMjAwLjEzMy4yNDp+L21zLnBvYy5yZXBvc2l0b3J5LmltYWdlLnRhci5nego=</text>
