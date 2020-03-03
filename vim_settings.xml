@@ -154,6 +154,13 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
+      <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/main/java/sample/ServiceRouteBuilder.java" timestamp="1583225275749">
+        <mark key="'" line="4" column="44" />
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/deployment.yaml" timestamp="1582805748027">
         <mark key="'" line="57" column="31" />
         <mark key="[" line="57" column="29" />
@@ -245,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="29" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="39" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/core.groovy" />
       <jump line="95" column="13" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
       <jump line="88" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.groovy" />
@@ -345,13 +351,14 @@
       <jump line="2" column="44" filename="$USER_HOME$/git/rsimulator/rsimulator-cxf-rt-transport/src/main/java/com/github/bjuvensjo/rsimulator/cxf/transport/RSimulatorConduit.java" />
       <jump line="25" column="18" filename="$USER_HOME$/git/rsimulator/rsimulator-cxf-rt-transport/src/main/java/com/github/bjuvensjo/rsimulator/cxf/transport/RSimulatorConduit.java" />
       <jump line="29" column="22" filename="$USER_HOME$/git/rsimulator/rsimulator-cxf-rt-transport/src/main/java/com/github/bjuvensjo/rsimulator/cxf/transport/RSimulatorConduit.java" />
+      <jump line="4" column="44" filename="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/main/java/sample/ServiceRouteBuilder.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>m</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaW11bGF0b3JcPg==</text>
+        <text>tra</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">OnNlcnZpY2UgPSBodHRwOi8vbG9jYWxob3N0OjcwMDAKIzpzZXJ2aWNlID0gaHR0cDovL2xvY2FsaG9zdDoxODA2L21zLnJlcG9zaXRvcnkvMS4wCiM6c2VydmljZSA9IGh0dHA6Ly8xMC40Ni42NC4zMToxODA2L21zLnJlcG9zaXRvcnkvMS4wCjpjb250ZW50LXR5cGUgPSBDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgKOmFjY2VwdCA9IEFjY2VwdDogYXBwbGljYXRpb24vanNvbgo6dXNlci1hZ2VudCA9IFVzZXItQWdlbnQ6IEVtYWNzIFJlc3RjbGllbnQKCgojIEdldCBoZWFsdGgKR0VUIGh0dHA6Ly9sb2NhbGhvc3Q6NzAwMC9oZWFsdGgKOmFjY2VwdAo6Y29udGVudC10eXBlCjp1c2VyLWFnZW50Cg==</text>
@@ -413,9 +420,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaW11bGF0b3JcPg==</last-search>
+      <last-search>tra</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaW11bGF0b3JcPg==</last-pattern>
+      <last-pattern>tra</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -423,7 +430,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRVNUQ2xpZW50XD4=</entry>
         <entry>ignore</entry>
         <entry>ESBU</entry>
         <entry encoding="base64">PA==</entry>
@@ -443,6 +449,7 @@
         <entry>jdom</entry>
         <entry encoding="base64">XDxTaW11bGF0b3JcPg==</entry>
         <entry encoding="base64">XDxzaW11bGF0b3JcPg==</entry>
+        <entry>tra</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
