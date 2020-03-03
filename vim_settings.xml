@@ -154,12 +154,8 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/main/java/sample/ServiceRouteBuilder.java" timestamp="1583229277575">
+      <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/main/java/sample/ServiceRouteBuilder.java" timestamp="1583231075519">
         <mark key="'" line="4" column="44" />
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="11" />
-        <mark key="^" line="9" column="11" />
-        <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/deployment.yaml" timestamp="1582805748027">
         <mark key="'" line="57" column="31" />
@@ -222,7 +218,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/test/java/sample/ServiceRouteBuilderTest.java" timestamp="1583188124464" />
+      <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/test/java/sample/ServiceRouteBuilderTest.java" timestamp="1583231319097">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-save.sh" timestamp="1582882767850">
         <mark key="'" line="7" column="46" />
         <mark key="[" line="0" column="0" />
@@ -364,7 +364,7 @@
         <text encoding="base64">OnNlcnZpY2UgPSBodHRwOi8vbG9jYWxob3N0OjcwMDAKIzpzZXJ2aWNlID0gaHR0cDovL2xvY2FsaG9zdDoxODA2L21zLnJlcG9zaXRvcnkvMS4wCiM6c2VydmljZSA9IGh0dHA6Ly8xMC40Ni42NC4zMToxODA2L21zLnJlcG9zaXRvcnkvMS4wCjpjb250ZW50LXR5cGUgPSBDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgKOmFjY2VwdCA9IEFjY2VwdDogYXBwbGljYXRpb24vanNvbgo6dXNlci1hZ2VudCA9IFVzZXItQWdlbnQ6IEVtYWNzIFJlc3RjbGllbnQKCgojIEdldCBoZWFsdGgKR0VUIGh0dHA6Ly9sb2NhbGhvc3Q6NzAwMC9oZWFsdGgKOmFjY2VwdAo6Y29udGVudC10eXBlCjp1c2VyLWFnZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2NwIG1zLnBvYy5yZXBvc2l0b3J5LmltYWdlLnRhci5neiBhOTI2YmpAMTAuMjAwLjEzMy4yNDp+L21zLnBvYy5yZXBvc2l0b3J5LmltYWdlLnRhci5nego=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -392,28 +392,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybWF0Lgo=</text>
+        <text encoding="base64">c2NwIG1zLnBvYy5yZXBvc2l0b3J5LmltYWdlLnRhci5neiBhOTI2YmpAMTAuMjAwLjEzMy4yNDp+L21zLnBvYy5yZXBvc2l0b3J5LmltYWdlLnRhci5nego=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4ob3V0cHV0RmlsZSkKICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9ybWF0Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4gemYuZ2V0SW5wdXRTdHJlYW0oemlwRW50cnkpLnRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4ob3V0cHV0RmlsZSkKICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4gemYuZ2V0SW5wdXRTdHJlYW0oemlwRW50cnkpLnRleHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4ob3V0cHV0RmlsZS5wYXJlbnRGaWxlKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih6aXBFbnRyeS5jbGFzcykKICAgICAgICAgICAgcHJpbnRsbih6aXBFbnRyeS5uYW1lKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4ob3V0cHV0RmlsZS5wYXJlbnRGaWxlKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih6aXBFbnRyeS5jbGFzcykKICAgICAgICAgICAgcHJpbnRsbih6aXBFbnRyeS5uYW1lKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//</text>
