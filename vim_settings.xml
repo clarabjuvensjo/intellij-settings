@@ -70,11 +70,11 @@
       <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/main/java/sample/ServiceRouteBuilder.java" timestamp="1583231075519">
         <mark key="'" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/slask/zzzzz/groovy.git/src/main/java/com/evry/finance/groovy/git/Slask.groovy" timestamp="1583249460886">
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="37" column="28" />
-        <mark key="^" line="37" column="30" />
+      <file name="$USER_HOME$/slask/zzzzz/groovy.git/src/main/java/com/evry/finance/groovy/git/Slask.groovy" timestamp="1583251877480">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="50" column="38" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/kubTest.groovy" timestamp="1581331244456">
         <mark key="[" line="49" column="0" />
@@ -176,12 +176,12 @@
         <mark key="]" line="12" column="14" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/slask/zzzzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1583249583200">
-        <mark key="'" line="12" column="32" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="64" column="20" />
+      <file name="$USER_HOME$/slask/zzzzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1583251578077">
+        <mark key="'" line="54" column="62" />
+        <mark key="[" line="71" column="104" />
+        <mark key="]" line="72" column="15" />
+        <mark key="." line="72" column="15" />
+        <mark key="^" line="72" column="15" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/slask/pom.xml" timestamp="1582885185410">
         <mark key="[" line="5" column="12" />
@@ -219,8 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="12" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" />
-      <jump line="146" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" />
       <jump line="149" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" />
       <jump line="120" column="22" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" />
       <jump line="108" column="9" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" />
@@ -319,19 +317,21 @@
       <jump line="100" column="34" filename="$MAVEN_REPOSITORY$/org/codehaus/groovy/modules/http-builder/http-builder/0.7.1/http-builder-0.7.1.jar!/groovyx/net/http/HTTPBuilder.class" />
       <jump line="108" column="111" filename="$MAVEN_REPOSITORY$/org/codehaus/groovy/modules/http-builder/http-builder/0.7.1/http-builder-0.7.1.jar!/groovyx/net/http/HTTPBuilder.class" />
       <jump line="12" column="32" filename="$USER_HOME$/slask/zzzzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" />
+      <jump line="62" column="66" filename="$USER_HOME$/slask/zzzzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" />
+      <jump line="54" column="62" filename="$USER_HOME$/slask/zzzzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>Dele</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUkVTVENsaWVudCBjcmVhdGVSZXN0Q2xpZW50KCkgewogICAgICAgIGRlZiBwdyA9IHBhc3N3b3JkLnRvU3RyaW5nKCkKCiAgICAgICAgUkVTVENsaWVudCBzdGFzaCA9IG5ldyBSRVNUQ2xpZW50KHVybCArIENPUkVfQVBJX1NVRkZJWCwgSlNPTikKICAgICAgICBzdGFzaC5oZWFkZXJzWydBdXRob3JpemF0aW9uJ10gPSAnQmFzaWMgJyArICgiJHVzZXJuYW1lOiRwdyIpLmJ5dGVzLmVuY29kZUJhc2U2NCgpCgogICAgICAgIHJldHVybiBzdGFzaAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZGVsZXRlU3RhdHVzICE9IDIwNCkgewogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oIkNhbiBub3QgZGVsZXRlICR7cmVwby5wcm9qZWN0S2V5fSAke3JlcG8ubmFtZX0iKQogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4geCAhPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gaW9lKSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -359,46 +359,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih4KQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>+ ': ' + enabled</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGdpdFJlbW90ZVN0YXNoLmFkZEplbmtpbnNDb21taXRIb29rKHJlcG8pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4ocmVwbyArICc6ICcgKyBlbmFibGVkKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKCFlbmFibGVkKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb24uZW5hYmxlZCA9PSB0cnVlICYmIGpzb24uY29uZmlndXJlZCA9PSB0cnVlCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcHJpbnRsbihlbmFibGVkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFzaAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcHJpbnRsbihyZXBvKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZGVmIGVuYWJsZWQgPSBnaXRSZW1vdGVTdGFzaC5pc0NvbW1pdEhvb2tFbmFibGVkKHJlcG8sIGNvbmZpZ3VyYXRpb24uamVua2lucy5ob29rVXJsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFzaC5oZWFkZXJzWydBdXRob3JpemF0aW9uJ10gPSAnQmFzaWMgJyArICgiJHVzZXJuYW1lOiRwdyIpLmJ5dGVzLmVuY29kZUJhc2U2NCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSRVNUQ2xpZW50IHN0YXNoID0gbmV3IFJFU1RDbGllbnQodXJsICsgQ09SRV9BUElfU1VGRklYLCBKU09OKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//gc</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>Dele</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>Dele</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtc1w+</entry>
-        <entry>namesp</entry>
         <entry>70</entry>
         <entry>80</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
@@ -417,6 +415,8 @@
         <entry encoding="base64">XDxkZWZhdWx0Q29udGVudFR5cGVcPg==</entry>
         <entry encoding="base64">XDxDT1JFX0FQSV9TVUZGSVhcPg==</entry>
         <entry>)</entry>
+        <entry>Obj</entry>
+        <entry>Dele</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
