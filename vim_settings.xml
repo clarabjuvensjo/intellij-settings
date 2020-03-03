@@ -154,8 +154,12 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/main/java/sample/ServiceRouteBuilder.java" timestamp="1583226232422">
+      <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/main/java/sample/ServiceRouteBuilder.java" timestamp="1583229277575">
         <mark key="'" line="4" column="44" />
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/deployment.yaml" timestamp="1582805748027">
         <mark key="'" line="57" column="31" />
