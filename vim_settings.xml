@@ -52,6 +52,11 @@
         <mark key="^" line="67" column="24" />
         <mark key="." line="67" column="25" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.yaml" timestamp="1583755905859">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="32" />
+      </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/.gitignore" timestamp="1581345274405">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="8" column="8" />
@@ -238,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" />
       <jump line="155" column="17" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" />
       <jump line="156" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" />
       <jump line="164" column="17" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" />
@@ -338,6 +342,7 @@
       <jump line="43" column="12" filename="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/BitbucketPostWebhooks.groovy" />
       <jump line="56" column="8" filename="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/BitbucketPostWebhooks.groovy" />
       <jump line="24" column="28" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/deployment.yaml" />
+      <jump line="19" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.yaml" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -346,8 +351,8 @@
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c2NwIG1zLnBvYy5yZXBvc2l0b3J5LmltYWdlLnRhci5neiA8YS1hY2NvdW50PkAxMC4yMDAuMTMzLjI0On4vbXMucG9jLnJlcG9zaXRvcnkuaW1hZ2UudGFyLmd6</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXBpVmVyc2lvbjogYXBwcy92MQpraW5kOiBEZXBsb3ltZW50Cm1ldGFkYXRhOgogIG5hbWU6ICMjbmFtZSMjCnNwZWM6CiAgcmVwbGljYXM6IDEKICBzZWxlY3RvcjoKICAgIG1hdGNoTGFiZWxzOgogICAgICBhcHA6ICMjbmFtZSMjCiAgdGVtcGxhdGU6CiAgICBtZXRhZGF0YToKICAgICAgbGFiZWxzOgogICAgICAgIGFwcDogIyNuYW1lIyMKICAgIHNwZWM6CiAgICAgIGNvbnRhaW5lcnM6CiAgICAgICAgLSBuYW1lOiByc2ltdWxhdG9yLWh0dHAKICAgICAgICAgIGltYWdlOiBianV2ZW5zam8vcnNpbXVsYXRvci1odHRwCiAgICAgICAgICBwb3J0czoKICAgICAgICAgICAgLSBjb250YWluZXJQb3J0OiA4MDgwCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW9lLnByaW50U3RhY2tUcmFjZSgpCg==</text>
