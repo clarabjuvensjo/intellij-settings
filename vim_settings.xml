@@ -51,11 +51,11 @@
         <mark key="^" line="67" column="24" />
         <mark key="." line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.yaml" timestamp="1583756640923">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.yaml" timestamp="1583838762427">
         <mark key="'" line="32" column="8" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-bash.sh" timestamp="1582890348596">
         <mark key="'" line="1" column="16" />
@@ -398,7 +398,7 @@
         <text encoding="base64">Y3VybCBodHRwczovL3BvYy5vY3BsYWItYmFuay5sZm5ldC5zZS9tcy5wb2MucmVwb3NpdG9yeS8xLjAvXD9yZWZcPWRldmVsb3BcJnJlc291cmNlPS9iYXoudHh0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TWFwIHNlcnZpY2UgPSAoTWFwKSBZYW1sLnNuYWtlWWFtbC5sb2FkKG5ldyBGaWxlKCcvVXNlcnMvbWFnbnVzL2dpdC1QRVNDUE9DL1BFU0NQT0MvY2Qua3ViZXJuZXRlcy5jbGllbnQvdmFycy9zZXJ2aWNlLnlhbWwnKS50ZXh0KQpkZWYgc2VydmljZUpzb24gPSBKc29uT3V0cHV0LnRvSnNvbihzZXJ2aWNlKQpwcmludGxuKEpzb25PdXRwdXQucHJldHR5UHJpbnQoc2VydmljZUpzb24pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjcHU6IDI1MG0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -426,28 +426,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt1YmVybmV0ZXMuY2xpZW50LnV0aWwuWWFtbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjcHU6IDQwMG0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">TWFwIHNlcnZpY2UgPSAoTWFwKSBZYW1sLnNuYWtlWWFtbC5sb2FkKG5ldyBGaWxlKCcvVXNlcnMvbWFnbnVzL2dpdC1QRVNDUE9DL1BFU0NQT0MvY2Qua3ViZXJuZXRlcy5jbGllbnQvdmFycy9zZXJ2aWNlLnlhbWwnKS50ZXh0KQpkZWYgc2VydmljZUpzb24gPSBKc29uT3V0cHV0LnRvSnNvbihzZXJ2aWNlKQpwcmludGxuKEpzb25PdXRwdXQucHJldHR5UHJpbnQoc2VydmljZUpzb24pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewo=</text>
+        <text encoding="base64">aW1wb3J0IGlvLmt1YmVybmV0ZXMuY2xpZW50LnV0aWwuWWFtbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgTWFwIHRlbXBsYXRlID0gKE1hcCkgWWFtbC5zbmFrZVlhbWwubG9hZCgnL1VzZXJzL21hZ251cy9naXQtUEVTQ1BPQy9QRVNDUE9DL2NkLmt1YmVybmV0ZXMuY2xpZW50L3ZhcnMvc2VydmljZS55YW1sJykKICAgIHByaW50bG4odGVtcGxhdGUpCn0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TWFwIHRlbXBsYXRlID0gKE1hcCkgWWFtbC5zbmFrZVlhbWwubG9hZCgnL1VzZXJzL21hZ251cy9naXQtUEVTQ1BPQy9QRVNDUE9DL2NkLmt1YmVybmV0ZXMuY2xpZW50L3ZhcnMvc2VydmljZS55YW1sJykKcHJpbnRsbih0ZW1wbGF0ZSkK</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgTWFwIHRlbXBsYXRlID0gKE1hcCkgWWFtbC5zbmFrZVlhbWwubG9hZCgnL1VzZXJzL21hZ251cy9naXQtUEVTQ1BPQy9QRVNDUE9DL2NkLmt1YmVybmV0ZXMuY2xpZW50L3ZhcnMvc2VydmljZS55YW1sJykKICAgIHByaW50bG4odGVtcGxhdGUpCn0K</text>
       </register>
-      <register name="8" type="4">
-        <text>pp/Users/magnus/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBpVmVyc2lvbjogdjEKa2luZDogU2VydmljZQptZXRhZGF0YToKICBuYW1lOiAjI25hbWUjIwpzcGVjOgogIHNlbGVjdG9yOgogICAgYXBwOiAjI25hbWUjIwogIHBvcnRzOgogICAgLSBwcm90b2NvbDogVENQCiAgICAgIHBvcnQ6IDgwODAKICB0eXBlOiBOb2RlUG9ydAo=</text>
+        <text encoding="base64">TWFwIHRlbXBsYXRlID0gKE1hcCkgWWFtbC5zbmFrZVlhbWwubG9hZCgnL1VzZXJzL21hZ251cy9naXQtUEVTQ1BPQy9QRVNDUE9DL2NkLmt1YmVybmV0ZXMuY2xpZW50L3ZhcnMvc2VydmljZS55YW1sJykKcHJpbnRsbih0ZW1wbGF0ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/ms-poc-repository/##NAME##/g</text>
