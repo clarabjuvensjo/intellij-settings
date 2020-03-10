@@ -203,6 +203,12 @@
         <mark key="^" line="48" column="34" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/README_kubectl.md" timestamp="1583833930079">
+        <mark key="[" line="79" column="94" />
+        <mark key="]" line="79" column="94" />
+        <mark key="^" line="79" column="3" />
+        <mark key="." line="79" column="94" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/slask/pom.xml" timestamp="1582885185410">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="24" />
@@ -354,7 +360,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>e</text>
+        <text>https://openshift.redhat.com:8443/oapi/v1 --insecure</text>
       </register>
       <register name="/" type="4">
         <text>ms-poc-repository</text>
