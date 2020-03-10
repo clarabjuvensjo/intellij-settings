@@ -149,10 +149,10 @@
         <mark key="^" line="23" column="90" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/README.md" timestamp="1583832507602">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/README.md" timestamp="1583838674761">
         <mark key="'" line="14" column="178" />
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="134" />
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="95" />
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
@@ -162,12 +162,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" timestamp="1583836897864">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="32" column="1" />
-        <mark key="]" line="34" column="44" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="26" column="0" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" timestamp="1583838472729">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="36" column="108" />
+        <mark key="]" line="36" column="112" />
+        <mark key="." line="36" column="112" />
+        <mark key="^" line="36" column="112" />
       </file>
       <file name="$USER_HOME$/slask/groovy-test/src/Slask.groovy" timestamp="1581329970071">
         <mark key="[" line="0" column="13" />
@@ -286,7 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="58" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" />
       <jump line="97" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" />
       <jump line="119" column="25" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kubernetes.groovy" />
       <jump line="4" column="23" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
@@ -386,16 +385,17 @@
       <jump line="4" column="32" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/route.yaml" />
       <jump line="49" column="5" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/kub.groovy" />
       <jump line="27" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
+      <jump line="28" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>e</text>
+        <text>deployment</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">TWFwIHRlbXBsYXRlID0gKE1hcCkgWWFtbC5zbmFrZVlhbWwubG9hZChuZXcgRmlsZSgnL1VzZXJzL21hZ251cy9naXQtUEVTQ1BPQy9QRVNDUE9DL2NkLmt1YmVybmV0ZXMuY2xpZW50L3ZhcnMvc2VydmljZS55YW1sJykudGV4dCkKZGVmIGpzb24gPSBKc29uT3V0cHV0LnRvSnNvbih0ZW1wbGF0ZSkKcHJpbnRsbihKc29uT3V0cHV0LnByZXR0eVByaW50KGpzb24pKSAK</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y3VybCBodHRwczovL3BvYy5vY3BsYWItYmFuay5sZm5ldC5zZS9tcy5wb2MucmVwb3NpdG9yeS8xLjAvXD9yZWZcPWRldmVsb3BcJnJlc291cmNlPS9iYXoudHh0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">TWFwIHNlcnZpY2UgPSAoTWFwKSBZYW1sLnNuYWtlWWFtbC5sb2FkKG5ldyBGaWxlKCcvVXNlcnMvbWFnbnVzL2dpdC1QRVNDUE9DL1BFU0NQT0MvY2Qua3ViZXJuZXRlcy5jbGllbnQvdmFycy9zZXJ2aWNlLnlhbWwnKS50ZXh0KQpkZWYgc2VydmljZUpzb24gPSBKc29uT3V0cHV0LnRvSnNvbihzZXJ2aWNlKQpwcmludGxuKEpzb25PdXRwdXQucHJldHR5UHJpbnQoc2VydmljZUpzb24pKQo=</text>
