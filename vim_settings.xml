@@ -16,12 +16,12 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" timestamp="1583881386385">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" timestamp="1583951241517">
         <mark key="'" line="153" column="35" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="172" column="63" />
-        <mark key="." line="173" column="0" />
-        <mark key="^" line="75" column="38" />
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ResourceApi.groovy" timestamp="1583866956823">
         <mark key="[" line="0" column="0" />
@@ -70,6 +70,12 @@
         <mark key="]" line="67" column="25" />
         <mark key="^" line="67" column="24" />
         <mark key="." line="67" column="25" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/ResourceApi.groovy" timestamp="1583951738696">
+        <mark key="[" line="21" column="46" />
+        <mark key="]" line="13" column="51" />
+        <mark key="." line="13" column="51" />
+        <mark key="^" line="13" column="51" />
       </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" timestamp="1581349819983">
         <mark key="'" line="105" column="17" />
@@ -315,7 +321,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/README_kubectl.md" timestamp="1583863953065">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/README_kubectl.md" timestamp="1583952280598">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="82" column="94" />
         <mark key="^" line="82" column="3" />
@@ -381,6 +387,12 @@
         <mark key="]" line="24" column="14" />
         <mark key="." line="24" column="14" />
         <mark key="^" line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/HttpAdapter.groovy" timestamp="1583952036721">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1583879643888">
         <mark key="[" line="0" column="0" />
@@ -490,16 +502,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>vars</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbcmVzcG9uc2VDb2RlOiAyMDAsIGJvZHk6ICdib2R5J10gfCBbcmVzcG9uc2VDb2RlOiAyMDAsIGJvZHk6ICdib2R5J10KICAgICAgICBbcmVzcG9uc2VDb2RlOiA0MDNdICAgICAgICAgICAgICAgfCBbcmVzcG9uc2VDb2RlOiA0MDNdCg==</text>
+        <text encoding="base64">ICAgICAgICBtZXRob2QuY2FsbCgiJHtob3N0fSR7dXJpfSIsIGdldFJlcXVlc3RQcm9wZXJ0aWVzKGZhbHNlKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/template/configMap.json</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkb0NhbGwoaHR0cC4mZ2V0LCB1cmkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -526,29 +538,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/template/configMap.json</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRkQE5vbkNQUwo=</text>
       </register>
       <register name="3" type="4">
         <text>$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/template/configMap.json</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/template/configMap.json</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbcmVzcG9uc2VDb2RlOiAyMDAsIGJvZHk6ICd7ImZvbyI6ImZvb1ZhbHVlIn0nXSB8IFsnZm9vJzogJ2Zvb1ZhbHVlJ10KICAgICAgICBbcmVzcG9uc2VDb2RlOiA0MDNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IG51bGwK</text>
+      <register name="5" type="4">
+        <text>$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/template/configMap.json</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbcmVzcG9uc2VDb2RlOiAyMDEsIGJvZHk6ICd7ImZvbyI6ImZvb1ZhbHVlIn0nXSB8IFsnZm9vJzogJ2Zvb1ZhbHVlJ10KICAgICAgICBbcmVzcG9uc2VDb2RlOiA0MDNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBbcmVzcG9uc2VDb2RlOiAyMDAsIGJvZHk6ICd7ImZvbyI6ImZvb1ZhbHVlIn0nXSB8IFsnZm9vJzogJ2Zvb1ZhbHVlJ10KICAgICAgICBbcmVzcG9uc2VDb2RlOiA0MDNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IG51bGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbcmVzcG9uc2VDb2RlOiAyMDAsIGJvZHk6ICd7ImZvbyI6ImZvb1ZhbHVlIn0nXSB8IFsnZm9vJzogJ2Zvb1ZhbHVlJ10KICAgICAgICBbcmVzcG9uc2VDb2RlOiA0MDNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICBbcmVzcG9uc2VDb2RlOiAyMDEsIGJvZHk6ICd7ImZvbyI6ImZvb1ZhbHVlIn0nXSB8IFsnZm9vJzogJ2Zvb1ZhbHVlJ10KICAgICAgICBbcmVzcG9uc2VDb2RlOiA0MDNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IG51bGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQucmVzcG9uc2VDb2RlID09IDIwMCA/IG5ldyBKc29uU2x1cnBlcigpLnBhcnNlVGV4dChyZXN1bHQuYm9keSBhcyBTdHJpbmcpIGFzIE1hcCA6IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICBbcmVzcG9uc2VDb2RlOiAyMDAsIGJvZHk6ICd7ImZvbyI6ImZvb1ZhbHVlIn0nXSB8IFsnZm9vJzogJ2Zvb1ZhbHVlJ10KICAgICAgICBbcmVzcG9uc2VDb2RlOiA0MDNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IG51bGwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
