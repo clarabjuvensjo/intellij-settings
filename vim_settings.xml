@@ -71,11 +71,10 @@
         <mark key="^" line="67" column="24" />
         <mark key="." line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/ResourceApi.groovy" timestamp="1583951738696">
-        <mark key="[" line="21" column="46" />
-        <mark key="]" line="13" column="51" />
-        <mark key="." line="13" column="51" />
-        <mark key="^" line="13" column="51" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/ResourceApi.groovy" timestamp="1584005388399">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" timestamp="1581349819983">
         <mark key="'" line="105" column="17" />
@@ -101,6 +100,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="47" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/CurlResourceApi.groovy" timestamp="1584005912337">
+        <mark key="[" line="26" column="68" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="21" />
       </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/SetBitbucketPostWebhooks.groovy" timestamp="1583253063570">
         <mark key="[" line="9" column="6" />
@@ -396,7 +401,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="29" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1583879643888">
+      <file name="/fragment.java" timestamp="1584005397448">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -504,7 +509,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>(</text>
+        <text>HttpAdapter httpAdapter</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
@@ -513,7 +518,7 @@
         <text encoding="base64">ICAgICAgICBtZXRob2QuY2FsbCgiJHtob3N0fSR7dXJpfSIsIGdldFJlcXVlc3RQcm9wZXJ0aWVzKGZhbHNlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb0NhbGwoaHR0cC4mZ2V0LCB1cmkpCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjcmVhdGVDdXJsQ29tbWFuZChNYXAgYm9keSkgewogICAgICAgIC8vc2ggJ2N1cmwgLWsgLVggR0VUIC1IICJBdXRob3JpemF0aW9uOiBCZWFyZXIgZXlKaGJHY2lPaUpTVXpJMU5pSXNJbXRwWkNJNklpSjkuZXlKcGMzTWlPaUpyZFdKbGNtNWxkR1Z6TDNObGNuWnBZMlZoWTJOdmRXNTBJaXdpYTNWaVpYSnVaWFJsY3k1cGJ5OXpaWEoyYVdObFlXTmpiM1Z1ZEM5dVlXMWxjM0JoWTJVaU9pSmlZVzVyTFdSemJDMWhjSEF0TURFaUxDSnJkV0psY201bGRHVnpMbWx2TDNObGNuWnBZMlZoWTJOdmRXNTBMM05sWTNKbGRDNXVZVzFsSWpvaWNtOWliM1F0ZEc5clpXNHROelk0T1hvaUxDSnJkV0psY201bGRHVnpMbWx2TDNObGNuWnBZMlZoWTJOdmRXNTBMM05sY25acFkyVXRZV05qYjNWdWRDNXVZVzFsSWpvaWNtOWliM1FpTENKcmRXSmxjbTVsZEdWekxtbHZMM05sY25acFkyVmhZMk52ZFc1MEwzTmxjblpwWTJVdFlXTmpiM1Z1ZEM1MWFXUWlPaUptWmpGa1pETTJOUzAyTW1JekxURXhaV0V0T1ROaFl5MHdNRFV3TlRaaVpEQmlaR01pTENKemRXSWlPaUp6ZVhOMFpXMDZjMlZ5ZG1salpXRmpZMjkxYm5RNlltRnVheTFrYzJ3dFlYQndMVEF4T25KdlltOTBJbjAuVDVpaXZvV2cxWnU5Z2Z3Qldua3k1NFRuVkhkbkJkRWFjbXJobmI2aklYVWNhZWhYay1oV0FOUl9XRHI4TTc1bF90a0xveU4wNFl6SHBuNVZIRnZUcmV1S1dUQVMwNmY4MDdfbTgtaTlmVWU5eS1FaDV6bmlrMGZrMlZIUVVpQ2p3Ulk3MXFDRmxEN2hVTFlRUFpsaXZ6WVM1bGlQdTQzN0dySnFlTXdGN0RtT3AxbHFWYktZTFpvTTVnaGZmZDFvdFRlQXFpYUJHbGJtcmlWQ1d5STBoNW9qYTk3MW91YzZpMW5kb09EY3VhcVNyYS1uUVNRa21sdUR4aHZvRE81TzRhMFJSR1lMZlNaVVBWRjMtSko4S21EeXEzYmpiNU1NZVhyZHlHZEZXazBxWnhYY3RQVm1UbnNpdC04QUVISkRNMXpFSWx2OURPY2hXLVZuYnk1SHF3IiAgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpcy9hcHBzL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL2RlcGxveW1lbnRzJwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -541,10 +546,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkQE5vbkNQUwo=</text>
+        <text encoding="base64">ICAgICAgICBkb0NhbGwoaHR0cC4mZ2V0LCB1cmkpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/template/configMap.json</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRkQE5vbkNQUwo=</text>
       </register>
       <register name="4" type="4">
         <text>$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/template/configMap.json</text>
@@ -552,17 +557,17 @@
       <register name="5" type="4">
         <text>$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/template/configMap.json</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/template/configMap.json</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbcmVzcG9uc2VDb2RlOiAyMDAsIGJvZHk6ICd7ImZvbyI6ImZvb1ZhbHVlIn0nXSB8IFsnZm9vJzogJ2Zvb1ZhbHVlJ10KICAgICAgICBbcmVzcG9uc2VDb2RlOiA0MDNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbcmVzcG9uc2VDb2RlOiAyMDEsIGJvZHk6ICd7ImZvbyI6ImZvb1ZhbHVlIn0nXSB8IFsnZm9vJzogJ2Zvb1ZhbHVlJ10KICAgICAgICBbcmVzcG9uc2VDb2RlOiA0MDNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICBbcmVzcG9uc2VDb2RlOiAyMDAsIGJvZHk6ICd7ImZvbyI6ImZvb1ZhbHVlIn0nXSB8IFsnZm9vJzogJ2Zvb1ZhbHVlJ10KICAgICAgICBbcmVzcG9uc2VDb2RlOiA0MDNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IG51bGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbcmVzcG9uc2VDb2RlOiAyMDAsIGJvZHk6ICd7ImZvbyI6ImZvb1ZhbHVlIn0nXSB8IFsnZm9vJzogJ2Zvb1ZhbHVlJ10KICAgICAgICBbcmVzcG9uc2VDb2RlOiA0MDNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICBbcmVzcG9uc2VDb2RlOiAyMDEsIGJvZHk6ICd7ImZvbyI6ImZvb1ZhbHVlIn0nXSB8IFsnZm9vJzogJ2Zvb1ZhbHVlJ10KICAgICAgICBbcmVzcG9uc2VDb2RlOiA0MDNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IG51bGwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
