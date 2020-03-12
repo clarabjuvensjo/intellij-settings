@@ -9,6 +9,13 @@
         <mark key="." line="28" column="28" />
         <mark key="^" line="27" column="43" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask2.groovy" timestamp="1584025286282">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="19" column="30" />
+        <mark key="^" line="19" column="30" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" timestamp="1583951241517">
         <mark key="'" line="153" column="35" />
         <mark key="[" line="14" column="9" />
@@ -82,10 +89,10 @@
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ResourceUtils.groovy" timestamp="1583866780820">
         <mark key="[" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" timestamp="1584009545759">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" timestamp="1584024597186">
         <mark key="'" line="2" column="39" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="67" column="11" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="47" column="12" />
         <mark key="." line="8" column="0" />
       </file>
@@ -128,10 +135,10 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/CurlResourceApiTest.groovy" timestamp="1584022342548">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/CurlResourceApiTest.groovy" timestamp="1584024520100">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/resources/Configuration.json" timestamp="1583253784397">
         <mark key="'" line="14" column="5" />
@@ -191,7 +198,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/README.md" timestamp="1583857765548">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/README.md" timestamp="1584025460459">
         <mark key="'" line="14" column="178" />
         <mark key="[" line="14" column="3" />
         <mark key="]" line="14" column="95" />
@@ -228,10 +235,10 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/test.groovy" timestamp="1584001143932">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/test.groovy" timestamp="1584025164796">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-save.sh" timestamp="1582882767850">
         <mark key="'" line="7" column="46" />
@@ -245,8 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="13" filename="$MAVEN_REPOSITORY$/org/codehaus/groovy/modules/http-builder/http-builder/0.7.1/http-builder-0.7.1.jar!/groovyx/net/http/HTTPBuilder.class" />
-      <jump line="100" column="34" filename="$MAVEN_REPOSITORY$/org/codehaus/groovy/modules/http-builder/http-builder/0.7.1/http-builder-0.7.1.jar!/groovyx/net/http/HTTPBuilder.class" />
       <jump line="108" column="111" filename="$MAVEN_REPOSITORY$/org/codehaus/groovy/modules/http-builder/http-builder/0.7.1/http-builder-0.7.1.jar!/groovyx/net/http/HTTPBuilder.class" />
       <jump line="12" column="32" filename="$USER_HOME$/slask/zzzzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" />
       <jump line="62" column="66" filename="$USER_HOME$/slask/zzzzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" />
@@ -345,19 +350,21 @@
       <jump line="17" column="12" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/CurlResourceApiTest.groovy" />
       <jump line="62" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/CurlResourceApiTest.groovy" />
       <jump line="76" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/CurlResourceApiTest.groovy" />
+      <jump line="5" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask2.groovy" />
+      <jump line="12" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask2.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>POST</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>resourceApi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuOgogICAgICAgIE1hcCBib2R5ID0gWwogICAgICAgICAgICAgICAgbWV0YWRhdGE6IFsKICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogJ3NsYXNrJwogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgIGRhdGEgICAgOiBbCiAgICAgICAgICAgICAgICAgICAgICAgIGJhcjogJ2JhclZhbHVlJywKICAgICAgICAgICAgICAgICAgICAgICAgYmF6OiAnYmF6VmFsdWUnCiAgICAgICAgICAgICAgICBdCiAgICAgICAgXQogICAgICAgIFN0cmluZyByZXN1bHQgPSBjdXJsUmVzb3VyY2VBcGkuY3JlYXRlKGJvZHkpCiAgICAgICAgdGhlbjoKICAgICAgICByZXN1bHQgPT0gIiIiY3VybCAtayAtWCBQT1NUIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kIHsibWV0YWRhdGEiOnsibmFtZSI6InNsYXNrIn0sImRhdGEiOnsiYmFyIjoiYmFyVmFsdWUiLCJiYXoiOiJiYXpWYWx1ZSJ9fSBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGkvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvY29uZmlnbWFwcy8iIiIK</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y3VybCBodHRwczovL3BvYy5vY3BsYWItYmFuay5sZm5ldC5zZS9tcy5wb2MucmVwb3NpdG9yeS8xLjAvXD9yZWZcPWRldmVsb3BcJnJlc291cmNlPS9iYXoudHh0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPT0gW3Jlc3BvbnNlQ29kZTogMjAwLCBib2R5OiAnYm9keSddCg==</text>
+        <text encoding="base64">cHJpbnRsbiAnbHMnLmV4ZWN1dGUoKS50ZXh0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -385,52 +392,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAxICogaHR0cEFkYXB0ZXIucHV0UmVzb3VyY2UoIiR7cmVzb3VyY2VVcml9L25hbWUiLCBbOl0pID4+IFtyZXNwb25zZUNvZGU6IDIwMCwgYm9keTogJ2JvZHknXQo=</text>
+        <text encoding="base64">cHJpbnRsbihtc2coJ1dvcmxkJykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGVuOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgcmVzdWx0ID0gY3VybFJlc291cmNlQXBpLnVwZGF0ZSgnbmFtZScsIFs6XSkK</text>
+        <text encoding="base64">U3RyaW5nIGN1cmxDb21tYW5kCg==</text>
       </register>
-      <register name="5" type="2">
-        <text />
+      <register name="5" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Q3VybFJlc291cmNlQXBpIGN1cmxSZXNvdXJjZUFwaQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>//        [
-//                [
-//                        'op'   : 'add',
-//                        'path' : '/data/foo',
-//                        'value': 'patchedFooValue'
-//                ],
-//                [
-//                        'op'   : 'replace',
-//                        'path' : '/data/bar',
-//                        'value': 'patchedBarValue'
-//                ],
-//                [
-//                        'op'  : 'remove',
-//                        'path': '/data/baz'
-//                ]
-//        ]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPT0gIiIiY3VybCAtayAtWCBQVVQgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgLWQgeyJtZXRhZGF0YSI6eyJuYW1lIjoic2xhc2sifSwiZGF0YSI6eyJiYXIiOiJiYXJWYWx1ZSIsImJheiI6ImJhelZhbHVlIn19IGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaS92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9jb25maWdtYXBzLyIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPT0gW3Jlc3BvbnNlQ29kZTogMjAwLCBib2R5OiAnYm9keSddCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJsUmVzb3VyY2VBcGkuZ2V0UmVzb3VyY2VVcmkgPSB7IG5hbWUgLT4gIiR7cmVzb3VyY2VVcml9LyR7bmFtZX0iIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAxICogaHR0cEFkYXB0ZXIuZGVsZXRlUmVzb3VyY2UoIiR7cmVzb3VyY2VVcml9L25hbWUiKSA+PiBbcmVzcG9uc2VDb2RlOiAyMDAsIGJvZHk6ICdib2R5J10K</text>
+        <text encoding="base64">ICAgICAgICB3aGVuOgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/resourceApi/curlResourceApi/g</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>resourceApi</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>resourceApi</last-pattern>
       <last-replace>curlResourceApi</last-replace>
       <last-substitute>resourceApi</last-substitute>
       <last-dir>1</last-dir>
@@ -453,14 +445,13 @@
         <entry>'</entry>
         <entry encoding="base64">XDxNYXBcPg==</entry>
         <entry>:</entry>
-        <entry>resourceApi</entry>
         <entry>http</entry>
         <entry>&quot;</entry>
         <entry>name</entry>
         <entry>get</entry>
+        <entry>resourceApi</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/params.APPROVE/approve/g</entry>
         <entry>%s/params.ENVIRONMENT/environment/g</entry>
         <entry>%s/mattias/magnus/g</entry>
         <entry>%s/##name##/rsim1/g</entry>
@@ -479,6 +470,7 @@
         <entry>%s/url,/                &quot;${host}${uri}&quot;,/gc</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>s/resourceApi/curlResourceApi/g</entry>
+        <entry>%s/resourceApi/curlgesourceApi/g</entry>
         <entry>%s/resourceApi/curlResourceApi/g</entry>
       </history-cmd>
       <history-expr />
