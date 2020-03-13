@@ -30,12 +30,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/ocCurlTest.groovy" timestamp="1584112464595">
-        <mark key="'" line="111" column="14" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="114" column="256" />
-        <mark key="^" line="111" column="71" />
-        <mark key="." line="111" column="71" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/ocCurlTest.groovy" timestamp="1584113312193">
+        <mark key="'" line="112" column="14" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1584093095301">
         <mark key="[" line="0" column="0" />
@@ -45,17 +44,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/ResourceUtils.groovy" timestamp="1584029718870">
-        <mark key="[" line="29" column="57" />
-        <mark key="]" line="29" column="57" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/ResourceUtils.groovy" timestamp="1584113739102">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="30" column="5" />
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="47" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" timestamp="1584110125908">
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="39" column="10" />
-        <mark key="." line="39" column="10" />
-        <mark key="^" line="39" column="9" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" timestamp="1584113926858">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="17" column="52" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/pom.xml" timestamp="1583259830888">
         <mark key="[" line="7" column="15" />
@@ -85,7 +86,8 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/ResourceUtilsTest.groovy" timestamp="1584029806278">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/ResourceUtilsTest.groovy" timestamp="1584114225733">
+        <mark key="'" line="25" column="53" />
         <mark key="[" line="47" column="8" />
         <mark key="]" line="47" column="14" />
         <mark key="^" line="47" column="14" />
@@ -308,6 +310,12 @@
         <mark key="^" line="8" column="65" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/replaceInMap.groovy" timestamp="1584113981788">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="26" column="8" />
+        <mark key="^" line="26" column="7" />
+        <mark key="." line="26" column="8" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/pom.xml" timestamp="1584089494176">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="79" />
@@ -349,6 +357,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="^" line="48" column="34" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/jsonUtils.groovy" timestamp="1584113860496">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/README_kubectl.md" timestamp="1583952280598">
         <mark key="[" line="0" column="3" />
@@ -405,6 +418,12 @@
         <mark key="." line="50" column="12" />
         <mark key="^" line="33" column="11" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/replaceInMapTest.groovy" timestamp="1584114405922">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-save.sh" timestamp="1582882767850">
         <mark key="'" line="7" column="46" />
         <mark key="[" line="0" column="0" />
@@ -418,18 +437,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="29" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1584108814056">
+      <file name="/fragment.java" timestamp="1584114039858">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/HttpAdapter.groovy" />
-      <jump line="14" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ConfigMap.groovy" />
-      <jump line="21" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ConfigMap.groovy" />
-      <jump line="11" column="7" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ConfigMapApi.groovy" />
-      <jump line="20" column="32" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/HttpAdapter.groovy" />
-      <jump line="38" column="33" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/HttpAdapter.groovy" />
-      <jump line="40" column="37" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/HttpAdapter.groovy" />
       <jump line="48" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
       <jump line="30" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
       <jump line="32" column="20" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Http.groovy" />
@@ -523,22 +535,26 @@
       <jump line="66" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/ocCurlTest.groovy" />
       <jump line="116" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/ocCurlTest.groovy" />
       <jump line="111" column="14" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/ocCurlTest.groovy" />
+      <jump line="8" column="46" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" />
+      <jump line="11" column="58" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" />
+      <jump line="13" column="52" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" />
+      <jump line="14" column="73" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" />
+      <jump line="4" column="15" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/ResourceUtils.groovy" />
+      <jump line="55" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" />
+      <jump line="25" column="53" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/ResourceUtilsTest.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Create</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>POST</text>
+        <text>r</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnY29uZmlnbWFwJyAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQT1NUIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kICd7Im1ldGFkYXRhIjp7Im5hbWUiOiJzbGFzayJ9fScgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL2NvbmZpZ21hcHMvIiIiCiAgICAgICAgJ2RlcGxveW1lbnQnIHwgIiIiY3VybCAtayAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggUE9TVCAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyAtSCAnQXV0aG9yaXphdGlvbjogQmVhcmVyIGJlYXJlclRva2VuJyAtZCAneyJtZXRhZGF0YSI6eyJuYW1lIjoic2xhc2sifX0nIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaXMvYXBwcy92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9kZXBsb3ltZW50cy8iIiIKICAgICAgICAncm91dGUnICAgICAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQT1NUIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kICd7Im1ldGFkYXRhIjp7Im5hbWUiOiJzbGFzayJ9fScgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpcy9yb3V0ZS5vcGVuc2hpZnQuaW8vdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvcm91dGVzLyIiIgogICAgICAgICdzZXJ2aWNlJyAgICB8ICIiImN1cmwgLWsgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIFBPU1QgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgLWQgJ3sibWV0YWRhdGEiOnsibmFtZSI6InNsYXNrIn19JyBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGkvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvc2VydmljZXMvIiIiCg==</text>
+        <text encoding="base64">ICAgIE1hcCByZXBsYWNlSW5NYXAoTWFwIHRlbXBsYXRlLCBNYXAgb3ZlcnJpZGVzKSB7CiAgICAgICAgaWYgKCFvdmVycmlkZXMpIHsKICAgICAgICAgICAgcmV0dXJuIHRlbXBsYXRlCiAgICAgICAgfQogICAgICAgIGlmICghdGVtcGxhdGUpIHsKICAgICAgICAgICAgcmV0dXJuIG92ZXJyaWRlcwogICAgICAgIH0KICAgICAgICBNYXAgcmVzdWx0ID0gWzpdCiAgICAgICAgcmVzdWx0IDw8IHRlbXBsYXRlCgogICAgICAgIG92ZXJyaWRlcy5lYWNoIHsga2V5LCB2YWx1ZSAtPgogICAgICAgICAgICBpZiAodGVtcGxhdGUuY29udGFpbnNLZXkoa2V5KSkgewogICAgICAgICAgICAgICAgaWYgKHZhbHVlIGluc3RhbmNlb2YgTWFwKSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0W2tleV0gPSByZXBsYWNlSW5NYXAodGVtcGxhdGVba2V5XSBhcyBNYXAsIHZhbHVlKQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICByZXN1bHRba2V5XSA9IHZhbHVlCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXN1bHRba2V5XSA9IHZhbHVlCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmVzdWx0CiAgICB9CgogICAgTWFwIHJlcGxhY2VJbk1hcChTdHJpbmcgdGVtcGxhdGUsIE1hcCBvdmVycmlkZXMpIHsKICAgICAgICByZXBsYWNlSW5NYXAobmV3IEpzb25TbHVycGVyKCkucGFyc2VUZXh0KHRlbXBsYXRlKSBhcyBNYXAsIG92ZXJyaWRlcykKICAgIH0K</text>
       </register>
-      <register name="1" type="8">
-        <text>POST -H 'Content-Type: application/json' -H 'Authorization: Bearer bearerToken' -d '{&quot;metadata&quot;:{&quot;name&quot;:&quot;slask&quot;}}' https://ocplab.lfnet.se/api/v1/namespaces/bank-dsl-app-01/configmaps/&quot;&quot;&quot;
-POST -H 'Content-Type: application/json' -H 'Authorization: Bearer bearerToken' -d '{&quot;metadata&quot;:{&quot;name&quot;:&quot;slask&quot;}}' https://ocplab.lfnet.se/apis/apps/v1/namespaces/bank-dsl-app-01/deployments/&quot;&quot;&quot;
-POST -H 'Content-Type: application/json' -H 'Authorization: Bearer bearerToken' -d '{&quot;metadata&quot;:{&quot;name&quot;:&quot;slask&quot;}}' https://ocplab.lfnet.se/apis/route.openshift.io/v1/namespaces/bank-dsl-app-01/routes/&quot;&quot;&quot;
-POST -H 'Content-Type: application/json' -H 'Authorization: Bearer bearerToken' -d '{&quot;metadata&quot;:{&quot;name&quot;:&quot;slask&quot;}}' https://ocplab.lfnet.se/api/v1/namespaces/bank-dsl-app-01/services/&quot;&quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlZiAnY2FsbCcoKSB7CiAgICAgICAgZXhwZWN0OgogICAgICAgIHJlcGxhY2VJbk1hcCAhPSBudWxsCiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -565,44 +581,40 @@ POST -H 'Content-Type: application/json' -H 'Authorization: Bearer bearerToken' 
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnY29uZmlnbWFwJyAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBUIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nICBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGkvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvY29uZmlnbWFwcy9zbGFzayIiIgogICAgICAgICdkZXBsb3ltZW50JyB8ICIiImN1cmwgLWsgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIFQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaXMvYXBwcy92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9kZXBsb3ltZW50cy9zbGFzayIiIgogICAgICAgICdyb3V0ZScgICAgICB8ICIiImN1cmwgLWsgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIFQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaXMvcm91dGUub3BlbnNoaWZ0LmlvL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL3JvdXRlcy9zbGFzayIiIgogICAgICAgICdzZXJ2aWNlJyAgICB8ICIiImN1cmwgLWsgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIFQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaS92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9zZXJ2aWNlcy9zbGFzayIiIgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">bmV3IA==</text>
       </register>
-      <register name="3" type="8">
-        <text>E
-E
-E
-E</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICBAVW5yb2xsCiAgICBkZWYgJ0NyZWF0ZSB3aXRoIHJlc291cmNlVHlwZSAjcmVzb3VyY2VUeXBlIGV4cGVjdHMgI2V4cGVjdCcoU3RyaW5nIHJlc291cmNlVHlwZSwgU3RyaW5nIGV4cGVjdGVkKSB7CiAgICAgICAgd2hlbjoKICAgICAgICBNYXAgYm9keSA9IFsKICAgICAgICAgICAgICAgIG1ldGFkYXRhOiBbCiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICdzbGFzaycKICAgICAgICAgICAgICAgIF0KICAgICAgICBdCiAgICAgICAgU3RyaW5nIHJlc3VsdCA9IGNjZy5jcmVhdGUocmVzb3VyY2VUeXBlLCBib2R5KQogICAgICAgIHRoZW46CiAgICAgICAgcmVzdWx0ID09IGV4cGVjdGVkCiAgICAgICAgd2hlcmU6CiAgICAgICAgcmVzb3VyY2VUeXBlIHwgZXhwZWN0ZWQKICAgICAgICAnY29uZmlnbWFwJyAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQT1NUIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kICd7Im1ldGFkYXRhIjp7Im5hbWUiOiJzbGFzayJ9fScgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL2NvbmZpZ21hcHMvIiIiCiAgICAgICAgJ2RlcGxveW1lbnQnIHwgIiIiY3VybCAtayAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggUE9TVCAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyAtSCAnQXV0aG9yaXphdGlvbjogQmVhcmVyIGJlYXJlclRva2VuJyAtZCAneyJtZXRhZGF0YSI6eyJuYW1lIjoic2xhc2sifX0nIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaXMvYXBwcy92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9kZXBsb3ltZW50cy8iIiIKICAgICAgICAncm91dGUnICAgICAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQT1NUIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kICd7Im1ldGFkYXRhIjp7Im5hbWUiOiJzbGFzayJ9fScgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpcy9yb3V0ZS5vcGVuc2hpZnQuaW8vdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvcm91dGVzLyIiIgogICAgICAgICdzZXJ2aWNlJyAgICB8ICIiImN1cmwgLWsgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIFBPU1QgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgLWQgJ3sibWV0YWRhdGEiOnsibmFtZSI6InNsYXNrIn19JyBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGkvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvc2VydmljZXMvIiIiCiAgICB9CgogICAgQFVucm9sbAogICAgZGVmICdEZWxldGUgd2l0aCByZXNvdXJjZVR5cGUgI3Jlc291cmNlVHlwZSBleHBlY3RzICNleHBlY3QnKFN0cmluZyByZXNvdXJjZVR5cGUsIFN0cmluZyBleHBlY3RlZCkgewogICAgICAgIHdoZW46CiAgICAgICAgU3RyaW5nIHJlc3VsdCA9IGNjZy5kZWxldGUocmVzb3VyY2VUeXBlLCAnc2xhc2snKQogICAgICAgIHRoZW46CiAgICAgICAgcmVzdWx0ID09IGV4cGVjdGVkCiAgICAgICAgd2hlcmU6CiAgICAgICAgcmVzb3VyY2VUeXBlIHwgZXhwZWN0ZWQKICAgICAgICAnY29uZmlnbWFwJyAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBERUxFVEUgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaS92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9jb25maWdtYXBzL3NsYXNrIiIiCiAgICAgICAgJ2RlcGxveW1lbnQnIHwgIiIiY3VybCAtayAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggREVMRVRFIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nICBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGlzL2FwcHMvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvZGVwbG95bWVudHMvc2xhc2siIiIKICAgICAgICAncm91dGUnICAgICAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBERUxFVEUgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaXMvcm91dGUub3BlbnNoaWZ0LmlvL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL3JvdXRlcy9zbGFzayIiIgogICAgICAgICdzZXJ2aWNlJyAgICB8ICIiImN1cmwgLWsgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIERFTEVURSAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyAtSCAnQXV0aG9yaXphdGlvbjogQmVhcmVyIGJlYXJlclRva2VuJyAgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL3NlcnZpY2VzL3NsYXNrIiIiCiAgICB9CgogICAgQFVucm9sbAogICAgZGVmICdHZXQgd2l0aCByZXNvdXJjZVR5cGUgI3Jlc291cmNlVHlwZSBleHBlY3RzICNleHBlY3QnKFN0cmluZyByZXNvdXJjZVR5cGUsIFN0cmluZyBleHBlY3RlZCkgewogICAgICAgIHdoZW46CiAgICAgICAgU3RyaW5nIHJlc3VsdCA9IGNjZy5nZXQocmVzb3VyY2VUeXBlLCAnc2xhc2snKQogICAgICAgIHRoZW46CiAgICAgICAgcmVzdWx0ID09IGV4cGVjdGVkCiAgICAgICAgd2hlcmU6CiAgICAgICAgcmVzb3VyY2VUeXBlIHwgZXhwZWN0ZWQKICAgICAgICAnY29uZmlnbWFwJyAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBHRVQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaS92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9jb25maWdtYXBzL3NsYXNrIiIiCiAgICAgICAgJ2RlcGxveW1lbnQnIHwgIiIiY3VybCAtayAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggR0VUIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nICBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGlzL2FwcHMvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvZGVwbG95bWVudHMvc2xhc2siIiIKICAgICAgICAncm91dGUnICAgICAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBHRVQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaXMvcm91dGUub3BlbnNoaWZ0LmlvL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL3JvdXRlcy9zbGFzayIiIgogICAgICAgICdzZXJ2aWNlJyAgICB8ICIiImN1cmwgLWsgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIEdFVCAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyAtSCAnQXV0aG9yaXphdGlvbjogQmVhcmVyIGJlYXJlclRva2VuJyAgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL3NlcnZpY2VzL3NsYXNrIiIiCiAgICB9CgogICAgQFVucm9sbAogICAgZGVmICdQYXRjaCB3aXRoIHJlc291cmNlVHlwZSAjcmVzb3VyY2VUeXBlIGV4cGVjdHMgI2V4cGVjdCcoU3RyaW5nIHJlc291cmNlVHlwZSwgU3RyaW5nIGV4cGVjdGVkKSB7CiAgICAgICAgd2hlbjoKICAgICAgICBMaXN0IGJvZHkgPSBbCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICdvcCcgICA6ICdhZGQnLAogICAgICAgICAgICAgICAgICAgICAgICAncGF0aCcgOiAnL2RhdGEvZm9vJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3ZhbHVlJzogJ3BhdGNoZWRGb29WYWx1ZScKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICdvcCcgICA6ICdyZXBsYWNlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3BhdGgnIDogJy9kYXRhL2JhcicsCiAgICAgICAgICAgICAgICAgICAgICAgICd2YWx1ZSc6ICdwYXRjaGVkQmFyVmFsdWUnCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgICAgICAnb3AnICA6ICdyZW1vdmUnLAogICAgICAgICAgICAgICAgICAgICAgICAncGF0aCc6ICcvZGF0YS9iYXonCiAgICAgICAgICAgICAgICBdCiAgICAgICAgXQogICAgICAgIFN0cmluZyByZXN1bHQgPSBjY2cucGF0Y2gocmVzb3VyY2VUeXBlLCAnc2xhc2snLCBib2R5KQogICAgICAgIHRoZW46CiAgICAgICAgcmVzdWx0ID09IGV4cGVjdGVkCiAgICAgICAgd2hlcmU6CiAgICAgICAgcmVzb3VyY2VUeXBlIHwgZXhwZWN0ZWQKICAgICAgICAnY29uZmlnbWFwJyAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQQVRDSCAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uLXBhdGNoK2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kICdbeyJvcCI6ImFkZCIsInBhdGgiOiIvZGF0YS9mb28iLCJ2YWx1ZSI6InBhdGNoZWRGb29WYWx1ZSJ9LHsib3AiOiJyZXBsYWNlIiwicGF0aCI6Ii9kYXRhL2JhciIsInZhbHVlIjoicGF0Y2hlZEJhclZhbHVlIn0seyJvcCI6InJlbW92ZSIsInBhdGgiOiIvZGF0YS9iYXoifV0nIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaS92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9jb25maWdtYXBzL3NsYXNrIiIiCiAgICAgICAgJ2RlcGxveW1lbnQnIHwgIiIiY3VybCAtayAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggUEFUQ0ggLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbi1wYXRjaCtqc29uJyAtSCAnQXV0aG9yaXphdGlvbjogQmVhcmVyIGJlYXJlclRva2VuJyAtZCAnW3sib3AiOiJhZGQiLCJwYXRoIjoiL2RhdGEvZm9vIiwidmFsdWUiOiJwYXRjaGVkRm9vVmFsdWUifSx7Im9wIjoicmVwbGFjZSIsInBhdGgiOiIvZGF0YS9iYXIiLCJ2YWx1ZSI6InBhdGNoZWRCYXJWYWx1ZSJ9LHsib3AiOiJyZW1vdmUiLCJwYXRoIjoiL2RhdGEvYmF6In1dJyBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGlzL2FwcHMvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvZGVwbG95bWVudHMvc2xhc2siIiIKICAgICAgICAncm91dGUnICAgICAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQQVRDSCAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uLXBhdGNoK2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kICdbeyJvcCI6ImFkZCIsInBhdGgiOiIvZGF0YS9mb28iLCJ2YWx1ZSI6InBhdGNoZWRGb29WYWx1ZSJ9LHsib3AiOiJyZXBsYWNlIiwicGF0aCI6Ii9kYXRhL2JhciIsInZhbHVlIjoicGF0Y2hlZEJhclZhbHVlIn0seyJvcCI6InJlbW92ZSIsInBhdGgiOiIvZGF0YS9iYXoifV0nIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaXMvcm91dGUub3BlbnNoaWZ0LmlvL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL3JvdXRlcy9zbGFzayIiIgogICAgICAgICdzZXJ2aWNlJyAgICB8ICIiImN1cmwgLWsgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIFBBVENIIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24tcGF0Y2granNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgLWQgJ1t7Im9wIjoiYWRkIiwicGF0aCI6Ii9kYXRhL2ZvbyIsInZhbHVlIjoicGF0Y2hlZEZvb1ZhbHVlIn0seyJvcCI6InJlcGxhY2UiLCJwYXRoIjoiL2RhdGEvYmFyIiwidmFsdWUiOiJwYXRjaGVkQmFyVmFsdWUifSx7Im9wIjoicmVtb3ZlIiwicGF0aCI6Ii9kYXRhL2JheiJ9XScgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL3NlcnZpY2VzL3NsYXNrIiIiCiAgICB9CgogICAgQFVucm9sbAogICAgZGVmICdVcGRhdGUgd2l0aCByZXNvdXJjZVR5cGUgI3Jlc291cmNlVHlwZSBleHBlY3RzICNleHBlY3QnKFN0cmluZyByZXNvdXJjZVR5cGUsIFN0cmluZyBleHBlY3RlZCkgewogICAgICAgIHdoZW46CiAgICAgICAgTWFwIGJvZHkgPSBbCiAgICAgICAgICAgICAgICBtZXRhZGF0YTogWwogICAgICAgICAgICAgICAgICAgICAgICBuYW1lOiAnc2xhc2snCiAgICAgICAgICAgICAgICBdCiAgICAgICAgXQogICAgICAgIFN0cmluZyByZXN1bHQgPSBjY2cudXBkYXRlKHJlc291cmNlVHlwZSwgJ3NsYXNrJywgYm9keSkKICAgICAgICB0aGVuOgogICAgICAgIHJlc3VsdCA9PSBleHBlY3RlZAogICAgICAgIHdoZXJlOgogICAgICAgIHJlc291cmNlVHlwZSB8IGV4cGVjdGVkCiAgICAgICAgJ2NvbmZpZ21hcCcgIHwgIiIiY3VybCAtayAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggUFVUIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kICd7Im1ldGFkYXRhIjp7Im5hbWUiOiJzbGFzayJ9fScgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL2NvbmZpZ21hcHMvc2xhc2siIiIKICAgICAgICAnZGVwbG95bWVudCcgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQVVQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgLWQgJ3sibWV0YWRhdGEiOnsibmFtZSI6InNsYXNrIn19JyBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGlzL2FwcHMvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvZGVwbG95bWVudHMvc2xhc2siIiIKICAgICAgICAncm91dGUnICAgICAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQVVQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgLWQgJ3sibWV0YWRhdGEiOnsibmFtZSI6InNsYXNrIn19JyBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGlzL3JvdXRlLm9wZW5zaGlmdC5pby92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9yb3V0ZXMvc2xhc2siIiIKICAgICAgICAnc2VydmljZScgICAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQVVQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgLWQgJ3sibWV0YWRhdGEiOnsibmFtZSI6InNsYXNrIn19JyBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGkvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvc2VydmljZXMvc2xhc2siIiIKICAgIH0KfQo=</text>
       </register>
-      <register name="4" type="8">
-        <text>G
-G
-G
-G</text>
+      <register name="4" type="4">
+        <text>ccg.host == 'https://ocplab.lfnet.se'
+        ccg.bearerToken == 'bearerToken'
+        ccg.resourceUriMap.keySet() == ['configmap', 'deployment', 'route', 'service'] as Set</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">J0dldCcoKSB7CiAgICAgICAgd2hlbjoKICAgICAgICBTdHJpbmcgcmVzdWx0ID0gY2NnLmdldCgnY29uZmlnbWFwJywgJ3NsYXNrJykKICAgICAgICB0aGVuOgogICAgICAgIHJlc3VsdCA9PSAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBHRVQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaS92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9jb25maWdtYXBzL3NsYXNrIiIiCiAgICB9Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWVzcGFjZTogJ2JhbmstZHNsLWFwcC0wMScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdkZXBsb3ltZW50JyB8ICIiIiIiIgovLyAgICAgICAgJ3JvdXRlJyAgICAgIHwgIiIiIiIiCi8vICAgICAgICAnc2VydmljZScgICAgfCAiIiIiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJlYXJlclRva2VuOiAnYmVhcmVyVG9rZW4nLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>curl -k -s -o /dev/null -w '%{http_code}' -X POST -H 'Content-Type: application/json' -H 'Authorization: Bearer bearerToken' -d '{</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvc3Q6ICdodHRwczovL29jcGxhYi5sZm5ldC5zZScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBjY2cgPSBvY0N1cmwoCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0RFTEVURS9HRVQvZ2M=</text>
       </register>
     </registers>
     <search>
-      <last-search>POST</last-search>
+      <last-search>r</last-search>
       <last-offset />
-      <last-pattern>POST</last-pattern>
+      <last-pattern>r</last-pattern>
       <last-replace>GET</last-replace>
       <last-substitute>DELETE</last-substitute>
       <last-dir>1</last-dir>
@@ -610,8 +622,6 @@ G</text>
     </search>
     <history>
       <history-search>
-        <entry>resourceApi</entry>
-        <entry>--X</entry>
         <entry>host</entry>
         <entry>-H</entry>
         <entry>-d</entry>
@@ -630,6 +640,8 @@ G</text>
         <entry>DELETE</entry>
         <entry>Create</entry>
         <entry>POST</entry>
+        <entry encoding="base64">XDxuYW1lc3BhY2VcPg==</entry>
+        <entry>r</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
