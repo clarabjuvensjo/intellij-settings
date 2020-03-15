@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ApiUtils.groovy" timestamp="1583852149527">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="28" />
+        <mark key="^" line="27" column="43" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask2.groovy" timestamp="1584032103362">
         <mark key="'" line="19" column="18" />
         <mark key="[" line="61" column="2" />
@@ -50,12 +56,42 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/pom.xml" timestamp="1583259830888">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="6" column="37" />
+      </file>
+      <file name="$USER_HOME$/git-T1912/cd.jenkins.job/Jenkinsfile" timestamp="1580992788331">
+        <mark key="[" line="81" column="43" />
+        <mark key="]" line="81" column="70" />
+        <mark key="." line="81" column="70" />
+        <mark key="^" line="81" column="70" />
+      </file>
+      <file name="$USER_HOME$/slask/groovy-test/src/slask.groovy" timestamp="1581246801903">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/AddJenkinsCommitHook.groovy" timestamp="1583252963893">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/ResourceUtilsTest.groovy" timestamp="1584114225733">
         <mark key="'" line="25" column="53" />
         <mark key="[" line="47" column="8" />
         <mark key="]" line="47" column="14" />
         <mark key="^" line="47" column="14" />
         <mark key="." line="47" column="14" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/apiClient.groovy" timestamp="1580557175163">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="3" column="78" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/BitbucketPostWebhooks.groovy" timestamp="1583259269433">
         <mark key="'" line="68" column="8" />
@@ -82,6 +118,24 @@
         <mark key="]" line="16" column="9" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/.gitignore" timestamp="1581345274405">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/Slask.groovy" timestamp="1581339440217">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Slask.groovy" timestamp="1581345448432">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="47" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/CurlResourceApi.groovy" timestamp="1584109559745">
         <mark key="'" line="29" column="39" />
         <mark key="[" line="31" column="9" />
@@ -89,20 +143,74 @@
         <mark key="." line="31" column="9" />
         <mark key="^" line="35" column="97" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/CurlResouceApiTest.groovy" timestamp="1584006839078">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/SetBitbucketPostWebhooks.groovy" timestamp="1583253063570">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/route.json" timestamp="1583844077319">
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="5" column="51" />
+        <mark key="." line="5" column="51" />
+        <mark key="^" line="23" column="28" />
       </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.bitbucket.postwebhook/README.md" timestamp="1583322324574">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="150" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/slask/zzzzz/groovy.bitbucket.postwebhook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/BitbucketPostWebhook.groovy" timestamp="1583323348895">
+        <mark key="[" line="32" column="79" />
+        <mark key="]" line="32" column="86" />
+        <mark key="." line="32" column="86" />
+        <mark key="^" line="32" column="86" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/HttpAdapter.groovy" timestamp="1583881172781">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="41" column="42" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/slask/zzzzz/groovy.git/src/main/java/com/evry/finance/groovy/git/Slask.groovy" timestamp="1583252252809">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="25" column="17" />
+        <mark key="^" line="50" column="38" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/resources/application.properties" timestamp="1582293153320">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="15" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/configMap.json" timestamp="1583852384018">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/slask/zzzzz/groovy.git/pom.xml" timestamp="1583248518579">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/client.groovy" timestamp="1583862273770">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="90" />
+        <mark key="^" line="75" column="29" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/test/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/JenkinsIT.groovy" timestamp="1581339892661">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="36" />
+        <mark key="^" line="23" column="90" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/README.md" timestamp="1584207771887">
         <mark key="'" line="14" column="178" />
@@ -111,14 +219,38 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ConfigMap.groovy" timestamp="1583850240834">
+        <mark key="[" line="16" column="61" />
+        <mark key="]" line="16" column="61" />
+        <mark key="^" line="16" column="60" />
+        <mark key="." line="16" column="61" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ResourceUtils.groovy" timestamp="1583866780820">
         <mark key="[" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" timestamp="1584110056646" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" timestamp="1584291409418">
+        <mark key="'" line="40" column="8" />
+        <mark key="[" line="75" column="20" />
+        <mark key="]" line="75" column="18" />
+        <mark key="^" line="75" column="18" />
+        <mark key="." line="75" column="18" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/repository.groovy" timestamp="1584207663055">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/Http.groovy" timestamp="1583866750740">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="72" column="10" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/slask/slask.txt" timestamp="1581672008121">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" timestamp="1584092103164">
         <mark key="'" line="7" column="7" />
@@ -139,6 +271,24 @@
         <mark key="^" line="58" column="23" />
         <mark key="." line="58" column="23" />
       </file>
+      <file name="$USER_HOME$/slask/groovy-test/src/Slask.groovy" timestamp="1581329970071">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/test.json" timestamp="1581349254453">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/configMap.groovy" timestamp="1583849339361">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ConfigMapApi.groovy" timestamp="1583860173683">
         <mark key="'" line="11" column="7" />
         <mark key="[" line="28" column="21" />
@@ -149,6 +299,18 @@
       <file name="/Dummy.groovy" timestamp="1584111537681">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/Dockerfile" timestamp="1582881968917">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/executeBuildPipeline.groovy" timestamp="1584290182428">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/deployment.json" timestamp="1583843697390">
         <mark key="'" line="5" column="43" />
         <mark key="[" line="5" column="43" />
@@ -156,11 +318,41 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="20" column="54" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/DeploymentApi.groovy" timestamp="1583860615240">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="65" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/replaceInMap.groovy" timestamp="1584113981788">
         <mark key="[" line="28" column="1" />
         <mark key="]" line="26" column="8" />
         <mark key="^" line="26" column="7" />
         <mark key="." line="26" column="8" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/pom.xml" timestamp="1584089494176">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="79" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="38" column="50" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/emacs.restclient" timestamp="1583860032597">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/configMap.yaml" timestamp="1580727631936">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+      </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/Slask.groovy" timestamp="1581348366862">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="5" column="69" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/Exercises-1.md" timestamp="1583224261782">
         <mark key="[" line="12" column="13" />
@@ -174,15 +366,45 @@
         <mark key="." line="44" column="85" />
         <mark key="^" line="36" column="35" />
       </file>
+      <file name="$USER_HOME$/slask/zzzzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1583258272552">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="48" column="34" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/jsonUtils.groovy" timestamp="1584113860496">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/README_kubectl.md" timestamp="1583952280598">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="82" column="94" />
+        <mark key="^" line="82" column="3" />
+        <mark key="." line="82" column="94" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/pom.xml" timestamp="1584089519153">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="79" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/slask/pom.xml" timestamp="1582885185410">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/test.groovy" timestamp="1584025164796">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/rsimulator/rsimulator-core/src/main/java/com/github/bjuvensjo/rsimulator/core/handler/regexp/XmlHandler.java" timestamp="1582876216561">
+        <mark key="[" line="41" column="53" />
+        <mark key="]" line="41" column="53" />
+        <mark key="." line="41" column="53" />
+        <mark key="^" line="41" column="54" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/CurlResourceApiTest.groovy" timestamp="1584109579468">
         <mark key="'" line="0" column="0" />
@@ -204,6 +426,18 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-start.sh" timestamp="1582810288727">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="2" column="117" />
+        <mark key="." line="2" column="117" />
+      </file>
+      <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/BitbucketPostWebhook.groovy" timestamp="1583259756207">
+        <mark key="[" line="50" column="12" />
+        <mark key="]" line="50" column="12" />
+        <mark key="." line="50" column="12" />
+        <mark key="^" line="33" column="11" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/replaceInMapTest.groovy" timestamp="1584114405922">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="10" column="12" />
@@ -217,14 +451,17 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="7" column="1" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/src/HttpAdapter.groovy" timestamp="1584006084119">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="16" />
+      </file>
       <file name="/fragment.java" timestamp="1584209410755">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="39" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
-      <jump line="55" column="39" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
-      <jump line="64" column="34" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
       <jump line="10" column="12" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
       <jump line="70" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
       <jump line="73" column="54" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
@@ -322,19 +559,22 @@
       <jump line="21" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/repositoryCurlTest.groovy" />
       <jump line="19" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/repositoryCurlTest.groovy" />
       <jump line="20" column="15" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/repositoryCurlTest.groovy" />
+      <jump line="52" column="40" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
+      <jump line="36" column="11" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
+      <jump line="40" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>(config)</text>
+        <text>jdk1.8.0_181</text>
       </register>
       <register name="/" type="4">
-        <text>\.</text>
+        <text>echo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY3VybENvbW1hbmQgPSByYygKICAgICAgICAgICAgICAgIHNyY0ZpbGU6ICdtcy5wb2MucmVwb3NpdG9yeS0xLjAuMC1TTkFQU0hPVC5qYXInLAogICAgICAgICAgICAgICAgc2VydmljZVVybDogJ2h0dHBzOi8vcG9jLm9jcGxhYi1iYW5rLmxmbmV0LnNlL21zLnBvYy5yZXBvc2l0b3J5LzEuMCcsCiAgICAgICAgICAgICAgICByZWY6ICdtcycsCiAgICAgICAgICAgICAgICBhcnRpZmFjdE5hbWU6ICdtcy5wb2MucmVwb3NpdG9yeS0xLjAueCcKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnMycK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBjdXJsQ29tbWFuZCA9IHJjKGNvbmZpZykK</text>
+      <register name="1" type="4">
+        <text>jdk1.8.0_181</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -362,39 +602,39 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgY29uZmlnID0gWwogICAgICAgICAgICAgICAgc3JjRmlsZSAgICAgOiAnbXMucG9jLnJlcG9zaXRvcnktMS4wLjAtU05BUFNIT1QuamFyJywKICAgICAgICAgICAgICAgIHNlcnZpY2VVcmwgIDogJ2h0dHBzOi8vcG9jLm9jcGxhYi1iYW5rLmxmbmV0LnNlL21zLnBvYy5yZXBvc2l0b3J5LzEuMCcsCiAgICAgICAgICAgICAgICByZWYgICAgICAgICA6ICdtcycsCiAgICAgICAgICAgICAgICBhcnRpZmFjdE5hbWU6ICdtcy5wb2MucmVwb3NpdG9yeS0xLjAueCcKICAgICAgICBdCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBjdXJsQ29tbWFuZCA9IHJjKGNvbmZpZykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmRlZiByYyA9IG5ldyByZXBvc2l0b3J5Q3VybCgpClN0cmluZyBjdXJsQ29tbWFuZCA9IHJjKFsKICAgICAgICBzcmNGaWxlICAgOiAnL1VzZXJzL21hZ251cy9naXQtUEVTQ1BPQy9QRVNDUE9DL21zLnBvYy5yZXBvc2l0b3J5L3RhcmdldC9tcy5wb2MucmVwb3NpdG9yeS0xLjAuMC1TTkFQU0hPVC5qYXInLAogICAgICAgIHNlcnZpY2VVcmw6ICdodHRwczovL3BvYy5vY3BsYWItYmFuay5sZm5ldC5zZS9tcy5wb2MucmVwb3NpdG9yeS8xLjAnLAogICAgICAgIHJlZiAgICAgICA6ICdkZXZlbG9wJywKICAgICAgICBhcnRpZmFjdE5hbWUgIDogJ21zLnBvYy5yZXBvc2l0b3J5LTEuMC54JwpdKQpwcmludGxuKGN1cmxDb21tYW5kKQo=</text>
+        <text encoding="base64">ICAgICAgICBNYXAgY29uZmlnID0gWwogICAgICAgICAgICAgICAgc3JjRmlsZSAgICAgOiAnbXMucG9jLnJlcG9zaXRvcnktMS4wLjAtU05BUFNIT1QuamFyJywKICAgICAgICAgICAgICAgIHNlcnZpY2VVcmwgIDogJ2h0dHBzOi8vcG9jLm9jcGxhYi1iYW5rLmxmbmV0LnNlL21zLnBvYy5yZXBvc2l0b3J5LzEuMCcsCiAgICAgICAgICAgICAgICByZWYgICAgICAgICA6ICdtcycsCiAgICAgICAgICAgICAgICBhcnRpZmFjdE5hbWU6ICdtcy5wb2MucmVwb3NpdG9yeS0xLjAueCcKICAgICAgICBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc3RGaWxlICA6ICdzZS9sZi9zZXJ2aWNlL21zLnBvYy5yZXBvc2l0b3J5LzEuMC54L21zLnBvYy5yZXBvc2l0b3J5LTEuMC54LmphcicK</text>
+        <text encoding="base64">CmRlZiByYyA9IG5ldyByZXBvc2l0b3J5Q3VybCgpClN0cmluZyBjdXJsQ29tbWFuZCA9IHJjKFsKICAgICAgICBzcmNGaWxlICAgOiAnL1VzZXJzL21hZ251cy9naXQtUEVTQ1BPQy9QRVNDUE9DL21zLnBvYy5yZXBvc2l0b3J5L3RhcmdldC9tcy5wb2MucmVwb3NpdG9yeS0xLjAuMC1TTkFQU0hPVC5qYXInLAogICAgICAgIHNlcnZpY2VVcmw6ICdodHRwczovL3BvYy5vY3BsYWItYmFuay5sZm5ldC5zZS9tcy5wb2MucmVwb3NpdG9yeS8xLjAnLAogICAgICAgIHJlZiAgICAgICA6ICdkZXZlbG9wJywKICAgICAgICBhcnRpZmFjdE5hbWUgIDogJ21zLnBvYy5yZXBvc2l0b3J5LTEuMC54JwpdKQpwcmludGxuKGN1cmxDb21tYW5kKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBkZXN0RmlsZSA9IG5ldyBGaWxlKGNvbmZpZy5zcmNGaWxlKS5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc3RGaWxlICA6ICdzZS9sZi9zZXJ2aWNlL21zLnBvYy5yZXBvc2l0b3J5LzEuMC54L21zLnBvYy5yZXBvc2l0b3J5LTEuMC54LmphcicK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBkZXN0RmlsZSA9IG5ldyBGaWxlKGNvbmZpZy5zcmNGaWxlKS5uYW1lCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBHCiAgICBAVW5yb2xsCiAgICBkZWYgJ0NyZWF0ZSB3aXRoIHJlc291cmNlVHlwZSAjcmVzb3VyY2VUeXBlIGV4cGVjdHMgI2V4cGVjdCcoU3RyaW5nIHJlc291cmNlVHlwZSwgU3RyaW5nIGV4cGVjdGVkKSB7CiAgICAgICAgd2hlbjoKICAgICAgICBNYXAgYm9keSA9IFsKICAgICAgICAgICAgICAgIG1ldGFkYXRhOiBbCiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICdzbGFzaycKICAgICAgICAgICAgICAgIF0KICAgICAgICBdCiAgICAgICAgU3RyaW5nIHJlc3VsdCA9IG9jZy5jcmVhdGUocmVzb3VyY2VUeXBlLCBib2R5KQogICAgICAgIHRoZW46CiAgICAgICAgcmVzdWx0ID09IGV4cGVjdGVkCiAgICAgICAgd2hlcmU6CiAgICAgICAgcmVzb3VyY2VUeXBlIHwgZXhwZWN0ZWQKICAgICAgICAnY29uZmlnbWFwJyAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQT1NUIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kICd7Im1ldGFkYXRhIjp7Im5hbWUiOiJzbGFzayJ9fScgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL2NvbmZpZ21hcHMvIiIiCiAgICAgICAgJ2RlcGxveW1lbnQnIHwgIiIiY3VybCAtayAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggUE9TVCAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyAtSCAnQXV0aG9yaXphdGlvbjogQmVhcmVyIGJlYXJlclRva2VuJyAtZCAneyJtZXRhZGF0YSI6eyJuYW1lIjoic2xhc2sifX0nIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaXMvYXBwcy92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9kZXBsb3ltZW50cy8iIiIKICAgICAgICAncm91dGUnICAgICAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQT1NUIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kICd7Im1ldGFkYXRhIjp7Im5hbWUiOiJzbGFzayJ9fScgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpcy9yb3V0ZS5vcGVuc2hpZnQuaW8vdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvcm91dGVzLyIiIgogICAgICAgICdzZXJ2aWNlJyAgICB8ICIiImN1cmwgLWsgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIFBPU1QgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgLWQgJ3sibWV0YWRhdGEiOnsibmFtZSI6InNsYXNrIn19JyBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGkvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvc2VydmljZXMvIiIiCiAgICB9CgogICAgQFVucm9sbAogICAgZGVmICdEZWxldGUgd2l0aCByZXNvdXJjZVR5cGUgI3Jlc291cmNlVHlwZSBleHBlY3RzICNleHBlY3QnKFN0cmluZyByZXNvdXJjZVR5cGUsIFN0cmluZyBleHBlY3RlZCkgewogICAgICAgIHdoZW46CiAgICAgICAgU3RyaW5nIHJlc3VsdCA9IG9jZy5kZWxldGUocmVzb3VyY2VUeXBlLCAnc2xhc2snKQogICAgICAgIHRoZW46CiAgICAgICAgcmVzdWx0ID09IGV4cGVjdGVkCiAgICAgICAgd2hlcmU6CiAgICAgICAgcmVzb3VyY2VUeXBlIHwgZXhwZWN0ZWQKICAgICAgICAnY29uZmlnbWFwJyAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBERUxFVEUgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaS92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9jb25maWdtYXBzL3NsYXNrIiIiCiAgICAgICAgJ2RlcGxveW1lbnQnIHwgIiIiY3VybCAtayAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggREVMRVRFIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nICBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGlzL2FwcHMvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvZGVwbG95bWVudHMvc2xhc2siIiIKICAgICAgICAncm91dGUnICAgICAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBERUxFVEUgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaXMvcm91dGUub3BlbnNoaWZ0LmlvL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL3JvdXRlcy9zbGFzayIiIgogICAgICAgICdzZXJ2aWNlJyAgICB8ICIiImN1cmwgLWsgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIERFTEVURSAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyAtSCAnQXV0aG9yaXphdGlvbjogQmVhcmVyIGJlYXJlclRva2VuJyAgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL3NlcnZpY2VzL3NsYXNrIiIiCiAgICB9CgogICAgQFVucm9sbAogICAgZGVmICdHZXQgd2l0aCByZXNvdXJjZVR5cGUgI3Jlc291cmNlVHlwZSBleHBlY3RzICNleHBlY3QnKFN0cmluZyByZXNvdXJjZVR5cGUsIFN0cmluZyBleHBlY3RlZCkgewogICAgICAgIHdoZW46CiAgICAgICAgU3RyaW5nIHJlc3VsdCA9IG9jZy5nZXQocmVzb3VyY2VUeXBlLCAnc2xhc2snKQogICAgICAgIHRoZW46CiAgICAgICAgcmVzdWx0ID09IGV4cGVjdGVkCiAgICAgICAgd2hlcmU6CiAgICAgICAgcmVzb3VyY2VUeXBlIHwgZXhwZWN0ZWQKICAgICAgICAnY29uZmlnbWFwJyAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBHRVQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaS92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9jb25maWdtYXBzL3NsYXNrIiIiCiAgICAgICAgJ2RlcGxveW1lbnQnIHwgIiIiY3VybCAtayAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggR0VUIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nICBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGlzL2FwcHMvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvZGVwbG95bWVudHMvc2xhc2siIiIKICAgICAgICAncm91dGUnICAgICAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBHRVQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaXMvcm91dGUub3BlbnNoaWZ0LmlvL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL3JvdXRlcy9zbGFzayIiIgogICAgICAgICdzZXJ2aWNlJyAgICB8ICIiImN1cmwgLWsgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIEdFVCAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyAtSCAnQXV0aG9yaXphdGlvbjogQmVhcmVyIGJlYXJlclRva2VuJyAgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL3NlcnZpY2VzL3NsYXNrIiIiCiAgICB9CgogICAgQFVucm9sbAogICAgZGVmICdQYXRjaCB3aXRoIHJlc291cmNlVHlwZSAjcmVzb3VyY2VUeXBlIGV4cGVjdHMgI2V4cGVjdCcoU3RyaW5nIHJlc291cmNlVHlwZSwgU3RyaW5nIGV4cGVjdGVkKSB7CiAgICAgICAgd2hlbjoKICAgICAgICBMaXN0IGJvZHkgPSBbCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICdvcCcgICA6ICdhZGQnLAogICAgICAgICAgICAgICAgICAgICAgICAncGF0aCcgOiAnL2RhdGEvZm9vJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3ZhbHVlJzogJ3BhdGNoZWRGb29WYWx1ZScKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICdvcCcgICA6ICdyZXBsYWNlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3BhdGgnIDogJy9kYXRhL2JhcicsCiAgICAgICAgICAgICAgICAgICAgICAgICd2YWx1ZSc6ICdwYXRjaGVkQmFyVmFsdWUnCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgICAgICAnb3AnICA6ICdyZW1vdmUnLAogICAgICAgICAgICAgICAgICAgICAgICAncGF0aCc6ICcvZGF0YS9iYXonCiAgICAgICAgICAgICAgICBdCiAgICAgICAgXQogICAgICAgIFN0cmluZyByZXN1bHQgPSBvY2cucGF0Y2gocmVzb3VyY2VUeXBlLCAnc2xhc2snLCBib2R5KQogICAgICAgIHRoZW46CiAgICAgICAgcmVzdWx0ID09IGV4cGVjdGVkCiAgICAgICAgd2hlcmU6CiAgICAgICAgcmVzb3VyY2VUeXBlIHwgZXhwZWN0ZWQKICAgICAgICAnY29uZmlnbWFwJyAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQQVRDSCAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uLXBhdGNoK2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kICdbeyJvcCI6ImFkZCIsInBhdGgiOiIvZGF0YS9mb28iLCJ2YWx1ZSI6InBhdGNoZWRGb29WYWx1ZSJ9LHsib3AiOiJyZXBsYWNlIiwicGF0aCI6Ii9kYXRhL2JhciIsInZhbHVlIjoicGF0Y2hlZEJhclZhbHVlIn0seyJvcCI6InJlbW92ZSIsInBhdGgiOiIvZGF0YS9iYXoifV0nIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaS92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9jb25maWdtYXBzL3NsYXNrIiIiCiAgICAgICAgJ2RlcGxveW1lbnQnIHwgIiIiY3VybCAtayAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggUEFUQ0ggLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbi1wYXRjaCtqc29uJyAtSCAnQXV0aG9yaXphdGlvbjogQmVhcmVyIGJlYXJlclRva2VuJyAtZCAnW3sib3AiOiJhZGQiLCJwYXRoIjoiL2RhdGEvZm9vIiwidmFsdWUiOiJwYXRjaGVkRm9vVmFsdWUifSx7Im9wIjoicmVwbGFjZSIsInBhdGgiOiIvZGF0YS9iYXIiLCJ2YWx1ZSI6InBhdGNoZWRCYXJWYWx1ZSJ9LHsib3AiOiJyZW1vdmUiLCJwYXRoIjoiL2RhdGEvYmF6In1dJyBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGlzL2FwcHMvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvZGVwbG95bWVudHMvc2xhc2siIiIKICAgICAgICAncm91dGUnICAgICAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQQVRDSCAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uLXBhdGNoK2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kICdbeyJvcCI6ImFkZCIsInBhdGgiOiIvZGF0YS9mb28iLCJ2YWx1ZSI6InBhdGNoZWRGb29WYWx1ZSJ9LHsib3AiOiJyZXBsYWNlIiwicGF0aCI6Ii9kYXRhL2JhciIsInZhbHVlIjoicGF0Y2hlZEJhclZhbHVlIn0seyJvcCI6InJlbW92ZSIsInBhdGgiOiIvZGF0YS9iYXoifV0nIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaXMvcm91dGUub3BlbnNoaWZ0LmlvL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL3JvdXRlcy9zbGFzayIiIgogICAgICAgICdzZXJ2aWNlJyAgICB8ICIiImN1cmwgLWsgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIFBBVENIIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24tcGF0Y2granNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgLWQgJ1t7Im9wIjoiYWRkIiwicGF0aCI6Ii9kYXRhL2ZvbyIsInZhbHVlIjoicGF0Y2hlZEZvb1ZhbHVlIn0seyJvcCI6InJlcGxhY2UiLCJwYXRoIjoiL2RhdGEvYmFyIiwidmFsdWUiOiJwYXRjaGVkQmFyVmFsdWUifSx7Im9wIjoicmVtb3ZlIiwicGF0aCI6Ii9kYXRhL2JheiJ9XScgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL3NlcnZpY2VzL3NsYXNrIiIiCiAgICB9CgogICAgQFVucm9sbAogICAgZGVmICdVcGRhdGUgd2l0aCByZXNvdXJjZVR5cGUgI3Jlc291cmNlVHlwZSBleHBlY3RzICNleHBlY3QnKFN0cmluZyByZXNvdXJjZVR5cGUsIFN0cmluZyBleHBlY3RlZCkgewogICAgICAgIHdoZW46CiAgICAgICAgTWFwIGJvZHkgPSBbCiAgICAgICAgICAgICAgICBtZXRhZGF0YTogWwogICAgICAgICAgICAgICAgICAgICAgICBuYW1lOiAnc2xhc2snCiAgICAgICAgICAgICAgICBdCiAgICAgICAgXQogICAgICAgIFN0cmluZyByZXN1bHQgPSBvY2cudXBkYXRlKHJlc291cmNlVHlwZSwgJ3NsYXNrJywgYm9keSkKICAgICAgICB0aGVuOgogICAgICAgIHJlc3VsdCA9PSBleHBlY3RlZAogICAgICAgIHdoZXJlOgogICAgICAgIHJlc291cmNlVHlwZSB8IGV4cGVjdGVkCiAgICAgICAgJ2NvbmZpZ21hcCcgIHwgIiIiY3VybCAtayAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggUFVUIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kICd7Im1ldGFkYXRhIjp7Im5hbWUiOiJzbGFzayJ9fScgaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UvYXBpL3YxL25hbWVzcGFjZXMvYmFuay1kc2wtYXBwLTAxL2NvbmZpZ21hcHMvc2xhc2siIiIKICAgICAgICAnZGVwbG95bWVudCcgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQVVQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgLWQgJ3sibWV0YWRhdGEiOnsibmFtZSI6InNsYXNrIn19JyBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGlzL2FwcHMvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvZGVwbG95bWVudHMvc2xhc2siIiIKICAgICAgICAncm91dGUnICAgICAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQVVQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgLWQgJ3sibWV0YWRhdGEiOnsibmFtZSI6InNsYXNrIn19JyBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGlzL3JvdXRlLm9wZW5zaGlmdC5pby92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9yb3V0ZXMvc2xhc2siIiIKICAgICAgICAnc2VydmljZScgICAgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQVVQgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ0F1dGhvcml6YXRpb246IEJlYXJlciBiZWFyZXJUb2tlbicgLWQgJ3sibWV0YWRhdGEiOnsibmFtZSI6InNsYXNrIn19JyBodHRwczovL29jcGxhYi5sZm5ldC5zZS9hcGkvdjEvbmFtZXNwYWNlcy9iYW5rLWRzbC1hcHAtMDEvc2VydmljZXMvc2xhc2siIiIKICAgIH0KfQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>ocg.host == 'https://ocplab.lfnet.se'
         ocg.bearerToken == 'bearerToken'
         ocg.resourceUriMap.keySet() == ['configmap', 'deployment', 'route', 'service'] as Set</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvY2cgPSBvY0N1cmwoCiAgICAgICAgICAgICAgICBob3N0OiAnaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UnLAogICAgICAgICAgICAgICAgYmVhcmVyVG9rZW46ICdiZWFyZXJUb2tlbicsCiAgICAgICAgICAgICAgICBuYW1lc3BhY2U6ICdiYW5rLWRzbC1hcHAtMDEnCiAgICAgICAgKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXN0RmlsZSAgOiAnc2UvbGYvc2VydmljZS9tcy5wb2MucmVwb3NpdG9yeS8xLjAueC9tcy5wb2MucmVwb3NpdG9yeS0xLjAueC5qYXInLAo=</text>
+        <text encoding="base64">ICAgICAgICBvY2cgPSBvY0N1cmwoCiAgICAgICAgICAgICAgICBob3N0OiAnaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UnLAogICAgICAgICAgICAgICAgYmVhcmVyVG9rZW46ICdiZWFyZXJUb2tlbicsCiAgICAgICAgICAgICAgICBuYW1lc3BhY2U6ICdiYW5rLWRzbC1hcHAtMDEnCiAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wuL1wvL2dj</text>
       </register>
     </registers>
     <search>
-      <last-search>\.</last-search>
+      <last-search>echo</last-search>
       <last-offset />
-      <last-pattern>\.</last-pattern>
+      <last-pattern>echo</last-pattern>
       <last-replace>\/</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -402,13 +642,11 @@
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
         <entry>Foo</entry>
         <entry>getResourceUri</entry>
         <entry>ban</entry>
         <entry>)</entry>
         <entry>set</entry>
-        <entry>'</entry>
         <entry>ocCurl</entry>
         <entry>curl</entry>
         <entry>DELETE</entry>
@@ -422,6 +660,8 @@
         <entry>hyyps</entry>
         <entry>http</entry>
         <entry>\.</entry>
+        <entry>'</entry>
+        <entry>echo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/;//g</entry>
