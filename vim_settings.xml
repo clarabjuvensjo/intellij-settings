@@ -283,6 +283,13 @@
         <mark key="]" line="22" column="89" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/maven.settings/src/main/resources/settings.xml" timestamp="1584350084652">
+        <mark key="'" line="7" column="16" />
+        <mark key="[" line="101" column="16" />
+        <mark key="]" line="101" column="17" />
+        <mark key="^" line="57" column="30" />
+        <mark key="." line="101" column="17" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/README.md" timestamp="1583950162807">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="58" column="15" />
@@ -487,9 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="18" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" />
-      <jump line="116" column="15" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" />
-      <jump line="100" column="7" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" />
       <jump line="125" column="10" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" />
       <jump line="150" column="11" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" />
       <jump line="152" column="35" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" />
@@ -587,19 +591,22 @@
       <jump line="57" column="31" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" />
       <jump line="61" column="25" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" />
       <jump line="27" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" />
+      <jump line="70" column="63" filename="$USER_HOME$/git-PESCPOC/PESCPOC/maven.settings/src/main/resources/settings.xml" />
+      <jump line="84" column="63" filename="$USER_HOME$/git-PESCPOC/PESCPOC/maven.settings/src/main/resources/settings.xml" />
+      <jump line="7" column="16" filename="$USER_HOME$/git-PESCPOC/PESCPOC/maven.settings/src/main/resources/settings.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'eyJhbGciOiJSUzI1NiIsImtpZCI6IiJ9.eyJpc3MiOiJrdWJlcm5ldGVzL3NlcnZpY2VhY2NvdW50Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9uYW1lc3BhY2UiOiJiYW5rLWRzbC1hcHAtMDEiLCJrdWJlcm5ldGVzLmlvL3NlcnZpY2VhY2NvdW50L3NlY3JldC5uYW1lIjoicm9ib3QtdG9rZW4tNzY4OXoiLCJrdWJlcm5ldGVzLmlvL3NlcnZpY2VhY2NvdW50L3NlcnZpY2UtYWNjb3VudC5uYW1lIjoicm9ib3QiLCJrdWJlcm5ldGVzLmlvL3NlcnZpY2VhY2NvdW50L3NlcnZpY2UtYWNjb3VudC51aWQiOiJmZjFkZDM2NS02MmIzLTExZWEtOTNhYy0wMDUwNTZiZDBiZGMiLCJzdWIiOiJzeXN0ZW06c2VydmljZWFjY291bnQ6YmFuay1kc2wtYXBwLTAxOnJvYm90In0.T5iivoWg1Zu9gfwBWnky54TnVHdnBdEacmrhnb6jIXUcaehXk-hWANR_WDr8M75l_tkLoyN04YzHpn5VHFvTreuKWTAS06f807_m8-i9fUe9y-Eh5znik0fk2VHQUiCjwRY71qCFlD7hULYQPZlivzYS5liPu437GrJqeMwF7DmOp1lqVbKYLZoM5ghffd1otTeAqiaBGlbmriVCWyI0h5oja971ouc6i1ndoODcuaqSra-nQSQkmluDxhvoDO5O4a0RRGYLfSZUPVF3-JJ8KmDyq3bjb5MMeXrdyGdFWk0qZxXctPVmTnsit-8AEHJDM1zEIlv9DOchW-Vnby5Hqw',</text>
+        <text>release</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXJ2aWNlXD4=</text>
+        <text>dev</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y3VybCAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9vY3RldC1zdHJlYW0iIC12IC1YIFBPU1QgLS1kYXRhLWJpbmFyeSAiSGVsbG8gV29ybGQiIGh0dHBzOi8vcG9jLm9jcGxhYi1iYW5rLmxmbmV0LnNlL21zLnBvYy5yZXBvc2l0b3J5LzEuMC9cP3JlZlw9ZGV2ZWxvcFwmcmVzb3VyY2U9L2Jhei50eHQ=</text>
+        <text>http://10.252.224.238:8081/artifactory/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgLy8JbGZfb2NwbGFiX2JlYXJlcl90b2tlbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmFtZT5QRVNDUE9DPC9uYW1lPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -627,37 +634,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmFtZT5QRVNDUE9DPC9uYW1lPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBvY2MgPSBvY0N1cmwoCiAgICAgICAgICAgIGhvc3Q6ICdodHRwczovL29jcGxhYi5sZm5ldC5zZScsCiAgICAgICAgICAgIGJlYXJlclRva2VuOiBiZWFyZXJUb2tlbiwKICAgICAgICAgICAgbmFtZXNwYWNlOiAnYmFuay1kc2wtYXBwLTAxJwogICAgKQoKICAgIGRlZiAoXywgcmVwbywgYnJhbmNoKSA9IGFydGlmYWN0TmFtZS5zcGxpdCgnLycpCiAgICBTdHJpbmcgbmFtZSA9ICIke3JlcG99XyR7YnJhbmNoWzAuLi0zXX0iCiAgICBTdHJpbmcgY3VybENvbW1hbmQKICAgIFN0cmluZyByZXNwb25zZUNvZGUKCgogICAgLy8gT3BlblNoaWZ0IGRlcGxveW1lbnQKICAgIGN1cmxDb21tYW5kID0gb2NjLmdldCgnZGVwbG95bWVudCcsIG5hbWUpCiAgICByZXNwb25zZUNvZGUgPSBzaCBsYWJlbDogIkdldCAkbmFtZSIsIHNjcmlwdDogY3VybENvbW1hbmQsIHJldHVyblN0ZG91dDogdHJ1ZQogICAgZWNobyByZXNwb25zZUNvZGUKICAgIGlmIChyZXNwb25zZUNvZGUgPT0gJzIwMCcpIHsgCiAgICAgICAgZWNobyAnVXBkYXRlIGRlcGxveW1lbnQnCiAgICB9IGVsc2UgewogICAgICAgIGVjaG8gJ0NyZWF0ZSBkZXBsb3ltZW50JwogICAgfQoKICAgIC8vIE9wZW5TaGlmdCBzZXJ2aWNlCiAgICBjdXJsQ29tbWFuZCA9IG9jYy5nZXQoJ3NlcnZpY2UnLCBuYW1lKQogICAgcmVzcG9uc2VDb2RlID0gc2ggbGFiZWw6ICJHZXQgJG5hbWUiLCBzY3JpcHQ6IGN1cmxDb21tYW5kLCByZXR1cm5TdGRvdXQ6IHRydWUKICAgIGVjaG8gcmVzcG9uc2VDb2RlCiAgICBpZiAocmVzcG9uc2VDb2RlID09ICcyMDAnKSB7CiAgICAgICAgZWNobyAnVXBkYXRlIHNlcnZpY2UnCiAgICB9IGVsc2UgewogICAgICAgIGVjaG8gJ0NyZWF0ZSBzZXJ2aWNlJwogICAgfQoKICAgIC8vIE9wZW5TaGlmdCByb3V0ZQogICAgY3VybENvbW1hbmQgPSBvY2MuZ2V0KCdyb3V0ZScsIG5hbWUpCiAgICByZXNwb25zZUNvZGUgPSBzaCBsYWJlbDogIkdldCAkbmFtZSIsIHNjcmlwdDogY3VybENvbW1hbmQsIHJldHVyblN0ZG91dDogdHJ1ZQogICAgZWNobyByZXNwb25zZUNvZGUKICAgIGlmIChyZXNwb25zZUNvZGUgPT0gJzIwMCcpIHsKICAgICAgICBlY2hvICdVcGRhdGUgcm91dGUnCiAgICB9IGVsc2UgewogICAgICAgIGVjaG8gJ0NyZWF0ZSByb3V0ZScKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmFtZT5FVlJZIEN1c3RvbSBTb2x1dGlvbnMgRmluYW5jaWFsIFNlcnZpY2VzIExGRVMgU25hcHNob3QgUmVwb3NpdG9yeTwvbmFtZT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICdVcGRhdGUgZGVwbG95bWVudCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmFtZT5FVlJZIEN1c3RvbSBTb2x1dGlvbnMgRmluYW5jaWFsIFNlcnZpY2VzIExGRVMgUmVsZWFzZSBSZXBvc2l0b3J5PC9uYW1lPgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>EVRY Custom Solutions Financial Services LFES Snapshot Repository</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxyZXBvc2l0b3J5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08L3JlcG9zaXRvcnk+LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhIDogW2JhcjogJ2JhclZhbHVlJywgYmF6OiAnYmF6VmFsdWUnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPC9zbmFwc2hvdHM+LS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXRhZGF0YTogW25hbWU6IG5hbWVdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTx1cGRhdGVQb2xpY3k+YWx3YXlzPC91cGRhdGVQb2xpY3k+LS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wuL1wvL2dj</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXJ2aWNlXD4=</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXJ2aWNlXD4=</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-replace>\/</last-replace>
       <last-substitute>\.</last-substitute>
       <last-dir>1</last-dir>
@@ -665,9 +672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
-        <entry>ocCurl</entry>
-        <entry>curl</entry>
         <entry>DELETE</entry>
         <entry>Create</entry>
         <entry>POST</entry>
@@ -677,7 +681,6 @@
         <entry>bear</entry>
         <entry>&quot;</entry>
         <entry>hyyps</entry>
-        <entry>http</entry>
         <entry>\.</entry>
         <entry>'</entry>
         <entry>echo</entry>
@@ -685,6 +688,10 @@
         <entry encoding="base64">XDxhcnRpZmFjdFw+</entry>
         <entry encoding="base64">XDxkZXBsb3ltZW50XD4=</entry>
         <entry encoding="base64">XDxzZXJ2aWNlXD4=</entry>
+        <entry>http</entry>
+        <entry>edb</entry>
+        <entry encoding="base64">PA==</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd>
         <entry>%s/;//g</entry>
